@@ -624,10 +624,6 @@ def generate_readme(all_weather, update_time):
 | 🐍 Script | `update_weather.py` com `requests` + `pytz` |
 | 🏙️ Cidades | 12 cidades em 6 continentes |
 
-> 🔄 Este dashboard é atualizado automaticamente via GitHub Actions.  
-> Cada execução gera SVGs animados, atualiza o histórico CSV e reescreve este README.  
-> Os commits automáticos contribuem para o gráfico de atividade do perfil.
-
 ---
 
 <div align="center">
