@@ -89,13 +89,13 @@
         <text x="25" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="18" 
             font-weight="700" fill="#E8EAF6">Rio de Janeiro, Brasil</text>
         <text x="25" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="11" 
-            fill="#B0BEC5">América do Sul · 20:44 · NOITE 🌙</text>
+            fill="#B0BEC5">América do Sul · 18:37 · NOITE 🌙</text>
         
         <!-- Temperature -->
         <text x="25" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="52" 
-            font-weight="800" fill="#E8EAF6">24°C</text>
+            font-weight="800" fill="#E8EAF6">23°C</text>
         <text x="25" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="13" 
-            fill="#B0BEC5">Sensação 28°C</text>
+            fill="#B0BEC5">Sensação 26°C</text>
         
         <!-- Condition emoji & text -->
         <text x="250" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="36">☁️</text>
@@ -104,12 +104,12 @@
         
         <!-- Details -->
         <text x="25" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#78909C">
-            💧 Umidade: 83%   💨 Vento: 2 km/h   🌡️ Mín 22° / Máx 29°
+            💧 Umidade: 88%   💨 Vento: 8 km/h   🌡️ Mín 22° / Máx 26°
         </text>
         
         <!-- Sunrise / Sunset -->
         <text x="25" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#78909C">
-            🌅 06:19  →  🌇 17:18
+            🌅 06:20  →  🌇 17:18
         </text>
         
         <!-- Day Progress Bar -->
@@ -120,6 +120,6 @@
         
         <!-- Footer -->
         <text x="25" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="10" 
-            fill="#78909C">📍 -22.91, -43.17 · Atualizado: 2026-05-17 20:44</text>
+            fill="#78909C">📍 -22.91, -43.17 · Atualizado: 2026-05-18 18:37</text>
     </g>
 </svg>

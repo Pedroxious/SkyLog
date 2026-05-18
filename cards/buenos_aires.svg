@@ -87,13 +87,13 @@
         <text x="25" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="18" 
             font-weight="700" fill="#E8EAF6">Buenos Aires, Argentina</text>
         <text x="25" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="11" 
-            fill="#B0BEC5">América do Sul · 20:44 · NOITE 🌙</text>
+            fill="#B0BEC5">América do Sul · 18:37 · NOITE 🌙</text>
         
         <!-- Temperature -->
         <text x="25" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="52" 
-            font-weight="800" fill="#E8EAF6">10°C</text>
+            font-weight="800" fill="#E8EAF6">13°C</text>
         <text x="25" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="13" 
-            fill="#B0BEC5">Sensação 8°C</text>
+            fill="#B0BEC5">Sensação 10°C</text>
         
         <!-- Condition emoji & text -->
         <text x="250" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="36">☀️</text>
@@ -102,12 +102,12 @@
         
         <!-- Details -->
         <text x="25" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#78909C">
-            💧 Umidade: 63%   💨 Vento: 7 km/h   🌡️ Mín 8° / Máx 13°
+            💧 Umidade: 52%   💨 Vento: 7 km/h   🌡️ Mín 5° / Máx 15°
         </text>
         
         <!-- Sunrise / Sunset -->
         <text x="25" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#78909C">
-            🌅 07:42  →  🌇 17:58
+            🌅 07:42  →  🌇 17:57
         </text>
         
         <!-- Day Progress Bar -->
@@ -118,6 +118,6 @@
         
         <!-- Footer -->
         <text x="25" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="10" 
-            fill="#78909C">📍 -34.60, -58.38 · Atualizado: 2026-05-17 20:44</text>
+            fill="#78909C">📍 -34.60, -58.38 · Atualizado: 2026-05-18 18:37</text>
     </g>
 </svg>

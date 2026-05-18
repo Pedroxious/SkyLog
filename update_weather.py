@@ -110,29 +110,29 @@ def get_temp_palette(temp):
 def get_condition_image(weather_code, is_day):
     """Return the correct condition image based on weather code and strictly day/night context."""
     if weather_code == 0:
-        emoji, desc, condition_key, img = "☀️", "Céu limpo", "limpo", ("Limpo.webp" if is_day else "FullMoonClear.webp")
+        emoji, desc, condition_key, img = "☀️", "Céu limpo", "limpo", ("DayClear.webp" if is_day else "NightFullMoonClear.webp")
     elif weather_code == 1:
-        emoji, desc, condition_key, img = "🌤️", "Principalmente limpo", "limpo", ("ParcialLimpo.webp" if is_day else "WaningMoonClear.webp")
+        emoji, desc, condition_key, img = "🌤️", "Principalmente limpo", "limpo", ("DayPartialClean.webp" if is_day else "NightPartialClean.webp")
     elif weather_code == 2:
-        emoji, desc, condition_key, img = "⛅", "Parcialmente nublado", "nublado", ("ParcialNublado.webp" if is_day else "MoonCloudsFog.webp")
+        emoji, desc, condition_key, img = "⛅", "Parcialmente nublado", "nublado", ("DayPartialCloudy.webp" if is_day else "NightPartialCloudy.webp")
     elif weather_code == 3:
-        emoji, desc, condition_key, img = "☁️", "Nublado", "nublado", ("Nublado.webp" if is_day else "OvercastNight.webp")
+        emoji, desc, condition_key, img = "☁️", "Nublado", "nublado", ("DayCumulusCongestus.webp" if is_day else "NightOvercast.webp")
     elif weather_code in (45, 48):
-        emoji, desc, condition_key, img = "🌫️", "Neblina", "neblina", ("Cerracao.webp" if is_day else "MoonCloudsFog.webp")
+        emoji, desc, condition_key, img = "🌫️", "Neblina", "neblina", ("DayFog.webp" if is_day else "Mist.webp")
     elif weather_code in (51, 53, 55):
-        emoji, desc, condition_key, img = "🌦️", "Chuvisco", "chuva", ("Chuvisco.webp" if is_day else "NightRain.webp")
+        emoji, desc, condition_key, img = "🌦️", "Chuvisco", "chuva", ("drizzle.webp" if is_day else "NightRain.webp")
     elif weather_code in (61, 63, 65, 80):
-        emoji, desc, condition_key, img = "🌧️", "Chuva", "chuva", ("Chuva.webp" if is_day else "NightRain.webp")
+        emoji, desc, condition_key, img = "🌧️", "Chuva", "chuva", ("DayRain.webp" if is_day else "NightRain.webp")
     elif weather_code in (56, 57, 66, 67, 71, 73, 75, 85):
-        emoji, desc, condition_key, img = "🌨️", "Frio/Neve", "chuva", "Geada.webp"
+        emoji, desc, condition_key, img = "🌨️", "Frio/Neve", "chuva", "LightSnowfall.webp"
     elif weather_code in (77, 86, 96):
-        emoji, desc, condition_key, img = "🌨️", "Granizo", "tempestade", "Granizo.webp"
+        emoji, desc, condition_key, img = "🌨️", "Granizo", "tempestade", "RainHail.webp"
     elif weather_code in (81, 82, 95):
-        emoji, desc, condition_key, img = "⛈️", "Tempestade", "tempestade", "Tempestade.webp"
+        emoji, desc, condition_key, img = "⛈️", "Tempestade", "tempestade", "Storm.webp"
     elif weather_code == 99:
         emoji, desc, condition_key, img = "🌪️", "Tornado", "tempestade", "Tornado.webp"
     else:
-        emoji, desc, condition_key, img = "❓", "Desconhecido", "nublado", "Nublado.webp"
+        emoji, desc, condition_key, img = "❓", "Desconhecido", "nublado", "DayCumulus Formations.webp"
         
     return emoji, desc, condition_key, img
 

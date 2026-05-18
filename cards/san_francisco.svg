@@ -72,13 +72,13 @@
         <text x="25" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="18" 
             font-weight="700" fill="#1a1a2e">San Francisco, EUA</text>
         <text x="25" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="11" 
-            fill="#333355">América do Norte · 16:44 · DIA ☀️</text>
+            fill="#333355">América do Norte · 14:37 · DIA ☀️</text>
         
         <!-- Temperature -->
         <text x="25" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="52" 
-            font-weight="800" fill="#1a1a2e">24°C</text>
+            font-weight="800" fill="#1a1a2e">27°C</text>
         <text x="25" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="13" 
-            fill="#333355">Sensação 19°C</text>
+            fill="#333355">Sensação 24°C</text>
         
         <!-- Condition emoji & text -->
         <text x="250" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="36">☀️</text>
@@ -87,22 +87,22 @@
         
         <!-- Details -->
         <text x="25" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#555577">
-            💧 Umidade: 24%   💨 Vento: 27 km/h   🌡️ Mín 10° / Máx 24°
+            💧 Umidade: 13%   💨 Vento: 14 km/h   🌡️ Mín 17° / Máx 27°
         </text>
         
         <!-- Sunrise / Sunset -->
         <text x="25" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#555577">
-            🌅 05:57  →  🌇 20:14
+            🌅 05:57  →  🌇 20:15
         </text>
         
         <!-- Day Progress Bar -->
         <rect x="25" y="210" width="400" height="6" rx="3" fill="rgba(128,128,128,0.2)"/>
-        <rect x="25" y="210" width="302" height="6" rx="3" fill="#FFD54F"/>
+        <rect x="25" y="210" width="242" height="6" rx="3" fill="#FFD54F"/>
         <text x="430" y="215" font-family="Segoe UI, Arial, sans-serif" font-size="10" 
-            fill="#555577">76%</text>
+            fill="#555577">61%</text>
         
         <!-- Footer -->
         <text x="25" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="10" 
-            fill="#555577">📍 37.77, -122.42 · Atualizado: 2026-05-17 16:44</text>
+            fill="#555577">📍 37.77, -122.42 · Atualizado: 2026-05-18 14:37</text>
     </g>
 </svg>
