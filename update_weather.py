@@ -43,16 +43,8 @@ CIDADES = [
 # ============================================================
 
 # ============================================================
-# TEMPERATURE PALETTE — gradient colors by temperature range
+# DYNAMIC BACKGROUND PALETTES — based on time, condition, and temp
 # ============================================================
-TEMP_PALETTES = [
-    (-999,  5, "#0D1B2A", "#1B4F72"),   # Azul gelo profundo
-    (5,    15, "#1A237E", "#4FC3F7"),    # Azul frio
-    (15,   22, "#1B5E20", "#A5D6A7"),    # Verde ameno
-    (22,   29, "#F9A825", "#FFF9C4"),    # Amarelo/laranja suave
-    (29,   36, "#E65100", "#FFCC80"),    # Laranja quente
-    (36, 9999, "#B71C1C", "#FF8A65"),    # Vermelho intenso
-]
 
 # ============================================================
 # DAYTIME MAPPING — determines which image shows based on hour
@@ -99,12 +91,32 @@ def get_daytime_image(hour):
     return "Night.jpeg", "🌙 Noite"
 
 
-def get_temp_palette(temp):
-    """Return gradient colors based on temperature."""
-    for low, high, c1, c2 in TEMP_PALETTES:
-        if low <= temp < high:
-            return c1, c2
-    return "#1A237E", "#4FC3F7"
+def get_bg_palette(temp, condition_key, is_day):
+    """Return an intelligent background gradient depending on weather, time, and temp."""
+    if not is_day:
+        if condition_key in ("chuva", "tempestade"):
+            return "#141E30", "#243B55" # Dark scary night
+        else:
+            return "#0f2027", "#203a43" # Moonlit crisp night
+    else:
+        if condition_key == "tempestade":
+            return "#373B44", "#4286f4" # Stormy day
+        elif condition_key == "chuva":
+            return "#606c88", "#3f4c6b" # Rainy mood
+        elif condition_key == "neblina":
+            return "#757F9A", "#D7DDE8" # Foggy
+        
+        # Clear or cloudy -> Temp-based
+        if temp < 5:
+            return "#E0EAFC", "#CFDEF3" # Freezing day
+        elif temp < 15:
+            return "#36D1DC", "#5B86E5" # Cool day
+        elif temp < 25:
+            return "#56CCF2", "#2F80ED" # Perfect day
+        elif temp < 32:
+            return "#FFB75E", "#ED8F03" # Warm day
+        else:
+            return "#FF4E50", "#F9D423" # Hot day
 
 
 def get_condition_image(weather_code, is_day):
@@ -182,7 +194,7 @@ def parse_weather(city, data):
 
     weather_code = current.get("weather_code", 0)
     emoji, condition_desc, condition_key, condition_img = get_condition_image(weather_code, is_day)
-    color1, color2 = get_temp_palette(current["temperature_2m"])
+    color1, color2 = get_bg_palette(current["temperature_2m"], condition_key, is_day)
 
     return {
         "city_name": city["nome"],
@@ -339,22 +351,18 @@ def generate_svg_card(w):
     bg1 = w["color1"]
     bg2 = w["color2"]
     
-    # Text colors based on theme
-    if is_day:
-        text_main = "#1a1a2e"
-        text_secondary = "#333355"
-        text_light = "#555577"
-    else:
-        text_main = "#E8EAF6"
-        text_secondary = "#B0BEC5"
-        text_light = "#78909C"
+    # Text colors are now fully unified using drop shadows for pristine clarity
+    text_main = "#FFFFFF"
+    text_secondary = "#F0F0F0"
+    text_light = "#E0E0E0"
+    font_fam = "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
     
     styles = generate_svg_styles(is_day, condition_key)
     animations = generate_weather_animations(condition_key, is_day)
     
     # Day progress bar
     progress_width = int(w["day_progress"] * 4.0)  # max 400px
-    progress_color = "#FFD54F" if is_day else "#5C6BC0"
+    progress_color = "#FFD54F" if is_day else "#81D4FA"
     day_label = "DIA ☀️" if is_day else "NOITE 🌙"
     
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="500" height="280" viewBox="0 0 500 280">
@@ -367,10 +375,17 @@ def generate_svg_card(w):
         <clipPath id="rounded">
             <rect x="0" y="0" width="500" height="280" rx="20" ry="20"/>
         </clipPath>
+        <!-- High-fidelity Drop Shadow for ultimate readability -->
+        <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+            <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.75"/>
+        </filter>
+        <filter id="light-shadow" x="-20%" y="-20%" width="140%" height="140%">
+            <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.6"/>
+        </filter>
     </defs>
     
     <!-- Shadow -->
-    <rect x="4" y="4" width="500" height="280" rx="20" ry="20" fill="rgba(0,0,0,0.15)"/>
+    <rect x="4" y="4" width="500" height="280" rx="20" ry="20" fill="rgba(0,0,0,0.2)"/>
     
     <!-- Background -->
     <g clip-path="url(#rounded)">
@@ -380,41 +395,41 @@ def generate_svg_card(w):
         {animations}
         
         <!-- City name & country -->
-        <text x="25" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="18" 
-            font-weight="700" fill="{text_main}">{w["city_name"]}, {w["country"]}</text>
-        <text x="25" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="11" 
-            fill="{text_secondary}">{w["continent"]} · {w["local_time"]} · {day_label}</text>
+        <text x="25" y="38" font-family="{font_fam}" font-size="20" 
+            font-weight="800" fill="{text_main}" filter="url(#shadow)">{w["city_name"]}, {w["country"]}</text>
+        <text x="25" y="58" font-family="{font_fam}" font-size="12" font-weight="500"
+            fill="{text_secondary}" filter="url(#light-shadow)">{w["continent"]} · {w["local_time"]} · {day_label}</text>
         
         <!-- Temperature -->
-        <text x="25" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="52" 
-            font-weight="800" fill="{text_main}">{w["temp"]:.0f}°C</text>
-        <text x="25" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="13" 
-            fill="{text_secondary}">Sensação {w["feels_like"]:.0f}°C</text>
+        <text x="25" y="115" font-family="{font_fam}" font-size="56" 
+            font-weight="900" fill="{text_main}" filter="url(#shadow)">{w["temp"]:.0f}°C</text>
+        <text x="25" y="138" font-family="{font_fam}" font-size="14" font-weight="500"
+            fill="{text_secondary}" filter="url(#light-shadow)">Sensação {w["feels_like"]:.0f}°C</text>
         
         <!-- Condition emoji & text -->
-        <text x="250" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="36">{w["emoji"]}</text>
-        <text x="250" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="12" 
-            fill="{text_secondary}">{w["condition"]}</text>
+        <text x="260" y="105" font-family="{font_fam}" font-size="44" filter="url(#shadow)">{w["emoji"]}</text>
+        <text x="260" y="132" font-family="{font_fam}" font-size="15" font-weight="600"
+            fill="{text_main}" filter="url(#shadow)">{w["condition"]}</text>
         
         <!-- Details -->
-        <text x="25" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="{text_light}">
+        <text x="25" y="175" font-family="{font_fam}" font-size="13" font-weight="500" fill="{text_light}" filter="url(#light-shadow)">
             💧 Umidade: {w["humidity"]}%   💨 Vento: {w["wind"]:.0f} km/h   🌡️ Mín {w["temp_min"]:.0f}° / Máx {w["temp_max"]:.0f}°
         </text>
         
         <!-- Sunrise / Sunset -->
-        <text x="25" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="{text_light}">
-            🌅 {w["sunrise"][-5:]}  →  🌇 {w["sunset"][-5:]}
+        <text x="25" y="195" font-family="{font_fam}" font-size="12" font-weight="500" fill="{text_light}" filter="url(#light-shadow)">
+            🌅 Nascer: {w["sunrise"][-5:]}  →  🌇 Pôr do sol: {w["sunset"][-5:]}
         </text>
         
         <!-- Day Progress Bar -->
-        <rect x="25" y="210" width="400" height="6" rx="3" fill="rgba(128,128,128,0.2)"/>
-        <rect x="25" y="210" width="{progress_width}" height="6" rx="3" fill="{progress_color}"/>
-        <text x="430" y="215" font-family="Segoe UI, Arial, sans-serif" font-size="10" 
-            fill="{text_light}">{w["day_progress"]:.0f}%</text>
+        <rect x="25" y="215" width="400" height="8" rx="4" fill="rgba(0,0,0,0.3)"/>
+        <rect x="25" y="215" width="{progress_width}" height="8" rx="4" fill="{progress_color}"/>
+        <text x="435" y="222" font-family="{font_fam}" font-size="11" font-weight="700"
+            fill="{text_main}" filter="url(#shadow)">{w["day_progress"]:.0f}%</text>
         
         <!-- Footer -->
-        <text x="25" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="10" 
-            fill="{text_light}">📍 {w["lat"]:.2f}, {w["lon"]:.2f} · Atualizado: {w["local_datetime"]}</text>
+        <text x="25" y="262" font-family="{font_fam}" font-size="10" font-weight="500"
+            fill="{text_light}" filter="url(#light-shadow)">📍 {w["lat"]:.2f}, {w["lon"]:.2f} · Atualizado: {w["local_datetime"]}</text>
     </g>
 </svg>'''
     

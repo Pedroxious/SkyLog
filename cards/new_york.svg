@@ -47,16 +47,23 @@
     </style>
     <defs>
         <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" style="stop-color:#F9A825"/>
-            <stop offset="100%" style="stop-color:#FFF9C4"/>
+            <stop offset="0%" style="stop-color:#FFB75E"/>
+            <stop offset="100%" style="stop-color:#ED8F03"/>
         </linearGradient>
         <clipPath id="rounded">
             <rect x="0" y="0" width="500" height="280" rx="20" ry="20"/>
         </clipPath>
+        <!-- High-fidelity Drop Shadow for ultimate readability -->
+        <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+            <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.75"/>
+        </filter>
+        <filter id="light-shadow" x="-20%" y="-20%" width="140%" height="140%">
+            <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.6"/>
+        </filter>
     </defs>
     
     <!-- Shadow -->
-    <rect x="4" y="4" width="500" height="280" rx="20" ry="20" fill="rgba(0,0,0,0.15)"/>
+    <rect x="4" y="4" width="500" height="280" rx="20" ry="20" fill="rgba(0,0,0,0.2)"/>
     
     <!-- Background -->
     <g clip-path="url(#rounded)">
@@ -69,40 +76,40 @@
         
         
         <!-- City name & country -->
-        <text x="25" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="18" 
-            font-weight="700" fill="#1a1a2e">New York, EUA</text>
-        <text x="25" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="11" 
-            fill="#333355">América do Norte · 17:37 · DIA ☀️</text>
+        <text x="25" y="38" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" 
+            font-weight="800" fill="#FFFFFF" filter="url(#shadow)">New York, EUA</text>
+        <text x="25" y="58" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500"
+            fill="#F0F0F0" filter="url(#light-shadow)">América do Norte · 18:06 · DIA ☀️</text>
         
         <!-- Temperature -->
-        <text x="25" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="52" 
-            font-weight="800" fill="#1a1a2e">27°C</text>
-        <text x="25" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="13" 
-            fill="#333355">Sensação 26°C</text>
+        <text x="25" y="115" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="56" 
+            font-weight="900" fill="#FFFFFF" filter="url(#shadow)">27°C</text>
+        <text x="25" y="138" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500"
+            fill="#F0F0F0" filter="url(#light-shadow)">Sensação 27°C</text>
         
         <!-- Condition emoji & text -->
-        <text x="250" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="36">☀️</text>
-        <text x="250" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="12" 
-            fill="#333355">Céu limpo</text>
+        <text x="260" y="105" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" filter="url(#shadow)">☀️</text>
+        <text x="260" y="132" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600"
+            fill="#FFFFFF" filter="url(#shadow)">Céu limpo</text>
         
         <!-- Details -->
-        <text x="25" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#555577">
-            💧 Umidade: 45%   💨 Vento: 21 km/h   🌡️ Mín 21° / Máx 31°
+        <text x="25" y="175" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" fill="#E0E0E0" filter="url(#light-shadow)">
+            💧 Umidade: 56%   💨 Vento: 19 km/h   🌡️ Mín 21° / Máx 31°
         </text>
         
         <!-- Sunrise / Sunset -->
-        <text x="25" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#555577">
-            🌅 05:35  →  🌇 20:09
+        <text x="25" y="195" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" fill="#E0E0E0" filter="url(#light-shadow)">
+            🌅 Nascer: 05:35  →  🌇 Pôr do sol: 20:09
         </text>
         
         <!-- Day Progress Bar -->
-        <rect x="25" y="210" width="400" height="6" rx="3" fill="rgba(128,128,128,0.2)"/>
-        <rect x="25" y="210" width="330" height="6" rx="3" fill="#FFD54F"/>
-        <text x="430" y="215" font-family="Segoe UI, Arial, sans-serif" font-size="10" 
-            fill="#555577">83%</text>
+        <rect x="25" y="215" width="400" height="8" rx="4" fill="rgba(0,0,0,0.3)"/>
+        <rect x="25" y="215" width="344" height="8" rx="4" fill="#FFD54F"/>
+        <text x="435" y="222" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700"
+            fill="#FFFFFF" filter="url(#shadow)">86%</text>
         
         <!-- Footer -->
-        <text x="25" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="10" 
-            fill="#555577">📍 40.71, -74.01 · Atualizado: 2026-05-18 17:37</text>
+        <text x="25" y="262" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="500"
+            fill="#E0E0E0" filter="url(#light-shadow)">📍 40.71, -74.01 · Atualizado: 2026-05-18 18:06</text>
     </g>
 </svg>
