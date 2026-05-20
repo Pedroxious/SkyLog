@@ -162,3 +162,15 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-05-20 01:01,Paris,França,Europa,14.9,13.6,13.0,21.3,81,12.4,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-05-20T06:02,2026-05-20T21:31
 2026-05-20 08:01,Tokyo,Japão,Ásia,19.7,21.9,15.6,28.8,82,1.1,0.0,0,Céu limpo,DayClear.webp,1,2026-05-20T04:32,2026-05-20T18:43
 2026-05-20 03:01,Dubai,Emirados Árabes,Oriente Médio,27.0,26.8,26.4,37.5,45,10.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-05-20T05:31,2026-05-20T18:58
+2026-05-20 00:24,São Paulo,Brasil,América do Sul,15.6,16.3,14.7,19.8,92,4.2,0.0,3,Nublado,NightOvercast.webp,0,2026-05-20T06:35,2026-05-20T17:30
+2026-05-20 00:24,Rio de Janeiro,Brasil,América do Sul,21.6,24.8,20.7,22.4,96,7.3,0.0,3,Nublado,NightOvercast.webp,0,2026-05-20T06:21,2026-05-20T17:17
+2026-05-20 00:24,Buenos Aires,Argentina,América do Sul,11.1,8.5,7.4,14.3,66,9.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-05-20T07:44,2026-05-20T17:56
+2026-05-19 21:24,Mexico City,México,América Central,19.8,19.3,14.6,27.2,58,5.8,0.0,3,Nublado,NightOvercast.webp,0,2026-05-19T05:59,2026-05-19T19:06
+2026-05-19 23:24,New York,EUA,América do Norte,27.1,27.1,22.1,34.6,51,14.8,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-05-19T05:35,2026-05-19T20:09
+2026-05-19 20:24,San Francisco,EUA,América do Norte,19.9,16.0,11.8,28.8,34,15.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-05-19T05:56,2026-05-19T20:16
+2026-05-20 04:24,London,Reino Unido,Europa,13.2,10.2,13.1,19.4,75,19.1,0.0,3,Nublado,NightOvercast.webp,0,2026-05-20T05:01,2026-05-20T20:52
+2026-05-20 05:24,Paris,França,Europa,13.4,12.1,13.4,20.6,84,10.5,0.0,3,Nublado,NightOvercast.webp,0,2026-05-20T06:02,2026-05-20T21:31
+2026-05-20 12:24,Tokyo,Japão,Ásia,27.8,32.1,16.3,28.1,56,5.4,0.0,0,Céu limpo,DayClear.webp,1,2026-05-20T04:32,2026-05-20T18:43
+2026-05-20 07:24,Dubai,Emirados Árabes,Oriente Médio,29.0,27.5,26.8,37.2,30,9.6,0.0,0,Céu limpo,DayClear.webp,1,2026-05-20T05:31,2026-05-20T18:58
+2026-05-20 06:24,Cairo,Egito,África,20.2,19.9,20.3,29.0,57,5.1,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-05-20T05:58,2026-05-20T19:44
+2026-05-20 13:24,Sydney,Austrália,Oceania,18.0,15.4,12.1,18.1,48,12.8,0.0,0,Céu limpo,DayClear.webp,1,2026-05-20T06:43,2026-05-20T16:59
