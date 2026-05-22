@@ -374,3 +374,11 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-05-22 18:35,Dubai,Emirados Árabes,Oriente Médio,33.0,35.7,26.3,36.2,43,3.6,0.0,0,Céu limpo,DayClear.webp,1,2026-05-22T05:31,2026-05-22T18:59
 2026-05-22 17:35,Cairo,Egito,África,29.4,27.9,17.8,29.7,27,7.4,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-05-22T05:57,2026-05-22T19:45
 2026-05-23 00:35,Sydney,Austrália,Oceania,16.7,15.1,16.1,19.1,79,17.0,0.1,51,Chuvisco,NightRain.webp,0,2026-05-23T06:45,2026-05-23T16:58
+2026-05-22 14:50,São Paulo,Brasil,América do Sul,15.5,14.8,13.2,15.6,83,10.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-05-22T06:36,2026-05-22T17:29
+2026-05-22 14:50,Rio de Janeiro,Brasil,América do Sul,21.0,22.5,18.8,21.3,80,8.2,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-05-22T06:21,2026-05-22T17:17
+2026-05-22 14:50,Buenos Aires,Argentina,América do Sul,11.4,9.5,4.8,11.8,64,5.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-05-22T07:45,2026-05-22T17:55
+2026-05-22 11:50,Mexico City,México,América Central,24.6,26.3,13.4,26.9,31,1.6,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-05-22T05:58,2026-05-22T19:07
+2026-05-22 13:50,New York,EUA,América do Norte,20.2,18.3,12.2,20.6,31,15.9,0.0,0,Céu limpo,DayClear.webp,1,2026-05-22T05:32,2026-05-22T20:12
+2026-05-22 10:50,San Francisco,EUA,América do Norte,13.6,13.0,8.7,17.2,88,9.0,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-05-22T05:54,2026-05-22T20:18
+2026-05-22 18:50,London,Reino Unido,Europa,26.8,25.0,16.1,28.0,37,14.0,0.0,0,Céu limpo,DayClear.webp,1,2026-05-22T04:58,2026-05-22T20:55
+2026-05-22 19:50,Paris,França,Europa,28.2,27.0,14.2,28.8,32,8.2,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-05-22T06:00,2026-05-22T21:34
