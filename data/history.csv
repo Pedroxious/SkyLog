@@ -500,3 +500,14 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-05-23 20:57,Dubai,Emirados Árabes,Oriente Médio,28.9,32.1,27.5,35.5,65,10.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-05-23T05:30,2026-05-23T19:00
 2026-05-23 19:57,Cairo,Egito,África,28.1,25.5,20.1,31.1,28,13.7,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-05-23T05:57,2026-05-23T19:46
 2026-05-24 02:57,Sydney,Austrália,Oceania,16.5,16.2,14.1,20.0,79,8.2,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-05-24T06:46,2026-05-24T16:57
+2026-05-23 16:06,São Paulo,Brasil,América do Sul,20.4,21.8,14.4,21.0,76,4.7,0.1,51,Chuvisco,drizzle.webp,1,2026-05-23T06:37,2026-05-23T17:29
+2026-05-23 16:06,Rio de Janeiro,Brasil,América do Sul,24.5,26.8,19.3,25.3,75,9.3,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-05-23T06:22,2026-05-23T17:16
+2026-05-23 16:06,Buenos Aires,Argentina,América do Sul,13.2,11.0,8.6,13.3,57,6.2,0.0,0,Céu limpo,DayClear.webp,1,2026-05-23T07:46,2026-05-23T17:54
+2026-05-23 13:06,Mexico City,México,América Central,24.4,26.5,13.4,25.4,36,2.9,0.0,0,Céu limpo,DayClear.webp,1,2026-05-23T05:58,2026-05-23T19:07
+2026-05-23 15:07,New York,EUA,América do Norte,11.5,8.9,10.1,13.6,80,15.1,0.2,53,Chuvisco,drizzle.webp,1,2026-05-23T05:31,2026-05-23T20:13
+2026-05-23 12:07,San Francisco,EUA,América do Norte,15.6,13.9,11.4,17.0,78,19.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-05-23T05:53,2026-05-23T20:19
+2026-05-23 20:07,London,Reino Unido,Europa,27.3,26.4,20.3,29.7,40,11.2,0.0,0,Céu limpo,DayClear.webp,1,2026-05-23T04:57,2026-05-23T20:56
+2026-05-23 21:07,Paris,França,Europa,28.8,28.5,16.0,31.6,35,6.3,0.0,0,Céu limpo,DayClear.webp,1,2026-05-23T05:59,2026-05-23T21:35
+2026-05-24 04:07,Tokyo,Japão,Ásia,13.4,13.1,13.4,21.2,88,4.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-05-24T04:30,2026-05-24T18:46
+2026-05-23 23:07,Dubai,Emirados Árabes,Oriente Médio,28.1,30.9,27.5,35.5,65,11.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-05-23T05:30,2026-05-23T19:00
+2026-05-23 22:07,Cairo,Egito,África,24.7,23.7,20.1,31.1,48,12.7,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-05-23T05:57,2026-05-23T19:46
