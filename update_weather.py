@@ -755,7 +755,7 @@ def generate_city_section(w):
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="cards/{w['slug']}.svg" alt="Card {w['city_name']}"/>
+      <img src="cards/{w['slug']}.svg?v=2" alt="Card {w['city_name']}"/>
     </td>
     <td align="center" width="50%">
       <img src="conditions/{w['condition_img']}" width="380" alt="Condição em tempo real {w['condition']}"/>
