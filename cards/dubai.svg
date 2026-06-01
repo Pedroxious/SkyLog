@@ -121,7 +121,7 @@
         <text x="25" y="38" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" 
             font-weight="800" fill="#FFFFFF" filter="url(#shadow)">Dubai, Emirados Árabes</text>
         <text x="25" y="56" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500"
-            fill="#F1F5F9" filter="url(#light-shadow)">Oriente Médio · 20:33 · Noite</text>
+            fill="#F1F5F9" filter="url(#light-shadow)">Oriente Médio · 20:35 · Noite</text>
         
         <!-- Current Conditions (Left) -->
         <text x="25" y="118" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" 

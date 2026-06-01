@@ -101,7 +101,7 @@
         <text x="25" y="38" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" 
             font-weight="800" fill="#FFFFFF" filter="url(#shadow)">Sydney, Austrália</text>
         <text x="25" y="56" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500"
-            fill="#F1F5F9" filter="url(#light-shadow)">Oceania · 02:33 · Noite</text>
+            fill="#F1F5F9" filter="url(#light-shadow)">Oceania · 02:35 · Noite</text>
         
         <!-- Current Conditions (Left) -->
         <text x="25" y="118" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" 
