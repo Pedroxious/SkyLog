@@ -2430,3 +2430,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-06 00:46,Dubai,Emirados Árabes,Oriente Médio,29.3,33.7,27.9,37.1,72,11.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-06T05:28,2026-06-06T19:06,1000.3,0.0,14.9,0,196
 2026-06-05 23:46,Cairo,Egito,África,27.3,26.5,21.8,35.9,34,5.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-05T05:53,2026-06-05T19:53,1013.8,0.0,45.4,0,37
 2026-06-06 06:46,Sydney,Austrália,Oceania,8.6,5.2,8.6,17.6,78,14.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-06T06:54,2026-06-06T16:53,1023.5,0.0,8.8,1,269
+2026-06-05 19:10,São Paulo,Brasil,América do Sul,15.2,14.8,11.5,21.0,84,7.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-06-05T06:42,2026-06-05T17:27,1023.7,0.0,26.3,24,142
+2026-06-05 19:10,Rio de Janeiro,Brasil,América do Sul,19.3,20.8,17.4,22.0,83,5.2,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-06-05T06:28,2026-06-05T17:14,1023.4,0.0,26.5,23,96
+2026-06-05 19:10,Buenos Aires,Argentina,América do Sul,14.3,14.8,13.6,16.9,96,4.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-05T07:54,2026-06-05T17:50,1019.2,0.0,34.9,16,43
+2026-06-05 16:10,Mexico City,México,América Central,22.6,22.3,13.3,22.6,49,4.8,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-06-05T05:57,2026-06-05T19:12,1010.1,0.9,7.6,72,248
+2026-06-05 18:10,Havana,Cuba,América Central,27.8,30.7,23.9,30.4,73,15.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-05T06:43,2026-06-05T20:12,1014.8,0.9,41.2,100,62
+2026-06-05 18:10,Miami,EUA,América do Norte,25.7,28.3,23.1,27.7,73,10.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-05T06:28,2026-06-05T20:09,1017.7,3.2,22.5,100,49
+2026-06-05 18:10,New York,EUA,América do Norte,29.4,27.9,17.3,32.5,36,16.4,0.0,0,Céu limpo,DayClear.webp,1,2026-06-05T05:25,2026-06-05T20:23,1013.5,2.9,52.3,15,151
+2026-06-05 23:10,London,Reino Unido,Europa,14.5,11.8,12.4,18.5,58,12.6,0.0,3,Nublado,NightOvercast.webp,0,2026-06-05T04:46,2026-06-05T21:12,1012.2,0.0,29.6,100,184
+2026-06-06 00:10,Paris,França,Europa,16.1,14.4,13.8,22.0,53,5.8,0.0,3,Nublado,NightOvercast.webp,0,2026-06-06T05:48,2026-06-06T21:49,1015.0,0.0,41.2,100,150
