@@ -2439,3 +2439,11 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-05 18:10,New York,EUA,América do Norte,29.4,27.9,17.3,32.5,36,16.4,0.0,0,Céu limpo,DayClear.webp,1,2026-06-05T05:25,2026-06-05T20:23,1013.5,2.9,52.3,15,151
 2026-06-05 23:10,London,Reino Unido,Europa,14.5,11.8,12.4,18.5,58,12.6,0.0,3,Nublado,NightOvercast.webp,0,2026-06-05T04:46,2026-06-05T21:12,1012.2,0.0,29.6,100,184
 2026-06-06 00:10,Paris,França,Europa,16.1,14.4,13.8,22.0,53,5.8,0.0,3,Nublado,NightOvercast.webp,0,2026-06-06T05:48,2026-06-06T21:49,1015.0,0.0,41.2,100,150
+2026-06-05 21:00,São Paulo,Brasil,América do Sul,14.4,14.4,11.5,21.0,90,6.0,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-06-05T06:42,2026-06-05T17:27,1023.7,0.0,20.0,21,127
+2026-06-05 21:00,Rio de Janeiro,Brasil,América do Sul,19.2,20.7,17.4,22.0,83,3.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-05T06:28,2026-06-05T17:14,1023.5,0.0,12.0,16,45
+2026-06-05 21:00,Buenos Aires,Argentina,América do Sul,14.1,14.6,13.6,16.9,95,3.5,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-06-05T07:54,2026-06-05T17:50,1019.5,0.0,34.9,20,75
+2026-06-05 20:01,New York,EUA,América do Norte,26.3,25.6,17.3,32.5,46,13.4,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-05T05:25,2026-06-05T20:23,1013.5,0.5,41.3,100,153
+2026-06-06 01:01,London,Reino Unido,Europa,14.1,11.5,13.0,16.1,65,13.7,0.0,3,Nublado,NightOvercast.webp,0,2026-06-06T04:46,2026-06-06T21:13,1011.1,0.0,34.3,100,156
+2026-06-06 02:01,Paris,França,Europa,14.4,12.6,13.7,21.8,61,6.9,0.0,3,Nublado,NightOvercast.webp,0,2026-06-06T05:48,2026-06-06T21:49,1014.8,0.0,40.0,91,141
+2026-06-06 03:01,Moscow,Rússia,Europa,13.9,13.0,12.7,24.6,70,3.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-06T03:48,2026-06-06T21:07,1019.5,0.0,40.1,0,66
+2026-06-06 10:02,Sydney,Austrália,Oceania,12.4,9.8,8.6,17.6,69,12.3,0.0,0,Céu limpo,DayClear.webp,1,2026-06-06T06:54,2026-06-06T16:53,1024.9,2.1,4.7,1,273
