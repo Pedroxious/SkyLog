@@ -3010,3 +3010,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-11 05:48,Bangkok,Tailândia,Ásia,26.8,32.1,26.7,30.8,89,8.2,0.0,3,Nublado,NightOvercast.webp,0,2026-06-11T05:49,2026-06-11T18:45,1009.6,0.0,15.8,100,165
 2026-06-11 07:48,Tokyo,Japão,Ásia,17.4,18.3,17.0,23.6,79,2.3,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-06-11T04:25,2026-06-11T18:57,1013.0,1.4,28.5,78,18
 2026-06-11 02:48,Dubai,Emirados Árabes,Oriente Médio,29.4,34.0,29.3,37.7,73,9.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-11T05:28,2026-06-11T19:08,1000.1,0.0,14.8,0,226
+2026-06-10 21:09,São Paulo,Brasil,América do Sul,17.0,17.2,12.0,24.5,84,8.1,0.0,3,Nublado,NightOvercast.webp,0,2026-06-10T06:44,2026-06-10T17:27,1016.7,0.0,3.0,100,89
+2026-06-10 21:09,Rio de Janeiro,Brasil,América do Sul,20.5,23.5,18.2,24.0,92,3.0,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-06-10T06:29,2026-06-10T17:14,1017.4,0.0,23.5,49,76
+2026-06-10 21:09,Buenos Aires,Argentina,América do Sul,13.1,13.3,11.3,14.1,90,1.4,0.0,3,Nublado,NightOvercast.webp,0,2026-06-10T07:56,2026-06-10T17:49,1016.7,0.0,40.5,100,360
+2026-06-10 18:09,Mexico City,México,América Central,18.3,19.4,13.5,23.7,80,3.1,0.3,55,Chuvisco,drizzle.webp,1,2026-06-10T05:57,2026-06-10T19:14,1011.9,0.9,3.1,98,50
+2026-06-10 20:10,Havana,Cuba,América Central,25.5,30.5,23.9,30.0,91,6.7,0.1,51,Chuvisco,drizzle.webp,1,2026-06-10T06:43,2026-06-10T20:14,1014.7,0.0,7.0,100,121
+2026-06-11 07:11,Bangkok,Tailândia,Ásia,27.0,32.3,26.7,30.8,87,7.9,0.1,51,Chuvisco,drizzle.webp,1,2026-06-11T05:49,2026-06-11T18:45,1010.6,0.3,5.1,95,231
+2026-06-11 09:11,Tokyo,Japão,Ásia,19.4,20.2,16.9,23.9,67,1.8,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-06-11T04:25,2026-06-11T18:57,1012.4,4.8,31.2,70,101
+2026-06-11 04:11,Dubai,Emirados Árabes,Oriente Médio,30.0,34.9,29.3,37.7,72,10.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-11T05:28,2026-06-11T19:08,1000.2,0.0,14.8,0,243
+2026-06-11 03:11,Cairo,Egito,África,22.7,24.9,21.8,35.5,80,8.0,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-06-11T05:53,2026-06-11T19:56,1012.4,0.0,30.3,15,10
+2026-06-11 10:11,Sydney,Austrália,Oceania,15.8,15.3,13.3,18.5,84,9.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-11T06:56,2026-06-11T16:52,1031.7,1.6,44.5,98,258
