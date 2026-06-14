@@ -3432,3 +3432,16 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-15 06:00,Tokyo,Japão,Ásia,18.1,19.9,17.5,20.7,94,4.6,0.2,53,Chuvisco,drizzle.webp,1,2026-06-15T04:25,2026-06-15T18:58,1016.8,0.1,4.3,72,51
 2026-06-15 01:00,Dubai,Emirados Árabes,Oriente Médio,30.1,34.6,27.6,36.9,64,4.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-15T05:28,2026-06-15T19:10,1001.6,0.0,17.5,0,220
 2026-06-15 00:00,Cairo,Egito,África,23.4,24.1,21.2,33.9,62,8.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-15T05:53,2026-06-15T19:57,1012.9,0.0,39.4,1,360
+2026-06-14 20:00,São Paulo,Brasil,América do Sul,17.9,19.0,15.8,21.7,91,7.6,0.1,51,Chuvisco,NightRain.webp,0,2026-06-14T06:45,2026-06-14T17:27,1018.0,0.0,9.0,89,308
+2026-06-14 20:00,Rio de Janeiro,Brasil,América do Sul,21.5,24.2,20.3,25.2,91,7.8,0.1,51,Chuvisco,NightRain.webp,0,2026-06-14T06:31,2026-06-14T17:15,1016.8,0.0,8.6,99,86
+2026-06-14 17:00,Mexico City,México,América Central,22.5,22.7,12.0,24.1,54,4.4,0.1,51,Chuvisco,drizzle.webp,1,2026-06-14T05:57,2026-06-14T19:15,1013.1,0.6,8.0,97,125
+2026-06-14 19:00,Havana,Cuba,América Central,28.8,32.6,23.5,31.0,68,7.7,0.0,0,Céu limpo,DayClear.webp,1,2026-06-14T06:43,2026-06-14T20:16,1016.4,1.9,18.1,9,129
+2026-06-14 19:00,Miami,EUA,América do Norte,28.2,34.0,25.1,33.7,81,4.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-14T06:28,2026-06-14T20:13,1018.0,1.8,17.7,89,189
+2026-06-14 19:00,New York,EUA,América do Norte,27.4,27.1,21.4,32.0,56,21.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-14T05:24,2026-06-14T20:28,1006.3,0.8,32.0,100,157
+2026-06-15 00:00,London,Reino Unido,Europa,18.8,17.3,15.0,23.8,48,6.5,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-06-15T04:43,2026-06-15T21:19,1018.3,0.0,32.0,41,86
+2026-06-15 01:00,Paris,França,Europa,18.7,17.5,15.8,29.7,57,8.5,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-06-15T05:46,2026-06-15T21:55,1018.3,0.0,40.3,42,36
+2026-06-15 02:00,Moscow,Rússia,Europa,12.5,12.8,11.2,22.1,91,0.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-15T03:44,2026-06-15T21:15,1003.9,0.0,23.1,0,180
+2026-06-15 06:00,Bangkok,Tailândia,Ásia,26.9,32.2,26.9,32.9,83,4.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-15T05:50,2026-06-15T18:46,1008.7,0.0,30.4,91,225
+2026-06-15 08:00,Tokyo,Japão,Ásia,17.9,19.5,17.5,20.7,91,4.6,0.1,51,Chuvisco,drizzle.webp,1,2026-06-15T04:25,2026-06-15T18:58,1016.4,0.4,5.2,86,18
+2026-06-15 03:00,Dubai,Emirados Árabes,Oriente Médio,28.8,34.2,27.8,36.8,75,5.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-15T05:28,2026-06-15T19:10,1001.2,0.0,14.8,0,228
+2026-06-15 02:00,Cairo,Egito,África,22.2,23.7,21.2,33.9,71,5.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-15T05:53,2026-06-15T19:57,1013.0,0.0,36.6,2,11
