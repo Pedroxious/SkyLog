@@ -4232,3 +4232,14 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-23 22:37,Tokyo,Japão,Ásia,18.9,20.4,18.1,24.5,83,3.4,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-06-23T04:26,2026-06-23T19:00,1013.7,0.0,17.9,52,58
 2026-06-23 17:37,Dubai,Emirados Árabes,Oriente Médio,37.1,41.8,29.5,42.2,48,10.0,0.0,0,Céu limpo,DayClear.webp,1,2026-06-23T05:29,2026-06-23T19:12,996.5,3.5,18.4,5,339
 2026-06-23 16:37,Cairo,Egito,África,35.2,36.2,22.0,35.4,32,9.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-06-23T05:54,2026-06-23T19:59,1008.4,5.6,44.9,46,321
+2026-06-23 13:22,São Paulo,Brasil,América do Sul,20.8,20.7,14.1,21.3,72,13.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-23T06:48,2026-06-23T17:29,1014.2,3.6,13.8,99,339
+2026-06-23 13:22,Rio de Janeiro,Brasil,América do Sul,26.2,25.9,20.3,27.7,60,23.0,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-06-23T06:33,2026-06-23T17:16,1012.8,5.1,34.3,55,237
+2026-06-23 13:22,Buenos Aires,Argentina,América do Sul,10.0,6.0,4.0,11.4,55,14.0,0.0,0,Céu limpo,DayClear.webp,1,2026-06-23T08:00,2026-06-23T17:50,1016.3,3.1,56.1,2,255
+2026-06-23 10:22,Mexico City,México,América Central,19.7,20.8,14.3,25.4,55,3.6,0.1,51,Chuvisco,drizzle.webp,1,2026-06-23T05:59,2026-06-23T19:17,1020.6,4.5,9.9,21,354
+2026-06-23 12:22,Havana,Cuba,América Central,32.0,38.0,24.6,32.7,56,8.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-23T06:45,2026-06-23T20:18,1019.9,7.3,48.6,87,60
+2026-06-23 12:22,Miami,EUA,América do Norte,32.2,39.5,26.3,32.4,65,11.2,0.0,95,Tempestade,Storm.webp,1,2026-06-23T06:30,2026-06-23T20:15,1020.5,7.7,25.3,18,178
+2026-06-23 12:22,New York,EUA,América do Norte,21.0,21.8,19.1,21.8,86,16.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-23T05:25,2026-06-23T20:30,1011.3,2.0,16.0,100,342
+2026-06-23 17:22,London,Reino Unido,Europa,33.7,33.5,19.0,33.7,33,13.3,0.0,0,Céu limpo,DayClear.webp,1,2026-06-23T04:44,2026-06-23T21:22,1016.8,1.8,29.0,0,140
+2026-06-23 18:22,Paris,França,Europa,37.0,37.6,25.1,37.1,30,11.4,0.0,0,Céu limpo,DayClear.webp,1,2026-06-23T05:47,2026-06-23T21:58,1017.0,4.5,46.4,0,103
+2026-06-23 19:22,Moscow,Rússia,Europa,21.3,18.7,16.2,23.5,36,10.5,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-06-23T03:45,2026-06-23T21:18,1012.4,1.4,45.1,26,333
+2026-06-23 23:22,Bangkok,Tailândia,Ásia,29.4,35.2,27.0,35.7,80,8.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-23T05:52,2026-06-23T18:48,1008.8,0.0,34.9,12,239
