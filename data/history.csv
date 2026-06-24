@@ -4359,3 +4359,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-24 16:28,New York,EUA,América do Norte,28.4,26.4,16.1,28.6,26,15.1,0.0,0,Céu limpo,DayClear.webp,1,2026-06-24T05:25,2026-06-24T20:31,1014.0,6.2,60.3,3,298
 2026-06-24 21:28,London,Reino Unido,Europa,29.6,31.2,23.8,35.9,54,13.7,0.0,0,Céu limpo,DayClear.webp,1,2026-06-24T04:44,2026-06-24T21:22,1018.8,0.0,22.8,0,82
 2026-06-24 22:28,Paris,França,Europa,36.1,36.0,25.4,40.0,28,10.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-24T05:47,2026-06-24T21:58,1014.8,0.1,48.3,0,110
+2026-06-24 19:08,São Paulo,Brasil,América do Sul,12.9,12.6,11.7,14.9,92,5.1,0.0,3,Nublado,NightOvercast.webp,0,2026-06-24T06:48,2026-06-24T17:29,1019.8,0.0,10.8,100,126
+2026-06-24 19:08,Rio de Janeiro,Brasil,América do Sul,19.6,21.4,19.3,22.2,96,10.7,0.2,53,Chuvisco,NightRain.webp,0,2026-06-24T06:33,2026-06-24T17:17,1018.8,0.0,5.1,100,215
+2026-06-24 19:08,Buenos Aires,Argentina,América do Sul,9.3,6.6,3.0,10.6,68,8.5,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-06-24T08:01,2026-06-24T17:51,1015.8,0.0,51.9,75,314
+2026-06-24 16:08,Mexico City,México,América Central,19.5,18.7,13.9,21.0,60,8.1,0.1,51,Chuvisco,drizzle.webp,1,2026-06-24T05:59,2026-06-24T19:17,1015.6,0.6,4.6,86,167
+2026-06-24 18:08,Havana,Cuba,América Central,29.8,33.4,24.7,31.8,70,15.6,0.0,95,Tempestade,Storm.webp,1,2026-06-24T06:45,2026-06-24T20:18,1015.2,3.9,44.5,6,38
+2026-06-24 18:08,Miami,EUA,América do Norte,30.0,33.7,24.3,33.5,65,11.1,0.0,95,Tempestade,Storm.webp,1,2026-06-24T06:30,2026-06-24T20:15,1017.9,3.8,25.3,100,119
+2026-06-24 18:08,New York,EUA,América do Norte,28.0,25.5,16.1,29.1,29,14.0,0.0,0,Céu limpo,DayClear.webp,1,2026-06-24T05:25,2026-06-24T20:31,1014.5,3.0,64.2,0,296
+2026-06-24 23:08,London,Reino Unido,Europa,27.3,28.9,23.8,35.9,63,14.0,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-24T04:44,2026-06-24T21:22,1019.2,0.0,19.0,0,70
+2026-06-25 00:08,Paris,França,Europa,33.0,34.6,27.9,40.7,38,5.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-25T05:48,2026-06-25T21:58,1015.6,0.0,44.0,0,118
