@@ -4378,3 +4378,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-25 00:59,London,Reino Unido,Europa,25.3,26.3,22.5,30.8,66,15.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-25T04:45,2026-06-25T21:22,1019.5,0.0,22.5,0,84
 2026-06-25 01:59,Paris,França,Europa,31.2,33.2,27.7,40.2,44,4.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-25T05:48,2026-06-25T21:58,1015.8,0.0,42.6,0,45
 2026-06-25 02:59,Moscow,Rússia,Europa,13.3,13.7,13.1,17.6,89,1.0,0.0,61,Chuva,NightRain.webp,0,2026-06-25T03:46,2026-06-25T21:18,1011.5,0.0,26.3,95,315
+2026-06-25 00:55,São Paulo,Brasil,América do Sul,11.3,10.7,11.0,13.1,95,5.2,0.0,3,Nublado,NightOvercast.webp,0,2026-06-25T06:48,2026-06-25T17:29,1021.6,0.0,3.1,100,119
+2026-06-25 00:55,Rio de Janeiro,Brasil,América do Sul,19.3,20.3,19.1,19.7,95,14.8,0.1,51,Chuvisco,NightRain.webp,0,2026-06-25T06:33,2026-06-25T17:17,1020.2,0.0,6.3,100,218
+2026-06-25 00:55,Buenos Aires,Argentina,América do Sul,7.5,4.3,5.9,11.3,77,11.5,0.0,3,Nublado,NightOvercast.webp,0,2026-06-25T08:01,2026-06-25T17:51,1017.8,0.0,48.6,87,326
+2026-06-24 21:56,Mexico City,México,América Central,15.2,16.2,13.9,21.7,90,0.9,0.1,51,Chuvisco,NightRain.webp,0,2026-06-24T05:59,2026-06-24T19:17,1021.1,0.0,6.2,100,11
+2026-06-24 23:56,Havana,Cuba,América Central,26.9,30.7,24.7,31.9,79,11.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-24T06:45,2026-06-24T20:18,1017.2,0.0,40.1,1,86
+2026-06-24 23:56,Miami,EUA,América do Norte,24.4,29.0,24.5,33.5,89,3.7,0.0,3,Nublado,NightOvercast.webp,0,2026-06-24T06:30,2026-06-24T20:15,1017.5,0.0,14.0,100,331
+2026-06-24 23:56,New York,EUA,América do Norte,19.7,19.6,16.1,29.1,64,6.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-24T05:25,2026-06-24T20:31,1015.8,0.0,28.2,3,332
+2026-06-25 04:56,London,Reino Unido,Europa,22.0,23.2,21.9,30.6,76,10.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-25T04:45,2026-06-25T21:22,1018.5,0.0,15.2,0,65
+2026-06-25 05:56,Paris,França,Europa,27.9,30.3,27.8,40.3,55,3.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-25T05:48,2026-06-25T21:58,1015.8,0.0,36.8,0,41
+2026-06-25 06:56,Moscow,Rússia,Europa,13.9,14.1,13.3,17.7,88,2.9,0.0,61,Chuva,DayRain.webp,1,2026-06-25T03:46,2026-06-25T21:18,1011.3,0.2,8.6,94,277
