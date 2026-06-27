@@ -4637,3 +4637,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-27 22:13,Tokyo,Japão,Ásia,21.9,25.7,21.5,22.9,95,4.2,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-06-27T04:27,2026-06-27T19:01,1002.6,0.0,10.2,24,340
 2026-06-27 17:13,Dubai,Emirados Árabes,Oriente Médio,34.1,38.5,27.7,36.3,59,15.9,0.0,0,Céu limpo,DayClear.webp,1,2026-06-27T05:30,2026-06-27T19:12,999.9,3.5,15.4,2,329
 2026-06-27 16:13,Cairo,Egito,África,36.0,37.0,22.7,36.1,26,8.8,0.0,0,Céu limpo,DayClear.webp,1,2026-06-27T05:56,2026-06-27T20:00,1008.8,5.7,48.0,0,325
+2026-06-27 12:09,São Paulo,Brasil,América do Sul,20.7,23.1,14.4,22.9,75,2.4,0.0,0,Céu limpo,DayClear.webp,1,2026-06-27T06:48,2026-06-27T17:30,1024.2,5.0,29.8,0,107
+2026-06-27 12:09,Rio de Janeiro,Brasil,América do Sul,23.4,26.7,19.5,23.4,81,7.4,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-06-27T06:34,2026-06-27T17:17,1023.7,5.0,15.8,52,179
+2026-06-27 12:09,Buenos Aires,Argentina,América do Sul,11.7,10.4,7.1,13.9,80,5.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-27T08:01,2026-06-27T17:52,1020.7,2.4,48.5,93,360
+2026-06-27 09:09,Mexico City,México,América Central,17.2,17.5,13.5,22.0,72,2.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-27T06:00,2026-06-27T19:18,1020.6,3.6,23.8,98,301
+2026-06-27 11:09,Havana,Cuba,América Central,31.0,35.9,24.4,32.1,63,11.6,0.0,95,Tempestade,Storm.webp,1,2026-06-27T06:46,2026-06-27T20:19,1019.1,5.7,44.5,20,83
+2026-06-27 11:09,Miami,EUA,América do Norte,31.3,36.7,26.3,33.0,65,12.4,0.0,95,Tempestade,Storm.webp,1,2026-06-27T06:31,2026-06-27T20:16,1020.4,5.8,25.3,20,112
+2026-06-27 11:09,New York,EUA,América do Norte,26.6,27.9,20.6,29.1,52,6.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-27T05:26,2026-06-27T20:31,1017.2,1.9,35.3,100,61
+2026-06-27 16:09,London,Reino Unido,Europa,31.0,30.9,22.3,32.6,40,14.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-27T04:45,2026-06-27T21:22,1015.0,2.0,24.3,99,182
+2026-06-27 17:09,Paris,França,Europa,37.2,39.3,22.1,37.2,29,5.5,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-06-27T05:49,2026-06-27T21:58,1013.8,5.7,46.1,28,281
+2026-06-27 18:09,Moscow,Rússia,Europa,17.4,17.4,12.5,20.0,75,6.0,0.0,61,Chuva,DayRain.webp,1,2026-06-27T03:47,2026-06-27T21:18,1015.2,0.2,34.6,99,327
