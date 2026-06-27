@@ -4668,3 +4668,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-27 19:05,London,Reino Unido,Europa,29.4,28.6,22.3,32.7,40,15.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-27T04:45,2026-06-27T21:22,1014.0,0.2,37.1,100,198
 2026-06-27 20:05,Paris,França,Europa,35.8,37.0,22.1,36.6,33,8.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-27T05:49,2026-06-27T21:58,1012.8,0.8,45.3,100,291
 2026-06-27 21:05,Moscow,Rússia,Europa,16.5,16.7,12.5,20.3,81,5.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-27T03:47,2026-06-27T21:18,1015.1,0.1,31.2,88,300
+2026-06-27 17:03,São Paulo,Brasil,América do Sul,21.6,23.9,14.4,22.9,80,4.5,0.0,0,Céu limpo,DayClear.webp,1,2026-06-27T06:48,2026-06-27T17:30,1021.3,0.8,29.7,4,106
+2026-06-27 17:03,Rio de Janeiro,Brasil,América do Sul,21.3,24.2,19.5,23.4,91,5.9,0.0,0,Céu limpo,DayClear.webp,1,2026-06-27T06:34,2026-06-27T17:17,1021.9,0.6,13.0,1,117
+2026-06-27 17:03,Buenos Aires,Argentina,América do Sul,12.7,11.9,7.1,13.9,83,4.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-27T08:01,2026-06-27T17:52,1017.7,0.8,44.6,96,63
+2026-06-27 14:03,Mexico City,México,América Central,19.4,19.2,13.5,22.0,63,8.7,0.4,80,Chuva,DayRain.webp,1,2026-06-27T06:00,2026-06-27T19:18,1017.4,4.8,6.6,84,233
+2026-06-27 16:03,Havana,Cuba,América Central,30.4,35.4,24.4,32.1,69,15.3,0.2,96,Granizo,RainHail.webp,1,2026-06-27T06:46,2026-06-27T20:19,1017.9,7.2,4.0,68,47
+2026-06-27 16:03,Miami,EUA,América do Norte,31.8,35.2,26.3,32.8,61,16.3,0.0,95,Tempestade,Storm.webp,1,2026-06-27T06:31,2026-06-27T20:16,1019.2,7.3,23.8,100,96
+2026-06-27 16:03,New York,EUA,América do Norte,25.6,26.5,20.8,26.2,54,7.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-27T05:26,2026-06-27T20:31,1016.3,0.9,26.3,94,12
+2026-06-27 21:03,London,Reino Unido,Europa,25.4,26.0,22.3,32.7,61,14.0,0.1,51,Chuvisco,drizzle.webp,1,2026-06-27T04:45,2026-06-27T21:22,1014.7,0.0,37.2,100,222
+2026-06-27 22:03,Paris,França,Europa,34.5,36.2,22.1,36.6,35,4.8,0.0,3,Nublado,NightOvercast.webp,0,2026-06-27T05:49,2026-06-27T21:58,1013.5,0.1,44.9,100,297
+2026-06-27 23:03,Moscow,Rússia,Europa,15.2,15.7,12.5,20.3,88,4.1,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-06-27T03:47,2026-06-27T21:18,1014.9,0.0,24.0,77,315
