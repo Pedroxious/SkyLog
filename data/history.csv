@@ -4823,3 +4823,18 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-29 00:52,Dubai,Emirados Árabes,Oriente Médio,31.5,39.7,30.5,39.4,82,5.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-29T05:31,2026-06-29T19:12,999.4,0.0,12.8,0,297
 2026-06-28 23:52,Cairo,Egito,África,28.1,30.1,23.3,37.4,58,9.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-28T05:56,2026-06-28T20:00,1011.3,0.0,40.1,0,22
 2026-06-29 06:52,Sydney,Austrália,Oceania,9.3,8.2,9.3,17.4,98,5.9,0.0,3,Nublado,NightOvercast.webp,0,2026-06-29T07:01,2026-06-29T16:56,1029.7,0.0,0.2,99,305
+2026-06-28 18:55,São Paulo,Brasil,América do Sul,20.1,21.0,14.7,25.0,73,5.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-28T06:48,2026-06-28T17:30,1019.1,0.1,33.5,0,327
+2026-06-28 18:55,Rio de Janeiro,Brasil,América do Sul,22.5,26.0,19.8,25.4,84,1.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-28T06:34,2026-06-28T17:18,1018.9,0.0,29.8,0,77
+2026-06-28 18:55,Buenos Aires,Argentina,América do Sul,10.3,8.0,7.7,11.8,77,9.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-28T08:01,2026-06-28T17:52,1018.5,0.1,48.5,0,218
+2026-06-28 15:55,Mexico City,México,América Central,21.8,21.6,12.4,21.8,49,5.5,0.1,51,Chuvisco,drizzle.webp,1,2026-06-28T06:01,2026-06-28T19:18,1013.3,6.0,9.4,33,257
+2026-06-28 17:55,Havana,Cuba,América Central,30.4,33.4,26.0,33.2,65,16.5,0.1,95,Tempestade,Storm.webp,1,2026-06-28T06:46,2026-06-28T20:19,1015.2,5.9,10.7,16,56
+2026-06-28 17:55,Miami,EUA,América do Norte,30.8,34.7,26.5,33.1,67,14.5,0.0,95,Tempestade,Storm.webp,1,2026-06-28T06:32,2026-06-28T20:16,1017.4,5.7,23.2,17,104
+2026-06-28 17:55,New York,EUA,América do Norte,26.8,27.0,20.2,28.2,51,12.8,0.0,0,Céu limpo,DayClear.webp,1,2026-06-28T05:27,2026-06-28T20:31,1015.2,4.5,35.7,1,130
+2026-06-28 22:55,London,Reino Unido,Europa,20.0,17.1,19.6,25.8,43,15.1,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-06-28T04:46,2026-06-28T21:22,1022.9,0.0,31.9,75,287
+2026-06-28 23:55,Paris,França,Europa,22.4,22.8,22.5,30.7,65,10.4,0.0,3,Nublado,NightOvercast.webp,0,2026-06-28T05:49,2026-06-28T21:58,1023.4,0.0,38.1,99,358
+2026-06-29 00:55,Moscow,Rússia,Europa,16.8,16.6,15.3,21.8,72,5.4,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-06-29T03:48,2026-06-29T21:17,1016.1,0.0,37.3,59,312
+2026-06-29 04:55,Bangkok,Tailândia,Ásia,26.0,31.3,25.9,32.5,90,5.9,0.0,3,Nublado,NightOvercast.webp,0,2026-06-29T05:53,2026-06-29T18:49,1006.1,0.0,18.8,100,207
+2026-06-29 06:55,Tokyo,Japão,Ásia,20.0,23.1,19.9,23.6,95,3.2,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-29T04:28,2026-06-29T19:01,1013.3,0.2,10.6,95,27
+2026-06-29 01:55,Dubai,Emirados Árabes,Oriente Médio,31.3,39.6,30.5,39.4,83,4.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-29T05:31,2026-06-29T19:12,999.1,0.0,12.4,0,310
+2026-06-29 00:55,Cairo,Egito,África,27.3,30.4,23.9,37.9,68,8.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-29T05:56,2026-06-29T20:00,1010.6,0.0,37.8,0,22
+2026-06-29 07:55,Sydney,Austrália,Oceania,9.3,8.1,9.3,17.4,100,6.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-29T07:01,2026-06-29T16:56,1029.8,0.0,0.2,100,300
