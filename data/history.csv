@@ -4838,3 +4838,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-29 01:55,Dubai,Emirados Árabes,Oriente Médio,31.3,39.6,30.5,39.4,83,4.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-29T05:31,2026-06-29T19:12,999.1,0.0,12.4,0,310
 2026-06-29 00:55,Cairo,Egito,África,27.3,30.4,23.9,37.9,68,8.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-29T05:56,2026-06-29T20:00,1010.6,0.0,37.8,0,22
 2026-06-29 07:55,Sydney,Austrália,Oceania,9.3,8.1,9.3,17.4,100,6.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-29T07:01,2026-06-29T16:56,1029.8,0.0,0.2,100,300
+2026-06-28 19:55,Rio de Janeiro,Brasil,América do Sul,22.4,25.6,19.8,25.4,85,3.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-28T06:34,2026-06-28T17:18,1019.1,0.0,19.2,0,47
+2026-06-28 19:55,Buenos Aires,Argentina,América do Sul,9.6,7.2,7.7,11.8,75,8.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-28T08:01,2026-06-28T17:52,1019.1,0.0,48.5,0,227
+2026-06-28 16:55,Mexico City,México,América Central,21.2,20.9,12.4,21.8,51,3.0,0.1,51,Chuvisco,drizzle.webp,1,2026-06-28T06:01,2026-06-28T19:18,1013.4,4.0,6.4,87,57
+2026-06-28 18:55,Havana,Cuba,América Central,29.7,33.0,26.0,33.2,69,16.8,0.0,95,Tempestade,Storm.webp,1,2026-06-28T06:46,2026-06-28T20:19,1015.4,3.9,11.7,20,65
+2026-06-28 18:55,Miami,EUA,América do Norte,30.6,33.8,26.5,33.1,62,13.7,0.0,0,Céu limpo,DayClear.webp,1,2026-06-28T06:32,2026-06-28T20:16,1017.8,3.8,25.7,1,104
+2026-06-28 18:55,New York,EUA,América do Norte,26.1,26.5,20.2,28.2,53,10.2,0.0,0,Céu limpo,DayClear.webp,1,2026-06-28T05:27,2026-06-28T20:31,1015.5,3.0,33.9,2,129
+2026-06-28 23:55,London,Reino Unido,Europa,19.0,15.9,19.6,25.8,48,16.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-28T04:46,2026-06-28T21:22,1023.2,0.0,31.9,18,286
+2026-06-29 00:56,Paris,França,Europa,22.1,22.5,17.4,27.9,69,12.0,0.0,80,Chuva,NightRain.webp,0,2026-06-29T05:50,2026-06-29T21:58,1024.1,0.0,36.3,95,344
+2026-06-29 01:56,Moscow,Rússia,Europa,16.3,16.1,15.3,21.8,74,5.2,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-06-29T03:48,2026-06-29T21:17,1015.9,0.0,36.6,65,304
+2026-06-29 05:56,Bangkok,Tailândia,Ásia,25.9,30.8,25.9,32.5,89,7.6,0.0,3,Nublado,NightOvercast.webp,0,2026-06-29T05:53,2026-06-29T18:49,1006.7,0.0,13.7,100,207
