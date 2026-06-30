@@ -5029,3 +5029,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-06-30 19:29,London,Reino Unido,Europa,23.3,21.0,18.0,25.0,43,15.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-06-30T04:47,2026-06-30T21:21,1019.9,0.1,28.1,87,244
 2026-06-30 20:29,Paris,França,Europa,25.6,24.2,16.6,29.0,41,12.8,0.0,0,Céu limpo,DayClear.webp,1,2026-06-30T05:50,2026-06-30T21:57,1019.8,1.6,42.4,38,16
 2026-06-30 21:29,Moscow,Rússia,Europa,22.3,23.3,14.6,25.6,62,4.4,0.0,0,Céu limpo,DayClear.webp,1,2026-06-30T03:49,2026-06-30T21:17,1015.0,0.1,40.0,3,279
+2026-06-30 17:51,São Paulo,Brasil,América do Sul,21.9,22.3,15.9,25.6,64,7.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-30T06:49,2026-06-30T17:31,1017.1,0.8,34.6,8,323
+2026-06-30 17:51,Rio de Janeiro,Brasil,América do Sul,22.8,25.4,19.3,24.6,84,8.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-06-30T06:34,2026-06-30T17:18,1016.7,0.6,26.3,1,75
+2026-06-30 17:51,Buenos Aires,Argentina,América do Sul,10.5,8.8,5.3,12.2,75,4.5,0.0,0,Céu limpo,DayClear.webp,1,2026-06-30T08:01,2026-06-30T17:53,1016.8,0.9,49.3,0,88
+2026-06-30 14:51,Mexico City,México,América Central,17.6,18.1,13.7,21.5,77,4.7,1.4,96,Granizo,RainHail.webp,1,2026-06-30T06:01,2026-06-30T19:18,1017.1,7.2,3.5,89,50
+2026-06-30 16:51,Havana,Cuba,América Central,30.5,34.6,25.2,31.7,66,12.1,0.2,96,Granizo,RainHail.webp,1,2026-06-30T06:47,2026-06-30T20:19,1014.8,7.5,6.4,55,30
+2026-06-30 16:51,Miami,EUA,América do Norte,31.4,36.5,23.6,32.3,73,16.4,0.0,95,Tempestade,Storm.webp,1,2026-06-30T06:32,2026-06-30T20:16,1014.1,7.4,20.8,31,105
+2026-06-30 16:51,New York,EUA,América do Norte,31.8,31.6,21.2,31.9,38,16.6,0.0,0,Céu limpo,DayClear.webp,1,2026-06-30T05:28,2026-06-30T20:31,1016.8,4.4,50.8,9,158
+2026-06-30 21:51,London,Reino Unido,Europa,20.9,19.7,18.0,25.0,58,13.3,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-06-30T04:47,2026-06-30T21:21,1021.1,0.0,25.6,72,231
+2026-06-30 22:51,Paris,França,Europa,23.2,22.7,16.6,29.0,53,10.6,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-06-30T05:50,2026-06-30T21:57,1021.1,0.1,40.9,74,10
+2026-06-30 23:51,Moscow,Rússia,Europa,20.5,21.9,14.6,25.6,73,3.3,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-06-30T03:49,2026-06-30T21:17,1015.8,0.0,36.7,29,276
