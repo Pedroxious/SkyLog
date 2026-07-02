@@ -5249,3 +5249,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-02 23:10,Dubai,Emirados Árabes,Oriente Médio,32.1,38.5,29.5,37.9,67,3.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-02T05:32,2026-07-02T19:13,998.8,0.0,15.1,13,72
 2026-07-02 22:10,Cairo,Egito,África,29.7,31.4,22.5,36.8,52,11.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-02T05:57,2026-07-02T20:00,1009.1,0.0,41.2,0,4
 2026-07-03 05:10,Sydney,Austrália,Oceania,12.7,9.7,11.6,17.7,71,15.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-03T07:00,2026-07-03T16:57,1013.1,0.0,55.3,2,354
+2026-07-02 17:55,São Paulo,Brasil,América do Sul,21.5,21.5,15.4,25.1,59,6.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-02T06:49,2026-07-02T17:31,1019.8,0.8,36.2,0,314
+2026-07-02 17:55,Rio de Janeiro,Brasil,América do Sul,22.2,26.2,19.0,27.1,92,2.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-02T06:34,2026-07-02T17:19,1018.3,0.6,2.3,0,148
+2026-07-02 17:55,Buenos Aires,Argentina,América do Sul,6.7,2.3,1.7,7.9,53,13.0,0.0,0,Céu limpo,DayClear.webp,1,2026-07-02T08:01,2026-07-02T17:54,1032.2,0.9,55.8,5,209
+2026-07-02 14:55,Mexico City,México,América Central,20.8,21.2,12.2,21.0,53,8.1,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-02T06:02,2026-07-02T19:18,1015.0,8.0,20.1,20,198
+2026-07-02 16:55,Havana,Cuba,América Central,31.9,34.6,24.8,32.6,54,16.1,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-02T06:47,2026-07-02T20:19,1014.7,7.5,47.8,21,40
+2026-07-02 16:55,Miami,EUA,América do Norte,28.3,33.4,25.3,30.7,79,8.3,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-02T06:33,2026-07-02T20:16,1015.1,5.2,14.9,44,108
+2026-07-02 16:55,New York,EUA,América do Norte,36.8,38.7,26.5,39.0,40,19.1,0.0,0,Céu limpo,DayClear.webp,1,2026-07-02T05:29,2026-07-02T20:30,1012.8,6.2,45.3,0,158
+2026-07-02 21:55,London,Reino Unido,Europa,20.2,17.3,16.9,26.0,41,14.0,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-02T04:49,2026-07-02T21:21,1026.6,0.0,33.2,0,359
+2026-07-02 22:55,Paris,França,Europa,21.3,20.6,15.6,25.9,59,11.0,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-02T05:51,2026-07-02T21:57,1025.0,0.1,40.0,9,322
