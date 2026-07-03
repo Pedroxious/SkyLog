@@ -5351,3 +5351,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-04 04:03,Tokyo,Japão,Ásia,20.3,23.2,20.0,25.0,90,2.5,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-07-04T04:30,2026-07-04T19:01,1013.5,0.0,11.0,52,98
 2026-07-03 23:03,Dubai,Emirados Árabes,Oriente Médio,33.7,41.9,29.3,41.3,74,7.0,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-03T05:32,2026-07-03T19:13,999.8,0.0,13.7,0,4
 2026-07-03 22:03,Cairo,Egito,África,29.6,31.2,24.1,36.4,52,10.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-03T05:58,2026-07-03T20:00,1010.4,0.0,41.1,0,360
+2026-07-03 17:54,São Paulo,Brasil,América do Sul,17.0,17.1,13.7,25.3,89,10.5,0.0,3,Nublado,NightOvercast.webp,0,2026-07-03T06:49,2026-07-03T17:32,1020.6,0.7,2.6,92,156
+2026-07-03 17:54,Rio de Janeiro,Brasil,América do Sul,21.4,22.9,19.6,26.8,90,15.7,0.0,3,Nublado,NightOvercast.webp,0,2026-07-03T06:34,2026-07-03T17:19,1019.3,0.6,11.5,82,230
+2026-07-03 17:54,Buenos Aires,Argentina,América do Sul,7.3,4.7,0.0,8.6,60,3.1,0.0,0,Céu limpo,DayClear.webp,1,2026-07-03T08:01,2026-07-03T17:54,1029.4,0.9,54.7,7,135
+2026-07-03 14:54,Mexico City,México,América Central,21.6,22.3,13.1,22.2,56,0.2,0.4,95,Tempestade,Storm.webp,1,2026-07-03T06:02,2026-07-03T19:18,1016.1,8.4,8.8,96,90
+2026-07-03 16:54,Havana,Cuba,América Central,32.4,36.7,25.0,32.9,57,11.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-03T06:48,2026-07-03T20:19,1015.2,7.5,14.3,88,34
+2026-07-03 16:54,Miami,EUA,América do Norte,30.3,35.7,25.0,31.1,74,14.8,0.0,0,Céu limpo,DayClear.webp,1,2026-07-03T06:33,2026-07-03T20:16,1015.7,7.3,21.7,0,129
+2026-07-03 16:54,New York,EUA,América do Norte,39.1,40.3,28.5,39.1,32,17.7,0.0,0,Céu limpo,DayClear.webp,1,2026-07-03T05:29,2026-07-03T20:30,1012.4,6.2,57.3,14,275
+2026-07-03 21:54,London,Reino Unido,Europa,23.7,21.5,14.2,27.3,42,15.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-03T04:49,2026-07-03T21:20,1027.2,0.0,29.8,0,253
+2026-07-03 22:54,Paris,França,Europa,23.8,20.6,16.5,28.9,26,11.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-03T05:52,2026-07-03T21:57,1027.7,0.1,49.2,0,335
+2026-07-03 23:54,Moscow,Rússia,Europa,20.3,20.9,18.2,26.3,65,3.3,0.0,3,Nublado,NightOvercast.webp,0,2026-07-03T03:51,2026-07-03T21:15,1007.8,0.0,39.6,99,41
