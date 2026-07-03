@@ -5291,3 +5291,7 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-03 06:28,Dubai,Emirados Árabes,Oriente Médio,29.5,33.2,29.1,40.0,61,5.3,0.0,0,Céu limpo,DayClear.webp,1,2026-07-03T05:32,2026-07-03T19:13,999.5,0.1,15.3,0,66
 2026-07-03 05:28,Cairo,Egito,África,24.1,27.4,24.1,36.1,83,7.7,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-07-03T05:58,2026-07-03T20:00,1009.9,0.0,26.6,69,349
 2026-07-03 12:28,Sydney,Austrália,Oceania,17.1,13.8,11.4,17.1,52,17.4,0.0,0,Céu limpo,DayClear.webp,1,2026-07-03T07:00,2026-07-03T16:57,1015.7,3.4,59.7,9,291
+2026-07-03 07:24,London,Reino Unido,Europa,15.8,14.0,15.1,26.2,60,9.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-03T04:49,2026-07-03T21:20,1029.5,0.2,20.2,100,351
+2026-07-03 08:24,Paris,França,Europa,17.4,17.7,16.5,28.7,76,4.6,0.0,0,Céu limpo,DayClear.webp,1,2026-07-03T05:52,2026-07-03T21:57,1028.2,0.8,32.0,0,321
+2026-07-03 15:25,Tokyo,Japão,Ásia,25.7,28.4,21.0,25.8,67,5.8,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-03T04:30,2026-07-03T19:01,1011.3,4.7,10.8,43,86
+2026-07-03 10:25,Dubai,Emirados Árabes,Oriente Médio,39.1,46.2,29.1,40.0,45,6.7,0.0,0,Céu limpo,DayClear.webp,1,2026-07-03T05:32,2026-07-03T19:13,1000.4,6.0,17.9,0,27
