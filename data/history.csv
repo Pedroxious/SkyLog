@@ -5702,3 +5702,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-06 17:11,Tokyo,Japão,Ásia,21.2,24.1,19.2,23.0,88,3.5,0.1,51,Chuvisco,drizzle.webp,1,2026-07-06T04:31,2026-07-06T19:00,1013.3,0.4,25.3,83,66
 2026-07-06 12:11,Dubai,Emirados Árabes,Oriente Médio,37.8,41.4,29.8,38.0,38,19.0,0.0,0,Céu limpo,DayClear.webp,1,2026-07-06T05:34,2026-07-06T19:12,998.5,8.6,18.8,0,266
 2026-07-06 11:11,Cairo,Egito,África,31.5,35.8,25.3,36.8,49,6.5,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-06T05:59,2026-07-06T19:59,1009.5,5.8,40.9,40,341
+2026-07-06 09:37,São Paulo,Brasil,América do Sul,14.2,14.2,12.3,24.0,87,4.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-06T06:49,2026-07-06T17:33,1022.1,1.6,13.7,88,73
+2026-07-06 09:37,Rio de Janeiro,Brasil,América do Sul,19.9,21.8,16.7,22.3,81,3.1,0.0,0,Céu limpo,DayClear.webp,1,2026-07-06T06:34,2026-07-06T17:20,1022.2,1.9,8.5,7,347
+2026-07-06 09:37,Buenos Aires,Argentina,América do Sul,3.6,0.5,2.7,10.4,91,8.6,0.0,0,Céu limpo,DayClear.webp,1,2026-07-06T08:00,2026-07-06T17:56,1022.1,0.1,37.5,0,254
+2026-07-06 06:37,Mexico City,México,América Central,13.9,14.7,13.6,23.7,97,1.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-06T06:03,2026-07-06T19:18,1020.3,0.0,6.3,100,241
+2026-07-06 08:37,Havana,Cuba,América Central,27.5,33.1,25.4,32.8,82,3.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-06T06:49,2026-07-06T20:19,1018.0,0.4,37.0,89,167
+2026-07-06 08:37,Miami,EUA,América do Norte,27.9,34.4,25.4,31.0,85,1.9,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-06T06:35,2026-07-06T20:16,1017.6,0.7,16.0,41,248
+2026-07-06 08:37,New York,EUA,América do Norte,21.2,23.6,20.0,22.0,92,9.5,0.1,51,Chuvisco,drizzle.webp,1,2026-07-06T05:31,2026-07-06T20:29,1018.7,0.1,13.1,100,53
+2026-07-06 13:37,London,Reino Unido,Europa,31.5,29.5,18.8,32.9,20,18.0,0.0,0,Céu limpo,DayClear.webp,1,2026-07-06T04:52,2026-07-06T21:19,1017.7,5.9,28.9,0,265
+2026-07-06 14:37,Paris,França,Europa,32.0,33.3,18.8,34.9,28,6.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-06T05:54,2026-07-06T21:55,1020.2,6.7,47.3,100,289
+2026-07-06 15:37,Moscow,Rússia,Europa,22.3,20.9,14.3,22.3,48,12.2,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-07-06T03:54,2026-07-06T21:13,1003.0,2.5,41.5,67,214
