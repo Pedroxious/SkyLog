@@ -6033,3 +6033,14 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-09 00:03,Paris,França,Europa,28.4,28.8,22.4,34.0,42,6.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-09T05:57,2026-07-09T21:54,1018.1,0.0,42.6,0,27
 2026-07-09 01:03,Moscow,Rússia,Europa,18.0,18.7,16.8,19.9,85,7.6,0.0,3,Nublado,NightOvercast.webp,0,2026-07-09T03:58,2026-07-09T21:11,1005.0,0.0,27.7,91,149
 2026-07-09 05:03,Bangkok,Tailândia,Ásia,26.2,30.6,26.2,34.4,81,6.5,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-07-09T05:56,2026-07-09T18:50,1008.1,0.0,35.6,43,246
+2026-07-08 21:00,São Paulo,Brasil,América do Sul,14.2,14.1,12.7,21.1,86,4.4,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-07-08T06:48,2026-07-08T17:34,1021.6,0.0,23.9,28,125
+2026-07-08 21:00,Rio de Janeiro,Brasil,América do Sul,18.7,19.6,18.6,20.6,80,5.5,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-07-08T06:34,2026-07-08T17:21,1021.6,0.0,29.9,43,218
+2026-07-08 21:00,Buenos Aires,Argentina,América do Sul,13.3,10.4,8.5,14.6,69,15.7,0.0,3,Nublado,NightOvercast.webp,0,2026-07-08T08:00,2026-07-08T17:57,1013.5,0.0,51.5,100,11
+2026-07-08 18:00,Mexico City,México,América Central,17.6,18.1,13.0,22.2,80,5.3,1.2,95,Tempestade,Storm.webp,1,2026-07-08T06:04,2026-07-08T19:18,1016.1,0.2,2.5,95,55
+2026-07-09 02:01,Paris,França,Europa,25.6,26.2,22.5,33.9,55,9.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-09T05:57,2026-07-09T21:54,1018.3,0.0,40.7,0,42
+2026-07-09 03:01,Moscow,Rússia,Europa,17.3,18.3,16.7,19.4,90,6.8,0.0,3,Nublado,NightOvercast.webp,0,2026-07-09T03:58,2026-07-09T21:11,1005.2,0.0,21.0,96,155
+2026-07-09 07:01,Bangkok,Tailândia,Ásia,27.1,31.9,26.2,34.4,80,6.2,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-07-09T05:56,2026-07-09T18:50,1009.1,0.2,35.6,78,237
+2026-07-09 09:01,Tokyo,Japão,Ásia,25.5,29.7,21.0,29.9,77,2.5,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-09T04:33,2026-07-09T19:00,1015.4,4.8,28.1,26,172
+2026-07-09 04:01,Dubai,Emirados Árabes,Oriente Médio,30.6,37.8,30.5,38.7,85,9.9,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-07-09T05:35,2026-07-09T19:12,995.9,0.0,11.9,70,177
+2026-07-09 03:01,Cairo,Egito,África,23.2,26.1,22.2,33.5,75,1.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-09T06:00,2026-07-09T19:59,1009.2,0.0,35.5,0,22
+2026-07-09 10:01,Sydney,Austrália,Oceania,13.2,12.2,10.7,15.6,89,9.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-09T06:59,2026-07-09T17:00,1030.3,0.8,28.1,100,215
