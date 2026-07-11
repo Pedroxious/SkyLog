@@ -6459,3 +6459,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-11 23:38,London,Reino Unido,Europa,20.3,19.1,18.6,29.9,68,17.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-11T04:57,2026-07-11T21:15,1023.2,0.0,33.1,3,56
 2026-07-12 00:38,Paris,França,Europa,27.4,25.3,21.9,36.6,33,13.5,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-07-12T06:00,2026-07-12T21:52,1017.1,0.0,45.3,33,25
 2026-07-12 01:38,Moscow,Rússia,Europa,17.6,19.6,16.5,20.4,95,2.6,0.4,80,Chuva,NightRain.webp,0,2026-07-12T04:02,2026-07-12T21:08,1010.6,0.0,10.2,100,214
+2026-07-11 20:44,São Paulo,Brasil,América do Sul,21.5,20.7,11.9,26.7,54,9.6,0.0,3,Nublado,NightOvercast.webp,0,2026-07-11T06:48,2026-07-11T17:35,1013.4,0.0,37.3,84,304
+2026-07-11 20:44,Rio de Janeiro,Brasil,América do Sul,20.1,22.8,16.8,25.3,92,4.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-11T06:33,2026-07-11T17:22,1011.3,0.0,21.7,15,57
+2026-07-11 20:44,Buenos Aires,Argentina,América do Sul,10.9,8.4,8.9,13.1,80,12.3,0.0,3,Nublado,NightOvercast.webp,0,2026-07-11T07:59,2026-07-11T17:58,1019.4,0.0,29.7,100,220
+2026-07-11 17:44,Mexico City,México,América Central,17.8,18.1,13.3,24.0,81,8.0,0.2,53,Chuvisco,drizzle.webp,1,2026-07-11T06:05,2026-07-11T19:18,1017.2,2.9,5.2,87,284
+2026-07-11 19:44,Havana,Cuba,América Central,29.2,33.4,22.7,31.3,78,16.8,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-11T06:51,2026-07-11T20:18,1017.7,2.0,39.0,49,74
+2026-07-11 19:44,Miami,EUA,América do Norte,29.3,34.7,22.7,31.8,72,3.6,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-07-11T06:37,2026-07-11T20:15,1019.8,1.4,23.3,72,96
+2026-07-11 19:44,New York,EUA,América do Norte,25.2,27.3,21.0,26.9,69,8.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-07-11T05:34,2026-07-11T20:28,1015.7,1.3,23.2,56,140
+2026-07-12 00:44,London,Reino Unido,Europa,19.2,18.1,18.1,29.5,72,16.6,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-07-12T04:58,2026-07-12T21:14,1023.6,0.0,33.0,34,58
+2026-07-12 01:44,Paris,França,Europa,25.9,24.4,21.9,36.6,39,11.6,0.0,3,Nublado,NightOvercast.webp,0,2026-07-12T06:00,2026-07-12T21:52,1017.5,0.0,43.2,73,16
+2026-07-12 02:44,Moscow,Rússia,Europa,17.5,19.7,16.5,20.4,95,1.3,0.3,95,Tempestade,Storm.webp,0,2026-07-12T04:02,2026-07-12T21:08,1010.0,0.0,8.3,100,304
