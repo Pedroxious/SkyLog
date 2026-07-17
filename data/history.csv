@@ -7340,3 +7340,18 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-17 12:48,Moscow,Rússia,Europa,19.1,18.1,10.0,21.6,49,13.6,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-17T04:09,2026-07-17T21:01,1017.4,5.8,41.3,36,349
 2026-07-17 16:48,Bangkok,Tailândia,Ásia,30.6,35.7,26.2,31.3,70,8.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-17T05:58,2026-07-17T18:49,1006.7,3.4,22.3,99,203
 2026-07-17 18:48,Tokyo,Japão,Ásia,26.5,32.1,25.0,29.7,88,5.4,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-17T04:38,2026-07-17T18:56,1004.7,0.8,4.0,43,160
+2026-07-17 08:15,São Paulo,Brasil,América do Sul,14.3,12.1,12.3,24.5,57,7.3,0.0,0,Céu limpo,DayClear.webp,1,2026-07-17T06:47,2026-07-17T17:37,1022.9,0.5,35.6,0,11
+2026-07-17 08:15,Rio de Janeiro,Brasil,América do Sul,18.7,19.0,16.4,24.9,76,8.0,0.0,0,Céu limpo,DayClear.webp,1,2026-07-17T06:32,2026-07-17T17:25,1023.6,0.7,11.7,2,351
+2026-07-17 08:15,Buenos Aires,Argentina,América do Sul,17.4,16.7,17.3,20.1,97,21.4,0.1,51,Chuvisco,drizzle.webp,1,2026-07-17T07:57,2026-07-17T18:02,994.5,0.0,4.4,99,30
+2026-07-17 05:15,Mexico City,México,América Central,13.4,13.4,13.4,23.8,92,4.3,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-07-17T06:07,2026-07-17T19:17,1021.2,0.0,22.5,29,312
+2026-07-17 07:15,Havana,Cuba,América Central,25.9,30.8,25.7,32.4,87,6.0,0.0,0,Céu limpo,DayClear.webp,1,2026-07-17T06:53,2026-07-17T20:17,1018.8,0.0,32.6,17,129
+2026-07-17 07:15,Miami,EUA,América do Norte,25.9,30.4,24.9,32.7,83,5.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-17T06:40,2026-07-17T20:13,1019.0,0.0,16.6,88,243
+2026-07-17 07:15,New York,EUA,América do Norte,20.5,21.0,19.7,33.8,73,9.7,0.0,0,Céu limpo,DayClear.webp,1,2026-07-17T05:39,2026-07-17T20:24,1016.5,0.4,8.5,2,333
+2026-07-17 12:15,London,Reino Unido,Europa,24.0,25.7,16.6,29.0,44,4.0,0.0,0,Céu limpo,DayClear.webp,1,2026-07-17T05:04,2026-07-17T21:10,1016.8,5.8,13.6,0,328
+2026-07-17 13:15,Paris,França,Europa,25.1,26.1,20.2,27.3,59,8.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-17T06:05,2026-07-17T21:47,1015.4,6.1,39.5,100,328
+2026-07-17 14:15,Moscow,Rússia,Europa,20.7,19.5,10.0,21.6,44,13.6,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-17T04:09,2026-07-17T21:01,1016.6,5.9,42.1,19,349
+2026-07-17 18:15,Bangkok,Tailândia,Ásia,29.1,34.5,26.2,31.3,78,8.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-17T05:58,2026-07-17T18:49,1006.9,1.3,30.8,99,185
+2026-07-17 20:15,Tokyo,Japão,Ásia,25.8,31.2,24.8,29.7,90,5.6,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-07-17T04:38,2026-07-17T18:56,1005.7,0.0,5.9,51,165
+2026-07-17 15:15,Dubai,Emirados Árabes,Oriente Médio,42.0,44.8,29.8,43.4,29,13.6,0.0,0,Céu limpo,DayClear.webp,1,2026-07-17T05:38,2026-07-17T19:10,997.3,7.2,18.0,0,26
+2026-07-17 14:15,Cairo,Egito,África,33.7,37.6,22.9,35.7,38,8.0,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-17T06:05,2026-07-17T19:57,1005.3,7.6,42.5,5,278
+2026-07-17 21:15,Sydney,Austrália,Oceania,12.4,12.2,12.3,16.4,93,4.2,0.1,51,Chuvisco,NightRain.webp,0,2026-07-17T06:57,2026-07-17T17:05,1032.1,0.0,7.1,72,205
