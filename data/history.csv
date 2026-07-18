@@ -7548,3 +7548,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-18 16:54,Dubai,Emirados Árabes,Oriente Médio,37.2,42.2,31.1,39.9,52,14.1,0.0,0,Céu limpo,DayClear.webp,1,2026-07-18T05:39,2026-07-18T19:10,998.0,5.5,15.7,14,329
 2026-07-18 15:54,Cairo,Egito,África,37.5,37.5,23.9,37.5,19,9.8,0.0,0,Céu limpo,DayClear.webp,1,2026-07-18T06:05,2026-07-18T19:56,1006.5,6.9,54.5,0,276
 2026-07-18 22:54,Sydney,Austrália,Oceania,13.8,13.2,11.6,17.9,79,5.1,0.0,3,Nublado,NightOvercast.webp,0,2026-07-18T06:56,2026-07-18T17:06,1032.3,0.0,51.9,83,163
+2026-07-18 11:16,São Paulo,Brasil,América do Sul,21.4,19.1,13.0,23.2,39,15.8,0.0,0,Céu limpo,DayClear.webp,1,2026-07-18T06:47,2026-07-18T17:38,1020.7,4.6,41.2,0,346
+2026-07-18 11:16,Rio de Janeiro,Brasil,América do Sul,24.4,24.6,17.5,25.9,46,8.4,0.0,0,Céu limpo,DayClear.webp,1,2026-07-18T06:32,2026-07-18T17:25,1020.7,4.8,17.6,0,11
+2026-07-18 11:16,Buenos Aires,Argentina,América do Sul,16.3,17.1,14.2,19.2,94,6.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-18T07:56,2026-07-18T18:03,1001.2,0.7,28.4,99,178
+2026-07-18 08:16,Mexico City,México,América Central,14.7,14.7,13.4,23.5,81,2.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-18T06:07,2026-07-18T19:17,1023.2,1.1,26.7,99,11
+2026-07-18 10:16,Havana,Cuba,América Central,30.5,34.2,24.9,33.2,56,4.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-18T06:54,2026-07-18T20:17,1017.9,3.5,47.9,97,75
+2026-07-18 10:16,Miami,EUA,América do Norte,30.3,34.5,27.1,32.0,72,16.6,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-07-18T06:40,2026-07-18T20:13,1018.4,3.5,22.4,76,153
+2026-07-18 10:16,New York,EUA,América do Norte,26.0,25.8,21.3,26.2,57,17.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-18T05:40,2026-07-18T20:24,1012.7,3.0,6.7,100,214
+2026-07-18 15:16,London,Reino Unido,Europa,23.9,21.6,16.2,24.2,35,11.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-18T05:05,2026-07-18T21:09,1019.4,4.5,24.7,96,17
+2026-07-18 16:16,Paris,França,Europa,29.4,28.2,18.7,29.6,30,8.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-07-18T06:06,2026-07-18T21:46,1015.5,3.1,46.0,60,320
+2026-07-18 17:16,Moscow,Rússia,Europa,25.3,25.4,12.4,25.4,41,2.0,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-18T04:10,2026-07-18T21:00,1014.2,3.4,42.8,11,45
