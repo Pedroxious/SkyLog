@@ -7473,3 +7473,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-18 04:42,Moscow,Rússia,Europa,13.4,13.0,13.3,24.9,82,3.3,0.0,0,Céu limpo,DayClear.webp,1,2026-07-18T04:10,2026-07-18T21:00,1017.5,0.0,32.8,0,319
 2026-07-18 08:42,Bangkok,Tailândia,Ásia,28.5,33.3,25.5,33.7,74,5.7,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-18T05:59,2026-07-18T18:49,1010.1,1.6,37.6,24,252
 2026-07-18 10:42,Tokyo,Japão,Ásia,26.5,31.9,23.9,28.3,86,5.1,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-07-18T04:39,2026-07-18T18:56,1007.6,6.3,12.7,59,129
+2026-07-18 01:40,São Paulo,Brasil,América do Sul,14.5,11.8,13.6,23.9,58,11.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-18T06:47,2026-07-18T17:38,1020.1,0.0,36.1,0,345
+2026-07-18 01:40,Rio de Janeiro,Brasil,América do Sul,18.9,18.8,17.8,25.8,73,8.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-18T06:32,2026-07-18T17:25,1020.1,0.0,29.8,0,19
+2026-07-18 01:40,Buenos Aires,Argentina,América do Sul,17.1,18.0,11.6,18.2,96,8.7,0.0,3,Nublado,NightOvercast.webp,0,2026-07-18T07:56,2026-07-18T18:03,999.7,0.0,30.6,80,172
+2026-07-17 22:40,Mexico City,México,América Central,15.3,16.1,13.4,22.5,89,1.5,0.0,3,Nublado,NightOvercast.webp,0,2026-07-17T06:07,2026-07-17T19:17,1023.0,0.0,20.3,100,324
+2026-07-18 00:40,Havana,Cuba,América Central,27.7,32.6,25.5,33.5,79,7.6,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-07-18T06:54,2026-07-18T20:17,1018.4,0.0,38.4,21,76
+2026-07-18 00:40,Miami,EUA,América do Norte,27.0,30.6,26.8,31.7,75,9.4,0.0,3,Nublado,NightOvercast.webp,0,2026-07-18T06:40,2026-07-18T20:13,1018.0,0.0,22.0,82,140
+2026-07-18 00:40,New York,EUA,América do Norte,23.1,26.4,21.0,28.1,83,3.8,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-07-18T05:40,2026-07-18T20:24,1016.3,0.0,11.6,56,163
+2026-07-18 05:40,London,Reino Unido,Europa,16.6,15.7,16.6,23.8,74,10.4,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-07-18T05:05,2026-07-18T21:09,1018.7,0.0,13.6,52,40
+2026-07-18 06:40,Paris,França,Europa,18.8,18.8,18.7,30.2,68,6.1,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-07-18T06:06,2026-07-18T21:46,1017.2,0.0,37.7,46,360
+2026-07-18 07:40,Moscow,Rússia,Europa,15.9,16.0,12.4,25.1,74,2.5,0.0,0,Céu limpo,DayClear.webp,1,2026-07-18T04:10,2026-07-18T21:00,1017.7,1.1,35.1,0,315
