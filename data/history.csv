@@ -7740,3 +7740,17 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-19 12:48,London,Reino Unido,Europa,20.8,18.7,13.5,22.6,34,12.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-19T05:06,2026-07-19T21:07,1024.8,5.0,25.7,47,4
 2026-07-19 13:48,Paris,França,Europa,22.7,22.4,14.3,24.6,38,11.6,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-19T06:07,2026-07-19T21:45,1021.6,5.8,42.9,25,7
 2026-07-19 14:48,Moscow,Rússia,Europa,27.2,27.1,14.5,27.4,32,7.0,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T04:12,2026-07-19T20:59,1013.8,5.8,46.1,0,192
+2026-07-19 09:56,São Paulo,Brasil,América do Sul,19.9,17.6,14.2,24.5,48,13.0,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T06:46,2026-07-19T17:38,1018.7,1.8,39.4,0,346
+2026-07-19 09:56,Rio de Janeiro,Brasil,América do Sul,24.3,24.9,18.7,27.3,57,7.7,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T06:32,2026-07-19T17:26,1018.8,2.0,35.1,1,28
+2026-07-19 09:56,Buenos Aires,Argentina,América do Sul,9.7,6.4,9.1,13.6,87,18.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-19T07:56,2026-07-19T18:03,1004.3,0.1,18.1,100,166
+2026-07-19 06:56,Mexico City,México,América Central,12.9,13.7,12.9,24.1,100,0.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-19T06:08,2026-07-19T19:17,1022.7,0.0,0.2,100,56
+2026-07-19 08:56,Havana,Cuba,América Central,27.9,32.7,25.1,33.4,75,5.1,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T06:54,2026-07-19T20:16,1015.9,0.3,39.2,1,207
+2026-07-19 08:56,Miami,EUA,América do Norte,29.7,32.3,27.3,32.1,69,21.6,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T06:40,2026-07-19T20:13,1016.5,0.6,22.6,0,152
+2026-07-19 08:56,New York,EUA,América do Norte,22.4,23.0,18.4,28.1,78,17.1,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T05:41,2026-07-19T20:23,1008.4,1.4,20.3,13,316
+2026-07-19 13:56,London,Reino Unido,Europa,21.9,19.8,13.5,22.7,31,13.0,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-19T05:06,2026-07-19T21:07,1024.7,5.5,25.8,27,8
+2026-07-19 14:56,Paris,França,Europa,23.6,23.0,14.3,24.6,35,11.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-19T06:07,2026-07-19T21:45,1021.1,6.3,43.5,77,356
+2026-07-19 15:56,Moscow,Rússia,Europa,27.2,26.8,14.5,27.2,34,6.6,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T04:12,2026-07-19T20:59,1013.6,5.3,45.0,0,193
+2026-07-19 19:56,Bangkok,Tailândia,Ásia,29.6,34.6,25.6,35.2,74,8.9,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-07-19T05:59,2026-07-19T18:49,1007.9,0.1,36.8,47,187
+2026-07-19 21:56,Tokyo,Japão,Ásia,26.0,31.6,24.3,31.5,87,2.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-19T04:39,2026-07-19T18:55,1008.3,0.0,22.5,7,162
+2026-07-19 16:56,Dubai,Emirados Árabes,Oriente Médio,36.2,42.1,31.8,39.9,58,13.2,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T05:39,2026-07-19T19:10,997.9,5.6,15.4,2,317
+2026-07-19 15:57,Cairo,Egito,África,38.9,39.5,24.2,38.9,21,10.1,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-19T06:06,2026-07-19T19:56,1008.3,6.9,52.0,7,276
