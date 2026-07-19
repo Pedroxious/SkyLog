@@ -7767,3 +7767,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-07-19 21:21,Bangkok,Tailândia,Ásia,28.9,34.5,25.6,35.2,80,7.7,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-07-19T05:59,2026-07-19T18:49,1009.2,0.0,35.0,78,216
 2026-07-19 23:21,Tokyo,Japão,Ásia,25.4,31.1,24.3,31.5,91,2.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-07-19T04:39,2026-07-19T18:55,1008.4,0.0,21.0,11,162
 2026-07-19 18:21,Dubai,Emirados Árabes,Oriente Médio,34.8,42.3,31.8,39.9,68,9.1,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T05:39,2026-07-19T19:10,998.0,1.7,14.3,2,322
+2026-07-19 12:48,São Paulo,Brasil,América do Sul,24.1,21.8,14.2,24.5,33,16.4,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T06:46,2026-07-19T17:38,1017.2,5.5,44.7,0,337
+2026-07-19 12:48,Rio de Janeiro,Brasil,América do Sul,27.2,28.6,18.7,27.3,44,4.8,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T06:32,2026-07-19T17:26,1017.0,5.5,39.8,0,70
+2026-07-19 12:48,Buenos Aires,Argentina,América do Sul,10.8,7.5,9.1,13.6,76,16.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-19T07:56,2026-07-19T18:03,1005.0,0.3,46.9,97,175
+2026-07-19 09:48,Mexico City,México,América Central,17.8,19.2,12.9,24.1,67,1.3,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-19T06:08,2026-07-19T19:17,1022.0,3.0,35.4,35,236
+2026-07-19 11:48,Havana,Cuba,América Central,32.4,37.7,25.1,33.4,52,6.6,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T06:54,2026-07-19T20:16,1016.2,5.5,23.5,18,223
+2026-07-19 11:48,Miami,EUA,América do Norte,31.7,36.6,27.3,32.3,67,23.0,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T06:40,2026-07-19T20:13,1016.1,5.3,24.4,18,155
+2026-07-19 11:48,New York,EUA,América do Norte,24.5,24.6,19.0,28.9,48,18.2,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T05:41,2026-07-19T20:23,1009.6,5.9,41.1,1,309
+2026-07-19 16:48,London,Reino Unido,Europa,22.6,19.6,13.5,22.7,31,12.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-07-19T05:06,2026-07-19T21:07,1024.3,3.0,25.3,41,18
+2026-07-19 17:48,Paris,França,Europa,24.1,21.7,14.3,24.6,33,10.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-07-19T06:07,2026-07-19T21:45,1020.8,4.6,44.6,100,14
+2026-07-19 18:48,Moscow,Rússia,Europa,25.7,25.1,14.5,26.8,38,5.5,0.0,0,Céu limpo,DayClear.webp,1,2026-07-19T04:12,2026-07-19T20:59,1013.2,2.2,44.1,0,212
