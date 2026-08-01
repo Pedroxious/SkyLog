@@ -9588,3 +9588,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-01 18:56,Bangkok,Tailândia,Ásia,26.1,31.8,25.0,32.4,95,7.9,0.3,55,Chuvisco,drizzle.webp,1,2026-08-01T06:02,2026-08-01T18:46,1005.5,1.2,4.6,100,200
 2026-08-01 20:56,Tokyo,Japão,Ásia,29.2,35.5,24.2,35.1,78,3.0,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-01T04:49,2026-08-01T18:46,1003.6,0.0,30.9,35,166
 2026-08-01 15:56,Dubai,Emirados Árabes,Oriente Médio,39.3,43.9,32.2,43.8,44,15.8,0.0,0,Céu limpo,DayClear.webp,1,2026-08-01T05:46,2026-08-01T19:04,995.1,7.2,17.6,0,333
+2026-08-01 10:07,São Paulo,Brasil,América do Sul,20.5,19.8,13.2,27.1,49,5.7,0.0,0,Céu limpo,DayClear.webp,1,2026-08-01T06:41,2026-08-01T17:44,1023.4,3.6,12.5,0,28
+2026-08-01 10:07,Rio de Janeiro,Brasil,América do Sul,22.1,23.7,18.4,25.2,67,4.1,0.0,0,Céu limpo,DayClear.webp,1,2026-08-01T06:26,2026-08-01T17:31,1024.6,3.9,32.6,0,29
+2026-08-01 10:07,Buenos Aires,Argentina,América do Sul,16.0,16.0,13.0,18.9,93,11.2,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-01T07:47,2026-08-01T18:12,1012.3,0.5,23.0,100,208
+2026-08-01 07:07,Mexico City,México,América Central,13.1,13.1,12.6,24.6,89,2.9,0.0,0,Céu limpo,DayClear.webp,1,2026-08-01T06:12,2026-08-01T19:12,1021.1,0.1,27.2,18,11
+2026-08-01 09:07,Havana,Cuba,América Central,28.8,34.1,26.0,32.9,78,7.0,0.0,0,Céu limpo,DayClear.webp,1,2026-08-01T07:00,2026-08-01T20:11,1015.8,1.6,41.8,15,108
+2026-08-01 09:07,Miami,EUA,América do Norte,28.6,34.6,23.8,32.0,80,4.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-01T06:47,2026-08-01T20:06,1016.2,1.4,18.2,100,315
+2026-08-01 09:07,New York,EUA,América do Norte,24.6,28.3,21.0,30.4,81,4.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-01T05:53,2026-08-01T20:11,1015.3,2.2,18.3,100,197
+2026-08-01 14:07,London,Reino Unido,Europa,24.5,22.9,16.3,26.1,26,5.8,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-01T05:24,2026-08-01T20:49,1019.7,4.7,24.9,36,280
+2026-08-01 15:07,Paris,França,Europa,27.5,28.5,18.1,28.6,33,5.5,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-01T06:24,2026-08-01T21:29,1017.9,6.8,44.2,26,302
