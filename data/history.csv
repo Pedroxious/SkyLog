@@ -9721,3 +9721,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-02 06:19,London,Reino Unido,Europa,16.6,14.5,16.7,27.2,57,11.5,0.0,0,Céu limpo,DayClear.webp,1,2026-08-02T05:26,2026-08-02T20:47,1018.7,0.0,19.6,2,45
 2026-08-02 07:19,Paris,França,Europa,17.3,16.1,17.2,32.0,58,6.2,0.0,0,Céu limpo,DayClear.webp,1,2026-08-02T06:25,2026-08-02T21:28,1016.1,0.1,26.0,0,350
 2026-08-02 08:19,Moscow,Rússia,Europa,22.7,24.5,17.9,30.7,72,5.7,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-02T04:36,2026-08-02T20:34,1016.7,1.7,35.4,13,215
+2026-08-02 05:06,São Paulo,Brasil,América do Sul,15.8,14.6,14.8,27.5,69,8.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-02T06:40,2026-08-02T17:44,1019.0,0.0,32.5,0,345
+2026-08-02 05:06,Rio de Janeiro,Brasil,América do Sul,18.0,19.0,18.0,28.3,86,6.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-02T06:26,2026-08-02T17:31,1018.3,0.0,26.0,0,17
+2026-08-02 05:06,Buenos Aires,Argentina,América do Sul,11.1,10.1,10.5,16.7,99,8.5,0.0,3,Nublado,NightOvercast.webp,0,2026-08-02T07:46,2026-08-02T18:13,1015.3,0.0,0.2,100,46
+2026-08-02 02:06,Mexico City,México,América Central,16.0,15.8,13.6,25.0,70,2.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-02T06:13,2026-08-02T19:12,1018.9,0.0,14.6,1,85
+2026-08-02 04:06,Havana,Cuba,América Central,26.8,31.8,26.0,34.4,87,9.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-02T07:00,2026-08-02T20:10,1013.1,0.0,34.0,5,130
+2026-08-02 04:07,Miami,EUA,América do Norte,26.0,30.8,25.3,28.3,87,7.5,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-02T06:47,2026-08-02T20:06,1014.1,0.0,14.6,71,125
+2026-08-02 04:07,New York,EUA,América do Norte,22.5,25.5,22.4,29.0,86,6.5,0.0,3,Nublado,NightOvercast.webp,0,2026-08-02T05:53,2026-08-02T20:10,1014.2,0.0,15.6,97,161
+2026-08-02 09:07,London,Reino Unido,Europa,19.2,18.2,16.9,27.1,58,8.3,0.0,0,Céu limpo,DayClear.webp,1,2026-08-02T05:26,2026-08-02T20:47,1018.5,1.6,13.1,0,66
+2026-08-02 10:07,Paris,França,Europa,21.4,20.1,17.2,32.4,44,6.9,0.0,0,Céu limpo,DayClear.webp,1,2026-08-02T06:25,2026-08-02T21:28,1015.9,2.7,41.8,3,6
+2026-08-02 11:07,Moscow,Rússia,Europa,27.4,29.4,17.9,30.6,53,8.9,0.0,0,Céu limpo,DayClear.webp,1,2026-08-02T04:36,2026-08-02T20:34,1016.0,4.5,40.8,0,220
