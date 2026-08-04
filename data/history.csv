@@ -10073,3 +10073,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-04 19:22,London,Reino Unido,Europa,25.4,23.8,20.1,29.6,51,20.9,0.0,0,Céu limpo,DayClear.webp,1,2026-08-04T05:29,2026-08-04T20:44,1009.5,0.1,29.7,0,225
 2026-08-04 20:22,Paris,França,Europa,30.2,29.6,23.4,32.5,38,14.0,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-04T06:28,2026-08-04T21:25,1011.9,1.2,43.4,47,241
 2026-08-04 21:22,Moscow,Rússia,Europa,22.1,23.1,15.1,25.5,57,0.5,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-04T04:40,2026-08-04T20:30,1018.2,0.0,41.3,41,135
+2026-08-04 17:18,São Paulo,Brasil,América do Sul,24.0,23.3,14.5,25.8,41,4.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-04T06:39,2026-08-04T17:45,1016.6,1.1,42.6,100,293
+2026-08-04 17:18,Rio de Janeiro,Brasil,América do Sul,23.9,25.8,18.7,26.8,70,7.3,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-04T06:25,2026-08-04T17:32,1016.7,0.8,31.8,54,132
+2026-08-04 17:18,Buenos Aires,Argentina,América do Sul,13.3,11.1,11.5,14.3,84,16.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-04T07:44,2026-08-04T18:14,1016.1,0.8,21.1,98,99
+2026-08-04 14:18,Mexico City,México,América Central,27.0,26.5,14.7,27.3,23,5.0,0.1,51,Chuvisco,drizzle.webp,1,2026-08-04T06:13,2026-08-04T19:11,1012.9,9.4,10.8,53,15
+2026-08-04 16:18,Havana,Cuba,América Central,30.9,33.9,24.5,31.5,58,11.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-04T07:01,2026-08-04T20:09,1015.3,4.7,48.9,95,27
+2026-08-04 16:18,Miami,EUA,América do Norte,28.7,34.9,25.0,30.9,85,14.7,0.0,0,Céu limpo,DayClear.webp,1,2026-08-04T06:48,2026-08-04T20:04,1016.0,7.0,17.8,15,126
+2026-08-04 16:18,New York,EUA,América do Norte,26.1,28.1,18.0,27.6,65,13.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-04T05:55,2026-08-04T20:08,1019.1,5.5,25.3,1,143
+2026-08-04 21:18,London,Reino Unido,Europa,22.8,22.0,20.1,29.6,64,18.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-04T05:29,2026-08-04T20:44,1010.4,0.0,27.1,1,225
+2026-08-04 22:18,Paris,França,Europa,28.6,28.1,23.4,32.5,43,13.9,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-04T06:28,2026-08-04T21:25,1013.2,0.0,42.5,74,233
