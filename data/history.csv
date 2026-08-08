@@ -10650,3 +10650,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-08 18:28,Tokyo,Japão,Ásia,29.0,33.5,25.1,32.8,69,5.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-08T04:54,2026-08-08T18:39,1006.8,0.8,30.7,17,195
 2026-08-08 13:28,Dubai,Emirados Árabes,Oriente Médio,41.2,46.7,32.1,44.1,38,15.8,0.0,0,Céu limpo,DayClear.webp,1,2026-08-08T05:49,2026-08-08T18:59,997.2,8.8,19.0,7,343
 2026-08-08 12:28,Cairo,Egito,África,32.6,36.5,22.8,36.8,40,7.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-08T06:18,2026-08-08T19:43,1007.7,6.8,42.3,0,295
+2026-08-08 07:21,São Paulo,Brasil,América do Sul,17.0,17.6,16.1,26.6,91,9.1,0.2,53,Chuvisco,drizzle.webp,1,2026-08-08T06:36,2026-08-08T17:47,1012.6,0.0,4.7,43,353
+2026-08-08 07:21,Rio de Janeiro,Brasil,América do Sul,22.0,26.3,21.4,26.8,95,1.4,0.1,51,Chuvisco,drizzle.webp,1,2026-08-08T06:22,2026-08-08T17:34,1012.4,0.1,13.1,88,90
+2026-08-08 07:21,Buenos Aires,Argentina,América do Sul,7.6,4.5,7.2,12.4,83,12.5,0.0,3,Nublado,NightOvercast.webp,0,2026-08-08T07:40,2026-08-08T18:17,1006.9,0.0,41.8,95,286
+2026-08-08 04:21,Mexico City,México,América Central,13.2,13.1,12.3,22.4,94,5.1,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-08T06:15,2026-08-08T19:08,1021.1,0.0,13.7,37,354
+2026-08-08 06:21,Havana,Cuba,América Central,25.6,31.6,25.5,33.4,93,2.2,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-08T07:03,2026-08-08T20:06,1015.6,0.0,30.9,42,125
+2026-08-08 06:21,Miami,EUA,América do Norte,26.8,30.3,26.6,31.2,79,13.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-08T06:50,2026-08-08T20:02,1017.7,0.0,17.8,1,125
+2026-08-08 06:21,New York,EUA,América do Norte,21.7,24.7,21.7,32.0,93,7.7,0.0,0,Céu limpo,DayClear.webp,1,2026-08-08T05:59,2026-08-08T20:03,1017.0,0.0,12.6,4,242
+2026-08-08 11:21,London,Reino Unido,Europa,23.0,22.2,15.7,28.1,40,10.4,0.0,0,Céu limpo,DayClear.webp,1,2026-08-08T05:35,2026-08-08T20:36,1020.4,4.2,28.9,0,191
+2026-08-08 12:21,Paris,França,Europa,24.5,24.7,16.2,31.1,37,5.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-08T06:33,2026-08-08T21:18,1019.8,5.2,43.1,25,45
