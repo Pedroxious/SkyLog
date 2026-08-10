@@ -11082,3 +11082,16 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-10 12:44,Tokyo,Japão,Ásia,30.4,36.0,22.7,30.7,63,6.5,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-10T04:56,2026-08-10T18:37,1006.3,5.8,25.5,24,71
 2026-08-10 07:44,Dubai,Emirados Árabes,Oriente Médio,35.4,37.4,33.8,42.8,35,5.1,0.0,0,Céu limpo,DayClear.webp,1,2026-08-10T05:50,2026-08-10T18:58,1001.6,0.4,19.1,1,107
 2026-08-10 06:44,Cairo,Egito,África,24.8,29.1,24.8,38.3,85,4.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-10T06:19,2026-08-10T19:41,1006.3,0.0,26.1,9,342
+2026-08-10 02:16,São Paulo,Brasil,América do Sul,15.2,15.3,13.2,17.5,95,8.7,0.0,3,Nublado,NightOvercast.webp,0,2026-08-10T06:35,2026-08-10T17:47,1021.6,0.0,1.3,100,143
+2026-08-10 02:16,Rio de Janeiro,Brasil,América do Sul,22.0,24.8,19.9,22.2,89,7.4,0.0,3,Nublado,NightOvercast.webp,0,2026-08-10T06:21,2026-08-10T17:35,1019.9,0.0,9.1,100,151
+2026-08-10 02:16,Buenos Aires,Argentina,América do Sul,5.3,1.5,3.5,11.0,71,12.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-10T07:38,2026-08-10T18:19,1031.8,0.0,47.6,0,197
+2026-08-09 23:17,Mexico City,México,América Central,14.6,15.2,13.5,23.1,89,1.5,0.1,51,Chuvisco,NightRain.webp,0,2026-08-09T06:15,2026-08-09T19:08,1022.8,0.0,5.7,100,324
+2026-08-10 01:17,Havana,Cuba,América Central,27.0,32.1,26.0,34.0,88,10.7,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-10T07:04,2026-08-10T20:05,1018.0,0.0,33.3,23,104
+2026-08-10 01:17,Miami,EUA,América do Norte,27.1,31.7,26.8,32.0,82,9.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-10T06:51,2026-08-10T20:00,1018.7,0.0,16.7,4,96
+2026-08-10 01:17,New York,EUA,América do Norte,23.2,25.5,21.1,32.8,76,6.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-10T06:01,2026-08-10T20:00,1015.9,0.0,21.2,14,353
+2026-08-10 06:17,London,Reino Unido,Europa,19.6,19.1,19.5,27.3,63,8.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-10T05:38,2026-08-10T20:33,1016.3,0.0,19.6,80,306
+2026-08-10 07:17,Paris,França,Europa,20.5,20.2,20.5,32.3,57,5.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-10T06:36,2026-08-10T21:15,1016.6,0.0,40.3,0,297
+2026-08-10 08:17,Moscow,Rússia,Europa,17.0,17.3,13.0,23.9,73,2.5,0.0,0,Céu limpo,DayClear.webp,1,2026-08-10T04:51,2026-08-10T20:17,1021.7,1.6,34.7,0,262
+2026-08-10 12:17,Bangkok,Tailândia,Ásia,31.8,37.2,26.6,32.1,63,15.3,0.1,51,Chuvisco,drizzle.webp,1,2026-08-10T06:04,2026-08-10T18:42,1006.7,4.0,15.4,78,233
+2026-08-10 14:17,Tokyo,Japão,Ásia,30.5,34.9,22.7,30.6,62,7.3,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-10T04:56,2026-08-10T18:37,1005.6,1.8,4.4,21,81
+2026-08-10 09:17,Dubai,Emirados Árabes,Oriente Médio,40.2,42.4,33.8,42.8,26,3.4,0.0,0,Céu limpo,DayClear.webp,1,2026-08-10T05:50,2026-08-10T18:58,1002.1,3.7,19.2,15,174
