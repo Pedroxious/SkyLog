@@ -11541,3 +11541,11 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-12 01:26,New York,EUA,América do Norte,23.2,25.8,19.9,31.1,83,8.9,0.0,3,Nublado,NightOvercast.webp,0,2026-08-12T06:03,2026-08-12T19:58,1010.8,0.0,18.0,87,317
 2026-08-12 06:26,London,Reino Unido,Europa,18.4,18.5,18.4,31.6,74,7.9,0.0,0,Céu limpo,DayClear.webp,1,2026-08-12T05:41,2026-08-12T20:29,1023.8,0.0,13.6,0,86
 2026-08-12 07:26,Paris,França,Europa,20.4,19.5,20.4,35.3,47,3.3,0.0,0,Céu limpo,DayClear.webp,1,2026-08-12T06:39,2026-08-12T21:12,1022.2,0.0,29.8,0,354
+2026-08-12 04:09,São Paulo,Brasil,América do Sul,13.8,13.7,13.8,24.6,95,6.8,0.0,3,Nublado,NightOvercast.webp,0,2026-08-12T06:34,2026-08-12T17:48,1022.8,0.0,0.9,100,127
+2026-08-12 04:09,Rio de Janeiro,Brasil,América do Sul,19.2,20.4,19.2,23.5,80,5.6,0.0,3,Nublado,NightOvercast.webp,0,2026-08-12T06:19,2026-08-12T17:35,1022.9,0.0,29.3,100,63
+2026-08-12 04:10,Buenos Aires,Argentina,América do Sul,8.5,5.7,7.9,12.2,83,12.1,0.0,3,Nublado,NightOvercast.webp,0,2026-08-12T07:36,2026-08-12T18:20,1024.8,0.0,41.0,100,91
+2026-08-12 01:10,Mexico City,México,América Central,14.3,15.1,13.2,23.4,96,2.3,0.0,3,Nublado,NightOvercast.webp,0,2026-08-12T06:16,2026-08-12T19:06,1021.6,0.0,1.8,100,315
+2026-08-12 03:10,Havana,Cuba,América Central,26.9,31.9,26.4,33.8,83,6.2,0.0,3,Nublado,NightOvercast.webp,0,2026-08-12T07:04,2026-08-12T20:04,1016.6,0.0,37.6,97,107
+2026-08-12 03:10,Miami,EUA,América do Norte,27.1,31.9,25.6,32.5,79,5.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-12T06:52,2026-08-12T19:59,1017.4,0.0,18.4,6,158
+2026-08-12 03:10,New York,EUA,América do Norte,21.5,23.4,19.6,31.2,84,9.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-12T06:03,2026-08-12T19:58,1009.9,0.0,16.5,2,329
+2026-08-12 08:10,London,Reino Unido,Europa,19.3,18.8,18.4,31.6,64,8.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-12T05:41,2026-08-12T20:29,1023.7,0.5,12.8,0,90
