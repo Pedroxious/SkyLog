@@ -11825,3 +11825,14 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-13 17:45,London,Reino Unido,Europa,35.0,33.0,19.8,36.1,21,13.0,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T05:43,2026-08-13T20:27,1018.6,1.2,25.1,0,116
 2026-08-13 18:45,Paris,França,Europa,37.1,34.6,22.0,37.4,16,11.4,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T06:40,2026-08-13T21:10,1018.5,3.6,58.8,0,349
 2026-08-13 19:45,Moscow,Rússia,Europa,14.0,11.9,10.9,15.3,62,9.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-13T04:57,2026-08-13T20:11,1017.7,0.7,40.0,85,299
+2026-08-13 14:50,São Paulo,Brasil,América do Sul,28.2,26.4,16.7,28.7,36,15.7,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-13T06:33,2026-08-13T17:49,1014.0,5.7,35.7,36,283
+2026-08-13 14:50,Rio de Janeiro,Brasil,América do Sul,24.7,27.0,18.8,27.2,74,9.4,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T06:19,2026-08-13T17:36,1013.9,5.5,18.4,14,180
+2026-08-13 14:50,Buenos Aires,Argentina,América do Sul,9.7,6.1,7.4,10.3,72,15.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-13T07:35,2026-08-13T18:21,1024.8,1.1,17.6,100,124
+2026-08-13 11:50,Mexico City,México,América Central,23.1,25.2,13.2,23.3,45,5.1,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-13T06:16,2026-08-13T19:05,1017.7,7.6,38.1,48,247
+2026-08-13 13:50,Havana,Cuba,América Central,32.7,37.6,24.8,32.7,56,16.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-13T07:05,2026-08-13T20:03,1017.7,8.4,28.3,91,37
+2026-08-13 13:50,Miami,EUA,América do Norte,33.0,40.6,24.5,33.1,63,10.9,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T06:53,2026-08-13T19:58,1017.6,8.4,27.6,12,99
+2026-08-13 13:50,New York,EUA,América do Norte,29.3,30.1,22.1,30.8,53,16.3,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-13T06:04,2026-08-13T19:56,1011.0,6.1,35.5,33,288
+2026-08-13 18:50,London,Reino Unido,Europa,33.6,31.4,19.8,36.0,22,13.0,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T05:43,2026-08-13T20:27,1018.7,0.4,23.5,0,111
+2026-08-13 19:50,Paris,França,Europa,36.3,34.3,22.0,37.4,18,10.2,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T06:40,2026-08-13T21:10,1018.3,2.2,57.0,0,10
+2026-08-13 20:50,Moscow,Rússia,Europa,13.4,11.4,10.9,15.3,63,8.1,0.0,3,Nublado,NightOvercast.webp,0,2026-08-13T04:57,2026-08-13T20:11,1018.2,0.1,39.7,87,302
+2026-08-14 00:50,Bangkok,Tailândia,Ásia,26.1,32.2,25.5,32.6,95,4.6,0.1,51,Chuvisco,NightRain.webp,0,2026-08-14T06:04,2026-08-14T18:40,1008.3,0.0,6.0,100,228
