@@ -11761,3 +11761,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-13 10:53,London,Reino Unido,Europa,26.3,27.1,19.8,35.5,45,6.5,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T05:43,2026-08-13T20:27,1021.7,2.5,8.1,0,84
 2026-08-13 11:53,Paris,França,Europa,29.8,29.8,22.0,37.5,26,3.4,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T06:40,2026-08-13T21:10,1021.3,3.8,48.8,0,18
 2026-08-13 12:53,Moscow,Rússia,Europa,14.4,11.9,10.9,15.4,64,13.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-13T04:57,2026-08-13T20:11,1015.5,4.5,38.1,97,308
+2026-08-13 07:53,São Paulo,Brasil,América do Sul,19.9,20.7,16.5,28.9,75,7.1,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-13T06:33,2026-08-13T17:49,1017.3,0.1,28.4,56,319
+2026-08-13 07:53,Rio de Janeiro,Brasil,América do Sul,20.7,22.7,18.8,28.1,86,7.3,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-13T06:19,2026-08-13T17:36,1015.5,0.1,0.7,38,353
+2026-08-13 07:53,Buenos Aires,Argentina,América do Sul,7.3,3.9,6.9,10.0,77,12.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-13T07:35,2026-08-13T18:21,1024.4,0.0,44.8,100,159
+2026-08-13 04:53,Mexico City,México,América Central,13.5,13.8,12.8,24.0,91,1.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-13T06:16,2026-08-13T19:05,1019.7,0.0,24.7,2,324
+2026-08-13 06:53,Havana,Cuba,América Central,25.2,29.5,25.2,33.0,87,8.2,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-13T07:05,2026-08-13T20:03,1015.7,0.0,34.4,57,139
+2026-08-13 06:53,Miami,EUA,América do Norte,25.0,29.4,24.5,32.9,87,6.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-13T06:53,2026-08-13T19:58,1016.4,0.0,15.1,6,246
+2026-08-13 06:53,New York,EUA,América do Norte,22.2,24.9,22.0,30.9,86,6.8,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T06:04,2026-08-13T19:56,1009.4,0.0,16.1,0,245
+2026-08-13 11:53,London,Reino Unido,Europa,28.6,29.3,19.8,35.1,36,7.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T05:43,2026-08-13T20:27,1021.5,3.8,10.5,0,76
+2026-08-13 12:53,Paris,França,Europa,32.8,32.9,22.0,37.8,21,5.3,0.0,0,Céu limpo,DayClear.webp,1,2026-08-13T06:40,2026-08-13T21:10,1020.6,5.1,53.3,0,28
