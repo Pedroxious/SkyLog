@@ -12059,3 +12059,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-14 23:22,Moscow,Rússia,Europa,12.7,10.9,8.7,18.2,63,5.2,0.0,3,Nublado,NightOvercast.webp,0,2026-08-14T04:59,2026-08-14T20:08,1016.3,0.0,40.0,93,304
 2026-08-14 23:22,Cairo,Egito,África,29.5,32.7,24.7,37.5,60,7.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-14T06:21,2026-08-14T19:37,1008.3,0.0,39.9,38,8
 2026-08-15 06:22,Sydney,Austrália,Oceania,9.9,8.2,9.8,16.3,92,8.8,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-15T06:34,2026-08-15T17:25,1030.6,0.0,2.7,63,287
+2026-08-14 18:16,São Paulo,Brasil,América do Sul,21.1,22.1,17.0,25.7,77,9.2,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-14T06:32,2026-08-14T17:49,1019.0,0.2,19.6,71,154
+2026-08-14 18:16,Rio de Janeiro,Brasil,América do Sul,21.8,23.9,20.7,24.7,90,12.0,0.0,3,Nublado,NightOvercast.webp,0,2026-08-14T06:18,2026-08-14T17:36,1019.7,0.1,19.1,100,118
+2026-08-14 18:16,Buenos Aires,Argentina,América do Sul,12.6,11.0,10.5,13.0,85,11.4,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-14T07:34,2026-08-14T18:22,1021.8,0.1,26.8,100,106
+2026-08-14 15:16,Mexico City,México,América Central,23.9,24.4,13.3,24.5,49,3.1,0.8,96,Granizo,RainHail.webp,1,2026-08-14T06:16,2026-08-14T19:05,1015.0,6.5,23.4,100,315
+2026-08-14 17:16,Havana,Cuba,América Central,30.4,34.2,25.1,34.3,68,14.8,0.1,51,Chuvisco,drizzle.webp,1,2026-08-14T07:05,2026-08-14T20:02,1017.7,5.7,8.9,72,56
+2026-08-14 17:16,Miami,EUA,América do Norte,31.5,36.1,26.9,32.9,72,19.4,0.0,0,Céu limpo,DayClear.webp,1,2026-08-14T06:53,2026-08-14T19:57,1018.4,5.3,20.2,3,68
+2026-08-14 17:16,New York,EUA,América do Norte,28.8,28.9,21.0,29.7,48,14.9,0.0,0,Céu limpo,DayClear.webp,1,2026-08-14T06:05,2026-08-14T19:55,1016.3,3.1,38.5,9,187
+2026-08-14 22:16,London,Reino Unido,Europa,28.3,28.1,22.9,34.1,44,12.6,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-14T05:44,2026-08-14T20:25,1015.0,0.0,24.9,28,60
+2026-08-14 23:16,Paris,França,Europa,31.2,31.1,23.5,39.0,35,9.0,0.0,3,Nublado,NightOvercast.webp,0,2026-08-14T06:42,2026-08-14T21:08,1014.4,0.0,44.4,96,344
