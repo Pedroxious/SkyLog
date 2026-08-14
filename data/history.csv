@@ -12018,3 +12018,11 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-14 20:41,Dubai,Emirados Árabes,Oriente Médio,34.7,43.1,31.2,41.3,69,3.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-14T05:52,2026-08-14T18:54,999.6,0.0,15.1,0,8
 2026-08-14 19:41,Cairo,Egito,África,35.3,36.2,24.7,37.5,33,9.7,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-14T06:21,2026-08-14T19:37,1005.6,0.8,45.5,73,312
 2026-08-15 02:41,Sydney,Austrália,Oceania,9.8,8.4,9.8,16.4,95,7.1,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-15T06:34,2026-08-15T17:25,1029.2,0.0,21.2,31,289
+2026-08-14 14:44,São Paulo,Brasil,América do Sul,24.7,26.0,17.0,25.4,54,2.0,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-14T06:32,2026-08-14T17:49,1018.0,5.9,15.6,22,85
+2026-08-14 14:44,Rio de Janeiro,Brasil,América do Sul,23.6,26.0,20.7,24.6,83,11.6,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-14T06:18,2026-08-14T17:36,1018.6,2.0,21.3,63,168
+2026-08-14 14:44,Buenos Aires,Argentina,América do Sul,12.3,10.6,10.5,13.1,83,10.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-14T07:34,2026-08-14T18:22,1023.0,1.2,14.2,100,103
+2026-08-14 11:44,Mexico City,México,América Central,22.3,25.2,12.9,23.2,54,4.4,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-14T06:16,2026-08-14T19:05,1019.7,7.7,29.8,24,249
+2026-08-14 13:44,Havana,Cuba,América Central,32.7,38.1,24.5,33.4,57,12.7,0.1,95,Tempestade,Storm.webp,1,2026-08-14T07:05,2026-08-14T20:02,1018.9,5.4,22.7,80,51
+2026-08-14 13:44,Miami,EUA,América do Norte,32.4,38.6,26.9,32.9,60,11.0,0.0,0,Céu limpo,DayClear.webp,1,2026-08-14T06:53,2026-08-14T19:57,1020.0,8.4,23.6,0,113
+2026-08-14 13:44,New York,EUA,América do Norte,29.8,31.3,21.0,30.9,38,10.5,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-14T06:05,2026-08-14T19:55,1017.0,7.1,46.4,61,221
+2026-08-14 18:44,London,Reino Unido,Europa,34.2,33.5,22.9,34.4,27,10.1,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-14T05:44,2026-08-14T20:25,1014.2,0.4,27.7,31,302
