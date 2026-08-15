@@ -12302,3 +12302,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-16 01:15,Bangkok,Tailândia,Ásia,26.9,31.4,26.3,31.8,81,7.6,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-16T06:05,2026-08-16T18:39,1009.6,0.0,35.0,77,239
 2026-08-16 03:15,Tokyo,Japão,Ásia,22.2,25.8,21.9,26.6,90,3.7,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-16T05:01,2026-08-16T18:30,1012.8,0.0,16.1,41,349
 2026-08-15 22:15,Dubai,Emirados Árabes,Oriente Médio,33.5,44.0,31.2,39.9,86,4.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-15T05:52,2026-08-15T18:54,1000.3,0.0,11.9,12,287
+2026-08-15 16:14,São Paulo,Brasil,América do Sul,24.8,25.4,16.4,24.8,54,7.3,0.0,0,Céu limpo,DayClear.webp,1,2026-08-15T06:31,2026-08-15T17:49,1017.4,2.5,34.7,12,134
+2026-08-15 16:14,Rio de Janeiro,Brasil,América do Sul,23.2,26.3,20.7,26.7,88,9.4,0.4,80,Chuva,DayRain.webp,1,2026-08-15T06:17,2026-08-15T17:36,1019.1,0.9,10.7,47,92
+2026-08-15 16:14,Buenos Aires,Argentina,América do Sul,14.2,13.9,12.6,15.3,93,8.1,0.2,53,Chuvisco,drizzle.webp,1,2026-08-15T07:33,2026-08-15T18:22,1013.1,0.5,7.3,100,118
+2026-08-15 13:14,Mexico City,México,América Central,23.5,26.5,13.5,24.3,49,4.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-15T06:17,2026-08-15T19:04,1019.0,9.7,15.6,23,310
+2026-08-15 15:14,Havana,Cuba,América Central,32.4,37.8,25.4,33.3,63,16.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-15T07:05,2026-08-15T20:01,1018.9,8.4,7.5,34,49
+2026-08-15 15:14,Miami,EUA,América do Norte,32.9,39.8,26.8,33.0,66,16.3,0.0,0,Céu limpo,DayClear.webp,1,2026-08-15T06:53,2026-08-15T19:56,1019.6,8.3,24.1,1,118
+2026-08-15 15:14,New York,EUA,América do Norte,29.4,29.1,19.0,29.4,31,12.7,0.0,0,Céu limpo,DayClear.webp,1,2026-08-15T06:06,2026-08-15T19:54,1019.8,6.7,60.1,0,317
+2026-08-15 20:14,London,Reino Unido,Europa,24.3,25.0,20.6,27.3,63,11.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-15T05:46,2026-08-15T20:23,1017.2,0.0,21.4,53,96
+2026-08-15 21:14,Paris,França,Europa,29.7,30.8,23.9,31.1,45,7.4,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-15T06:43,2026-08-15T21:06,1013.9,0.2,41.9,93,299
