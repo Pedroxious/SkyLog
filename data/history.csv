@@ -12351,3 +12351,15 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-16 08:11,Tokyo,Japão,Ásia,23.0,26.7,21.7,26.1,87,4.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-16T05:01,2026-08-16T18:30,1013.7,2.0,7.5,88,360
 2026-08-16 03:11,Dubai,Emirados Árabes,Oriente Médio,31.1,40.5,31.1,39.2,93,5.9,0.0,3,Nublado,NightOvercast.webp,0,2026-08-16T05:52,2026-08-16T18:53,999.0,0.0,9.6,88,117
 2026-08-16 02:11,Cairo,Egito,África,26.5,30.6,24.4,37.4,78,6.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-16T06:22,2026-08-16T19:35,1009.7,0.0,32.4,19,18
+2026-08-15 21:44,São Paulo,Brasil,América do Sul,17.4,18.6,16.4,22.5,94,6.6,0.0,3,Nublado,NightOvercast.webp,0,2026-08-15T06:31,2026-08-15T17:49,1021.4,0.0,13.7,99,137
+2026-08-15 21:44,Rio de Janeiro,Brasil,América do Sul,20.6,21.6,20.5,23.7,87,14.8,0.0,3,Nublado,NightOvercast.webp,0,2026-08-15T06:17,2026-08-15T17:36,1021.6,0.0,22.9,85,87
+2026-08-15 21:44,Buenos Aires,Argentina,América do Sul,14.1,14.4,12.6,15.2,96,4.6,0.0,3,Nublado,NightOvercast.webp,0,2026-08-15T07:33,2026-08-15T18:22,1012.5,0.0,21.8,100,77
+2026-08-15 18:44,Mexico City,México,América Central,18.2,18.4,14.1,25.1,79,8.6,0.5,95,Tempestade,Storm.webp,1,2026-08-15T06:17,2026-08-15T19:04,1019.8,0.8,7.3,99,324
+2026-08-15 20:44,Havana,Cuba,América Central,28.8,32.6,25.4,34.0,76,17.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-15T07:05,2026-08-15T20:01,1018.5,0.3,42.5,10,57
+2026-08-15 20:44,Miami,EUA,América do Norte,29.1,34.7,26.8,33.0,82,11.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-15T06:53,2026-08-15T19:56,1019.9,0.2,16.4,0,103
+2026-08-15 20:44,New York,EUA,América do Norte,23.2,24.3,19.0,29.6,68,10.0,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-15T06:06,2026-08-15T19:54,1019.5,0.1,24.4,11,131
+2026-08-16 01:44,London,Reino Unido,Europa,21.2,22.3,19.9,27.0,74,7.6,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-16T05:47,2026-08-16T20:21,1018.7,0.0,28.2,74,116
+2026-08-16 02:44,Paris,França,Europa,24.3,26.2,21.0,31.7,67,6.2,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-16T06:44,2026-08-16T21:04,1015.7,0.0,37.9,22,350
+2026-08-16 03:44,Moscow,Rússia,Europa,13.8,14.1,13.7,22.9,94,4.4,0.0,3,Nublado,NightOvercast.webp,0,2026-08-16T05:03,2026-08-16T20:04,1013.3,0.0,14.3,88,261
+2026-08-16 07:44,Bangkok,Tailândia,Ásia,26.6,32.3,25.6,30.8,90,6.1,0.1,51,Chuvisco,drizzle.webp,1,2026-08-16T06:05,2026-08-16T18:39,1009.5,0.1,12.5,88,210
+2026-08-16 09:44,Tokyo,Japão,Ásia,23.8,27.5,21.7,26.1,84,4.0,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-16T05:01,2026-08-16T18:30,1013.8,4.0,4.9,72,10
