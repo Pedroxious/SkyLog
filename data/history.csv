@@ -12943,3 +12943,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-18 01:20,New York,EUA,América do Norte,22.8,27.3,22.3,29.1,96,3.3,0.0,3,Nublado,NightOvercast.webp,0,2026-08-18T06:09,2026-08-18T19:49,1010.4,0.0,12.2,85,131
 2026-08-18 06:20,London,Reino Unido,Europa,20.1,19.7,20.0,25.1,74,15.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-18T05:51,2026-08-18T20:17,1011.7,0.0,18.3,100,247
 2026-08-18 15:21,Sydney,Austrália,Oceania,16.6,14.6,9.3,17.2,62,12.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-18T06:31,2026-08-18T17:27,1033.6,2.9,25.1,100,78
+2026-08-18 03:27,São Paulo,Brasil,América do Sul,16.4,17.0,15.8,29.8,84,3.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-18T06:29,2026-08-18T17:51,1019.0,0.0,25.3,0,34
+2026-08-18 03:27,Rio de Janeiro,Brasil,América do Sul,19.1,20.8,18.2,27.1,88,5.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-18T06:15,2026-08-18T17:38,1018.6,0.0,24.8,0,30
+2026-08-18 03:27,Buenos Aires,Argentina,América do Sul,9.3,6.1,7.7,12.8,82,15.6,0.0,3,Nublado,NightOvercast.webp,0,2026-08-18T07:29,2026-08-18T18:25,1021.6,0.0,40.6,100,153
+2026-08-18 00:27,Mexico City,México,América Central,14.5,14.1,12.4,23.5,86,6.9,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-18T06:18,2026-08-18T19:02,1022.3,0.0,26.6,33,332
+2026-08-18 02:27,Havana,Cuba,América Central,26.7,31.3,24.6,33.7,86,10.6,0.0,3,Nublado,NightOvercast.webp,0,2026-08-18T07:07,2026-08-18T19:59,1017.4,0.0,34.6,88,86
+2026-08-18 02:27,Miami,EUA,América do Norte,26.6,31.5,25.4,35.7,85,7.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-18T06:55,2026-08-18T19:53,1017.3,0.0,15.5,0,219
+2026-08-18 02:27,New York,EUA,América do Norte,22.7,27.0,22.3,29.1,96,4.0,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-18T06:09,2026-08-18T19:49,1010.4,0.0,12.2,28,85
+2026-08-18 07:27,London,Reino Unido,Europa,20.1,20.0,19.8,25.5,78,15.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-18T05:51,2026-08-18T20:17,1011.9,0.0,16.2,100,254
+2026-08-18 08:27,Paris,França,Europa,18.6,18.9,18.5,25.9,80,9.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-18T06:47,2026-08-18T21:01,1016.3,0.2,28.3,100,266
