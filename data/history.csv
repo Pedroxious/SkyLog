@@ -13947,3 +13947,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-22 04:09,Paris,França,Europa,15.4,15.3,14.3,22.9,85,6.5,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-22T06:53,2026-08-22T20:53,1017.8,0.0,24.8,42,304
 2026-08-22 05:09,Moscow,Rússia,Europa,13.0,13.1,13.0,21.6,91,3.1,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T05:15,2026-08-22T19:49,1016.2,0.0,22.3,100,234
 2026-08-22 09:09,Bangkok,Tailândia,Ásia,28.8,32.9,25.9,29.9,75,12.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-22T06:05,2026-08-22T18:36,1010.8,0.3,33.1,100,196
+2026-08-22 00:34,São Paulo,Brasil,América do Sul,14.1,13.5,13.2,22.9,81,5.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-22T06:26,2026-08-22T17:52,1020.3,0.0,24.7,4,128
+2026-08-22 00:34,Rio de Janeiro,Brasil,América do Sul,19.9,20.9,19.7,22.2,93,15.1,0.1,51,Chuvisco,NightRain.webp,0,2026-08-22T06:11,2026-08-22T17:39,1018.8,0.0,5.3,100,221
+2026-08-22 00:34,Buenos Aires,Argentina,América do Sul,5.9,2.6,3.2,12.8,66,8.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-22T07:24,2026-08-22T18:27,1026.5,0.0,48.0,0,241
+2026-08-21 21:34,Mexico City,México,América Central,16.5,16.2,13.3,25.0,80,8.1,0.0,3,Nublado,NightOvercast.webp,0,2026-08-21T06:18,2026-08-21T19:00,1021.8,0.0,24.3,98,347
+2026-08-21 23:34,Havana,Cuba,América Central,28.6,33.4,25.5,34.1,75,7.6,0.0,3,Nublado,NightOvercast.webp,0,2026-08-21T07:08,2026-08-21T19:56,1017.2,0.0,42.9,99,75
+2026-08-21 23:34,Miami,EUA,América do Norte,28.1,32.7,26.5,33.5,77,9.5,0.0,3,Nublado,NightOvercast.webp,0,2026-08-21T06:56,2026-08-21T19:51,1016.9,0.0,20.2,100,151
+2026-08-21 23:34,New York,EUA,América do Norte,19.9,22.0,17.7,25.5,87,5.0,0.0,3,Nublado,NightOvercast.webp,0,2026-08-21T06:12,2026-08-21T19:45,1017.5,0.0,15.5,100,150
+2026-08-22 04:34,London,Reino Unido,Europa,14.0,12.4,13.1,21.1,72,9.0,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-22T05:57,2026-08-22T20:09,1019.9,0.0,25.8,38,341
+2026-08-22 05:34,Paris,França,Europa,14.8,14.8,14.3,22.9,87,5.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-22T06:53,2026-08-22T20:53,1018.5,0.0,22.7,20,304
