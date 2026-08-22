@@ -13985,3 +13985,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-22 14:18,Tokyo,Japão,Ásia,30.4,35.6,23.9,30.4,65,2.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-22T05:05,2026-08-22T18:23,1012.9,2.1,2.8,69,90
 2026-08-22 09:18,Dubai,Emirados Árabes,Oriente Médio,38.5,43.5,33.0,43.8,45,9.9,0.0,0,Céu limpo,DayClear.webp,1,2026-08-22T05:55,2026-08-22T18:47,1002.6,3.6,17.6,2,148
 2026-08-22 08:18,Cairo,Egito,África,23.2,27.1,21.8,35.4,88,3.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-22T06:26,2026-08-22T19:29,1011.9,0.7,9.9,49,360
+2026-08-22 03:23,São Paulo,Brasil,América do Sul,13.7,12.5,13.2,22.9,84,9.9,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T06:26,2026-08-22T17:52,1019.9,0.0,21.5,100,136
+2026-08-22 03:23,Rio de Janeiro,Brasil,América do Sul,19.7,19.9,19.7,22.2,86,16.7,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T06:11,2026-08-22T17:39,1018.8,0.0,12.5,100,208
+2026-08-22 03:23,Buenos Aires,Argentina,América do Sul,4.6,0.9,3.2,12.8,72,10.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-22T07:24,2026-08-22T18:27,1026.1,0.0,44.7,0,265
+2026-08-22 00:23,Mexico City,México,América Central,15.7,15.8,14.2,23.5,85,6.4,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T06:19,2026-08-22T18:59,1022.7,0.0,14.3,92,338
+2026-08-22 02:23,Havana,Cuba,América Central,27.5,32.5,25.9,33.9,81,6.4,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T07:08,2026-08-22T19:56,1016.6,0.0,38.1,98,100
+2026-08-22 02:23,Miami,EUA,América do Norte,27.0,30.9,24.8,32.9,75,7.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-22T06:57,2026-08-22T19:50,1016.8,0.0,19.9,0,169
+2026-08-22 02:23,New York,EUA,América do Norte,19.4,20.9,18.9,24.2,84,5.9,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T06:13,2026-08-22T19:44,1017.8,0.0,17.5,100,133
+2026-08-22 07:23,London,Reino Unido,Europa,12.8,10.5,12.7,21.4,73,12.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-22T05:57,2026-08-22T20:09,1021.9,0.1,21.1,5,358
+2026-08-22 08:23,Paris,França,Europa,14.4,14.2,13.9,23.0,80,3.0,0.0,0,Céu limpo,DayClear.webp,1,2026-08-22T06:53,2026-08-22T20:53,1020.0,0.2,29.8,0,256
