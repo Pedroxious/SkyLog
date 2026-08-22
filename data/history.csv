@@ -13994,3 +13994,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-22 02:23,New York,EUA,América do Norte,19.4,20.9,18.9,24.2,84,5.9,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T06:13,2026-08-22T19:44,1017.8,0.0,17.5,100,133
 2026-08-22 07:23,London,Reino Unido,Europa,12.8,10.5,12.7,21.4,73,12.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-22T05:57,2026-08-22T20:09,1021.9,0.1,21.1,5,358
 2026-08-22 08:23,Paris,França,Europa,14.4,14.2,13.9,23.0,80,3.0,0.0,0,Céu limpo,DayClear.webp,1,2026-08-22T06:53,2026-08-22T20:53,1020.0,0.2,29.8,0,256
+2026-08-22 04:23,São Paulo,Brasil,América do Sul,13.6,12.4,13.6,23.3,82,9.7,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T06:26,2026-08-22T17:52,1020.2,0.0,11.9,90,138
+2026-08-22 04:23,Rio de Janeiro,Brasil,América do Sul,19.6,19.8,19.6,22.2,85,15.7,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T06:11,2026-08-22T17:39,1018.8,0.0,9.7,100,193
+2026-08-22 04:23,Buenos Aires,Argentina,América do Sul,4.1,0.5,3.2,12.7,74,10.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-22T07:24,2026-08-22T18:27,1025.7,0.0,44.7,0,260
+2026-08-22 01:23,Mexico City,México,América Central,15.0,15.1,14.2,22.2,91,6.7,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T06:19,2026-08-22T18:59,1021.5,0.0,10.2,100,336
+2026-08-22 03:23,Havana,Cuba,América Central,26.3,31.5,25.4,33.5,83,2.3,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T07:08,2026-08-22T19:56,1015.9,0.0,38.1,84,113
+2026-08-22 03:23,Miami,EUA,América do Norte,26.8,30.2,25.2,33.1,74,9.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-22T06:57,2026-08-22T19:50,1016.8,0.0,21.4,0,160
+2026-08-22 03:23,New York,EUA,América do Norte,19.6,21.8,19.0,24.7,86,2.6,0.0,3,Nublado,NightOvercast.webp,0,2026-08-22T06:13,2026-08-22T19:44,1017.3,0.0,19.2,100,164
+2026-08-22 08:23,London,Reino Unido,Europa,13.7,11.4,12.7,21.4,70,12.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-22T05:57,2026-08-22T20:09,1022.4,0.4,19.6,19,6
+2026-08-22 09:23,Paris,França,Europa,15.7,15.2,13.9,23.0,72,4.3,0.0,0,Céu limpo,DayClear.webp,1,2026-08-22T06:53,2026-08-22T20:53,1020.5,1.0,35.4,0,275
