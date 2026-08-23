@@ -14218,3 +14218,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-23 03:19,London,Reino Unido,Europa,16.0,15.4,15.1,23.9,70,5.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-23T05:59,2026-08-23T20:07,1025.3,0.0,22.3,0,248
 2026-08-23 04:19,Paris,França,Europa,15.6,14.4,13.9,24.2,69,8.2,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-23T06:54,2026-08-23T20:51,1023.6,0.0,36.9,46,38
 2026-08-23 05:19,Moscow,Rússia,Europa,16.6,17.8,15.9,23.1,94,5.1,0.0,3,Nublado,NightOvercast.webp,0,2026-08-23T05:17,2026-08-23T19:47,1007.6,0.0,11.8,100,225
+2026-08-23 00:41,São Paulo,Brasil,América do Sul,13.8,13.0,12.8,24.3,84,7.6,0.0,3,Nublado,NightOvercast.webp,0,2026-08-23T06:25,2026-08-23T17:52,1021.5,0.0,22.2,100,89
+2026-08-23 00:42,Rio de Janeiro,Brasil,América do Sul,19.1,21.0,18.5,22.7,88,3.8,0.0,3,Nublado,NightOvercast.webp,0,2026-08-23T06:11,2026-08-23T17:39,1021.5,0.0,8.6,100,71
+2026-08-23 00:42,Buenos Aires,Argentina,América do Sul,8.2,4.6,4.6,11.9,57,10.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-23T07:23,2026-08-23T18:28,1023.7,0.0,51.2,0,275
+2026-08-22 21:42,Mexico City,México,América Central,14.6,14.8,14.0,23.2,91,4.9,0.2,53,Chuvisco,NightRain.webp,0,2026-08-22T06:19,2026-08-22T18:59,1022.9,0.0,5.2,100,332
+2026-08-22 23:42,Havana,Cuba,América Central,28.2,33.4,25.0,34.0,81,8.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-22T07:08,2026-08-22T19:56,1017.0,0.0,40.6,1,97
+2026-08-22 23:42,Miami,EUA,América do Norte,27.5,31.4,25.4,32.7,75,9.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-22T06:57,2026-08-22T19:50,1017.0,0.0,19.8,31,156
+2026-08-22 23:42,New York,EUA,América do Norte,20.2,22.8,19.4,24.5,89,3.3,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-22T06:13,2026-08-22T19:44,1013.7,0.0,14.8,21,96
+2026-08-23 04:42,London,Reino Unido,Europa,15.5,15.0,15.2,23.9,71,4.3,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-23T05:59,2026-08-23T20:07,1025.5,0.0,19.5,27,253
+2026-08-23 05:42,Paris,França,Europa,14.9,13.6,13.9,24.2,71,7.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-08-23T06:54,2026-08-23T20:51,1023.7,0.0,36.2,31,34
