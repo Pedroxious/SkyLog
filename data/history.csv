@@ -14687,3 +14687,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-25 03:19,Bangkok,Tailândia,Ásia,25.4,29.9,25.1,32.1,84,4.7,0.0,3,Nublado,NightOvercast.webp,0,2026-08-25T06:06,2026-08-25T18:34,1008.0,0.0,29.3,96,220
 2026-08-25 05:19,Tokyo,Japão,Ásia,23.6,28.5,23.6,33.6,95,3.1,0.0,0,Céu limpo,DayClear.webp,1,2026-08-25T05:08,2026-08-25T18:19,1012.8,0.0,19.6,7,201
 2026-08-25 00:19,Dubai,Emirados Árabes,Oriente Médio,32.4,41.2,30.0,42.5,79,2.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-25T05:56,2026-08-25T18:45,1001.3,0.0,14.2,2,234
+2026-08-24 18:19,São Paulo,Brasil,América do Sul,14.6,13.4,13.8,19.8,84,12.5,0.0,3,Nublado,NightOvercast.webp,0,2026-08-24T06:24,2026-08-24T17:53,1022.0,0.1,19.3,100,131
+2026-08-24 18:19,Rio de Janeiro,Brasil,América do Sul,19.4,20.1,18.8,20.8,90,14.0,0.2,53,Chuvisco,NightRain.webp,0,2026-08-24T06:10,2026-08-24T17:40,1022.0,0.0,4.5,100,123
+2026-08-24 18:19,Buenos Aires,Argentina,América do Sul,9.9,7.0,5.9,10.8,60,8.0,0.0,0,Céu limpo,DayClear.webp,1,2026-08-24T07:22,2026-08-24T18:29,1024.2,0.7,50.5,11,82
+2026-08-24 15:19,Mexico City,México,América Central,18.9,18.7,13.5,18.9,62,4.2,0.1,51,Chuvisco,drizzle.webp,1,2026-08-24T06:19,2026-08-24T18:57,1017.2,6.5,8.4,100,190
+2026-08-24 17:19,Havana,Cuba,América Central,32.7,35.4,24.5,34.3,52,12.9,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-24T07:09,2026-08-24T19:54,1014.1,5.5,10.4,29,41
+2026-08-24 17:19,Miami,EUA,América do Norte,31.3,36.1,24.7,31.7,68,11.5,0.0,0,Céu limpo,DayClear.webp,1,2026-08-24T06:57,2026-08-24T19:48,1016.0,5.2,24.0,0,122
+2026-08-24 17:19,New York,EUA,América do Norte,26.6,24.1,17.6,27.6,39,20.3,0.0,0,Céu limpo,DayClear.webp,1,2026-08-24T06:15,2026-08-24T19:40,1014.2,3.1,53.9,0,245
+2026-08-24 22:19,London,Reino Unido,Europa,18.2,16.2,13.6,22.1,62,15.5,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-24T06:00,2026-08-24T20:05,1015.3,0.0,29.9,64,54
+2026-08-24 23:20,Paris,França,Europa,21.7,19.8,16.3,26.9,43,10.2,0.0,3,Nublado,NightOvercast.webp,0,2026-08-24T06:56,2026-08-24T20:49,1011.0,0.0,42.3,100,72
