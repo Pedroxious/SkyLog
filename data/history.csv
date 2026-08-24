@@ -14592,3 +14592,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-24 14:18,Moscow,Rússia,Europa,19.5,17.5,12.5,19.8,54,13.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-24T05:19,2026-08-24T19:44,1010.7,2.4,40.7,87,261
 2026-08-24 18:18,Bangkok,Tailândia,Ásia,30.2,35.5,25.7,33.0,72,7.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-24T06:05,2026-08-24T18:34,1006.3,0.9,36.8,100,250
 2026-08-24 20:18,Tokyo,Japão,Ásia,26.8,32.6,23.8,32.8,85,3.0,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-24T05:07,2026-08-24T18:20,1013.3,0.0,25.9,17,166
+2026-08-24 09:28,São Paulo,Brasil,América do Sul,17.3,16.1,13.5,21.0,69,11.3,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-24T06:24,2026-08-24T17:53,1023.4,1.4,27.7,59,104
+2026-08-24 09:28,Rio de Janeiro,Brasil,América do Sul,19.5,21.1,18.7,20.3,95,11.2,0.2,53,Chuvisco,drizzle.webp,1,2026-08-24T06:10,2026-08-24T17:40,1023.6,0.2,4.0,100,116
+2026-08-24 09:28,Buenos Aires,Argentina,América do Sul,8.2,5.6,5.6,10.8,72,7.0,0.0,0,Céu limpo,DayClear.webp,1,2026-08-24T07:22,2026-08-24T18:29,1028.0,0.8,45.6,5,69
+2026-08-24 06:28,Mexico City,México,América Central,13.6,14.0,13.6,19.6,91,1.5,0.1,51,Chuvisco,NightRain.webp,0,2026-08-24T06:19,2026-08-24T18:57,1021.4,0.0,8.9,100,240
+2026-08-24 08:28,Havana,Cuba,América Central,26.7,31.1,25.2,34.3,79,6.8,0.0,0,Céu limpo,DayClear.webp,1,2026-08-24T07:09,2026-08-24T19:54,1016.3,0.2,39.5,0,112
+2026-08-24 08:28,Miami,EUA,América do Norte,27.3,33.3,24.7,32.6,85,3.6,0.0,0,Céu limpo,DayClear.webp,1,2026-08-24T06:57,2026-08-24T19:48,1017.4,0.3,16.1,5,360
+2026-08-24 08:29,New York,EUA,América do Norte,20.5,22.2,17.6,27.4,83,6.9,0.0,0,Céu limpo,DayClear.webp,1,2026-08-24T06:15,2026-08-24T19:40,1013.6,0.8,18.8,0,231
+2026-08-24 13:29,London,Reino Unido,Europa,20.9,18.3,13.6,21.7,46,19.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-24T06:00,2026-08-24T20:05,1019.4,4.3,26.7,99,89
+2026-08-24 14:29,Paris,França,Europa,23.9,22.5,16.3,26.2,38,13.3,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-24T06:56,2026-08-24T20:49,1014.6,4.9,42.8,78,71
