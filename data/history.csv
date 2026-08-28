@@ -15237,3 +15237,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-28 10:05,Paris,França,Europa,17.2,17.4,17.2,23.3,75,4.4,0.1,61,Chuva,DayRain.webp,1,2026-08-28T07:01,2026-08-28T20:41,1010.3,0.8,34.2,100,279
 2026-08-28 11:05,Moscow,Rússia,Europa,16.3,16.0,10.0,19.9,73,5.5,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-28T05:26,2026-08-28T19:34,1027.0,3.9,34.5,60,328
 2026-08-28 15:05,Bangkok,Tailândia,Ásia,29.2,34.0,25.6,30.5,77,12.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-28T06:06,2026-08-28T18:32,1006.5,1.2,7.6,99,186
+2026-08-28 17:30,São Paulo,Brasil,América do Sul,28.1,27.5,16.2,30.3,40,11.0,0.0,0,Céu limpo,DayClear.webp,1,2026-08-28T06:20,2026-08-28T17:54,1010.4,1.5,38.9,18,350
+2026-08-28 17:30,Rio de Janeiro,Brasil,América do Sul,23.8,26.7,18.5,26.9,83,9.8,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-28T06:06,2026-08-28T17:41,1010.9,1.1,23.3,44,97
+2026-08-28 17:30,Buenos Aires,Argentina,América do Sul,15.3,13.7,9.7,16.1,59,6.3,0.0,0,Céu limpo,DayClear.webp,1,2026-08-28T07:17,2026-08-28T18:32,1010.9,1.2,1.0,16,75
+2026-08-28 14:30,Mexico City,México,América Central,23.9,25.6,13.9,23.9,43,0.4,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-28T06:20,2026-08-28T18:54,1014.4,8.7,38.2,100,63
+2026-08-28 16:30,Havana,Cuba,América Central,31.6,35.2,24.7,32.8,61,15.2,0.3,95,Tempestade,Storm.webp,1,2026-08-28T07:10,2026-08-28T19:50,1014.4,7.0,9.4,43,27
+2026-08-28 16:30,Miami,EUA,América do Norte,32.6,36.9,26.1,32.9,56,12.1,0.0,0,Céu limpo,DayClear.webp,1,2026-08-28T06:59,2026-08-28T19:44,1015.0,6.8,29.1,0,150
+2026-08-28 16:30,New York,EUA,América do Norte,27.4,29.8,20.7,27.7,60,7.0,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-28T06:19,2026-08-28T19:34,1015.8,3.3,30.2,60,339
+2026-08-28 21:30,London,Reino Unido,Europa,19.4,18.4,15.8,24.0,70,15.8,0.0,3,Nublado,NightOvercast.webp,0,2026-08-28T06:07,2026-08-28T19:56,1007.6,0.0,25.3,98,233
+2026-08-28 22:30,Paris,França,Europa,21.1,20.7,17.2,23.4,58,8.0,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-28T07:01,2026-08-28T20:41,1014.0,0.0,40.4,84,198
+2026-08-28 23:30,Moscow,Rússia,Europa,14.3,13.0,10.0,20.5,58,1.9,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-08-28T05:26,2026-08-28T19:34,1026.9,0.0,41.4,43,158
