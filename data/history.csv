@@ -15421,3 +15421,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-08-31 15:38,London,Reino Unido,Europa,21.3,19.3,15.0,21.7,52,15.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-31T06:11,2026-08-31T19:49,1013.8,1.4,25.8,100,294
 2026-08-31 16:38,Paris,França,Europa,22.9,21.2,17.6,23.5,51,16.6,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-31T07:06,2026-08-31T20:35,1017.3,4.5,41.1,87,274
 2026-08-31 17:38,Moscow,Rússia,Europa,20.7,21.0,14.3,21.0,62,5.2,0.0,0,Céu limpo,DayClear.webp,1,2026-08-31T05:32,2026-08-31T19:27,1017.0,0.5,39.8,12,245
+2026-08-31 17:30,São Paulo,Brasil,América do Sul,23.0,25.9,17.7,26.4,84,6.3,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-08-31T06:17,2026-08-31T17:55,1010.5,0.3,23.1,74,90
+2026-08-31 17:30,Rio de Janeiro,Brasil,América do Sul,23.8,27.6,21.7,26.1,94,10.4,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-31T06:04,2026-08-31T17:42,1011.5,1.1,14.9,90,159
+2026-08-31 17:30,Buenos Aires,Argentina,América do Sul,14.4,13.4,12.2,16.4,78,8.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-31T07:13,2026-08-31T18:34,1016.0,2.0,45.1,46,99
+2026-08-31 14:30,Mexico City,México,América Central,21.0,20.0,13.5,22.7,56,11.1,0.1,51,Chuvisco,drizzle.webp,1,2026-08-31T06:21,2026-08-31T18:52,1016.4,7.3,10.3,96,192
+2026-08-31 16:30,Havana,Cuba,América Central,31.8,36.4,25.5,33.1,63,11.9,0.1,51,Chuvisco,drizzle.webp,1,2026-08-31T07:11,2026-08-31T19:47,1014.0,7.0,19.4,22,14
+2026-08-31 16:30,Miami,EUA,América do Norte,30.0,34.7,25.7,31.5,73,12.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-08-31T07:00,2026-08-31T19:41,1014.8,6.4,20.8,25,66
+2026-08-31 16:30,New York,EUA,América do Norte,24.3,25.5,20.7,25.6,67,11.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-08-31T06:22,2026-08-31T19:30,1018.0,2.5,22.4,84,148
+2026-08-31 21:30,London,Reino Unido,Europa,19.2,18.0,15.0,22.6,62,11.9,0.0,3,Nublado,NightOvercast.webp,0,2026-08-31T06:11,2026-08-31T19:49,1017.4,0.0,25.5,93,286
+2026-08-31 22:30,Paris,França,Europa,20.1,19.9,17.6,22.9,60,5.8,0.0,3,Nublado,NightOvercast.webp,0,2026-08-31T07:06,2026-08-31T20:35,1020.1,0.0,40.1,95,274
+2026-08-31 23:30,Moscow,Rússia,Europa,15.5,16.0,14.3,20.9,84,2.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-08-31T05:32,2026-08-31T19:27,1017.7,0.0,33.6,0,187
