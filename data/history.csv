@@ -15499,3 +15499,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-01 23:12,London,Reino Unido,Europa,18.8,17.8,13.8,22.9,65,11.2,0.0,3,Nublado,NightOvercast.webp,0,2026-09-01T06:13,2026-09-01T19:47,1020.5,0.0,27.8,99,248
 2026-09-02 00:12,Paris,França,Europa,18.9,18.1,15.9,24.7,59,6.8,0.0,3,Nublado,NightOvercast.webp,0,2026-09-02T07:08,2026-09-02T20:31,1022.2,0.0,40.0,100,3
 2026-09-02 01:12,Moscow,Rússia,Europa,18.1,19.5,15.9,20.9,88,5.0,0.0,3,Nublado,NightOvercast.webp,0,2026-09-02T05:36,2026-09-02T19:22,1011.5,0.0,24.6,100,180
+2026-09-01 21:41,São Paulo,Brasil,América do Sul,15.5,15.7,15.1,20.8,96,9.9,1.7,81,Tempestade,Storm.webp,0,2026-09-01T06:17,2026-09-01T17:55,1017.1,0.0,1.9,100,190
+2026-09-01 21:41,Rio de Janeiro,Brasil,América do Sul,21.1,21.9,20.8,26.4,95,21.5,0.1,51,Chuvisco,NightRain.webp,0,2026-09-01T06:03,2026-09-01T17:42,1014.6,0.0,6.0,100,228
+2026-09-01 21:41,Buenos Aires,Argentina,América do Sul,12.1,11.4,10.3,17.6,93,6.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-01T07:12,2026-09-01T18:35,1019.9,0.0,18.1,1,73
+2026-09-01 18:41,Mexico City,México,América Central,16.6,17.4,13.3,22.3,83,2.3,1.1,95,Tempestade,Storm.webp,1,2026-09-01T06:21,2026-09-01T18:51,1019.7,0.1,4.9,93,266
+2026-09-01 20:41,Havana,Cuba,América Central,29.4,34.8,25.7,33.3,75,7.1,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-09-01T07:11,2026-09-01T19:47,1014.1,0.1,18.4,36,24
+2026-09-01 20:41,Miami,EUA,América do Norte,25.6,32.2,25.0,30.3,97,1.8,1.0,81,Tempestade,Storm.webp,0,2026-09-01T07:01,2026-09-01T19:40,1016.3,0.1,4.1,100,270
+2026-09-01 20:41,New York,EUA,América do Norte,23.2,26.5,21.1,27.8,94,12.5,0.0,3,Nublado,NightOvercast.webp,0,2026-09-01T06:23,2026-09-01T19:28,1014.6,0.1,12.5,100,49
+2026-09-02 01:41,London,Reino Unido,Europa,18.2,17.4,16.7,20.9,66,9.4,0.0,3,Nublado,NightOvercast.webp,0,2026-09-02T06:14,2026-09-02T19:45,1020.2,0.0,26.2,92,256
+2026-09-02 02:41,Paris,França,Europa,17.5,17.6,15.7,25.0,67,2.5,0.0,3,Nublado,NightOvercast.webp,0,2026-09-02T07:08,2026-09-02T20:31,1022.1,0.0,38.4,100,352
