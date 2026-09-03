@@ -15621,3 +15621,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-03 16:22,Dubai,Emirados Árabes,Oriente Médio,37.9,43.6,31.4,41.8,53,13.6,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-03T06:00,2026-09-03T18:35,999.8,4.7,17.6,37,334
 2026-09-03 15:22,Cairo,Egito,África,36.1,37.5,22.9,36.1,27,7.7,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-03T06:32,2026-09-03T19:15,1007.8,6.3,47.5,18,311
 2026-09-03 22:22,Sydney,Austrália,Oceania,16.3,12.7,15.8,26.5,53,18.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-03T06:11,2026-09-03T17:38,1018.5,0.0,53.2,0,257
+2026-09-03 13:46,São Paulo,Brasil,América do Sul,25.1,25.3,11.9,25.4,45,12.9,0.0,0,Céu limpo,DayClear.webp,1,2026-09-03T06:15,2026-09-03T17:56,1015.4,7.5,35.5,0,321
+2026-09-03 13:46,Rio de Janeiro,Brasil,América do Sul,24.7,26.8,18.1,24.9,63,10.6,0.0,0,Céu limpo,DayClear.webp,1,2026-09-03T06:01,2026-09-03T17:43,1017.1,7.2,20.8,4,140
+2026-09-03 13:46,Buenos Aires,Argentina,América do Sul,17.7,14.3,12.6,18.0,47,16.7,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-03T07:09,2026-09-03T18:36,1011.8,2.8,56.3,76,269
+2026-09-03 10:46,Mexico City,México,América Central,20.1,22.6,13.9,24.1,62,1.9,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-03T06:21,2026-09-03T18:49,1018.8,5.5,21.9,22,241
+2026-09-03 12:46,Havana,Cuba,América Central,32.8,39.4,25.3,32.7,54,3.0,0.1,51,Chuvisco,drizzle.webp,1,2026-09-03T07:12,2026-09-03T19:45,1014.5,6.8,13.1,31,245
+2026-09-03 12:46,Miami,EUA,América do Norte,30.7,38.4,25.6,30.9,73,9.9,0.0,0,Céu limpo,DayClear.webp,1,2026-09-03T07:02,2026-09-03T19:38,1014.9,7.2,21.9,9,161
+2026-09-03 12:46,New York,EUA,América do Norte,26.0,29.6,20.0,27.7,80,15.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-03T06:25,2026-09-03T19:25,1014.0,5.3,19.6,100,243
+2026-09-03 17:46,London,Reino Unido,Europa,25.3,25.2,19.0,25.3,59,16.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-03T06:16,2026-09-03T19:43,1016.0,0.5,19.4,74,242
+2026-09-03 18:46,Paris,França,Europa,27.2,27.4,18.1,27.7,50,12.2,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-03T07:10,2026-09-03T20:29,1020.6,0.7,41.1,65,270
+2026-09-03 19:46,Moscow,Rússia,Europa,16.7,16.9,13.6,19.6,76,4.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-03T05:38,2026-09-03T19:19,1013.4,0.2,35.0,7,228
