@@ -15659,3 +15659,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-04 02:01,Dubai,Emirados Árabes,Oriente Médio,33.6,41.6,31.4,39.1,72,4.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-04T06:00,2026-09-04T18:35,1001.7,0.0,14.7,9,29
 2026-09-04 01:01,Cairo,Egito,África,26.9,30.7,23.6,36.6,72,5.4,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-09-04T06:33,2026-09-04T19:14,1010.0,0.0,36.1,44,4
 2026-09-04 08:01,Sydney,Austrália,Oceania,14.8,12.4,13.0,22.3,59,10.9,0.0,0,Céu limpo,DayClear.webp,1,2026-09-04T06:09,2026-09-04T17:38,1021.8,1.1,53.1,0,261
+2026-09-03 21:32,São Paulo,Brasil,América do Sul,17.9,18.9,11.9,26.2,82,3.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-03T06:15,2026-09-03T17:56,1015.2,0.0,24.5,0,302
+2026-09-03 21:32,Rio de Janeiro,Brasil,América do Sul,21.4,22.6,18.1,26.1,75,7.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-03T06:01,2026-09-03T17:43,1015.2,0.0,27.5,0,55
+2026-09-03 21:32,Buenos Aires,Argentina,América do Sul,13.6,10.6,12.3,18.5,57,12.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-03T07:09,2026-09-03T18:36,1014.5,0.0,51.7,7,243
+2026-09-03 18:32,Mexico City,México,América Central,18.1,17.9,13.6,24.3,74,9.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-03T06:21,2026-09-03T18:49,1015.8,0.8,9.6,29,317
+2026-09-03 20:32,Havana,Cuba,América Central,27.5,33.0,25.3,33.5,85,6.6,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-09-03T07:12,2026-09-03T19:45,1013.4,0.1,32.3,45,147
+2026-09-03 20:32,Miami,EUA,América do Norte,27.3,33.8,25.6,31.0,89,3.3,0.0,3,Nublado,NightOvercast.webp,0,2026-09-03T07:02,2026-09-03T19:38,1015.1,0.1,14.7,86,77
+2026-09-03 20:32,New York,EUA,América do Norte,25.6,29.9,20.0,30.0,77,1.9,0.0,3,Nublado,NightOvercast.webp,0,2026-09-03T06:25,2026-09-03T19:25,1012.0,0.0,20.6,100,68
+2026-09-04 01:32,London,Reino Unido,Europa,20.5,20.2,17.3,21.3,79,18.4,0.0,3,Nublado,NightOvercast.webp,0,2026-09-04T06:18,2026-09-04T19:40,1014.0,0.0,24.1,92,230
+2026-09-04 02:32,Paris,França,Europa,22.7,24.3,20.2,27.5,71,6.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-04T07:11,2026-09-04T20:27,1020.2,0.0,37.0,11,227
