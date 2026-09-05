@@ -15741,3 +15741,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-05 07:39,Tokyo,Japão,Ásia,21.0,24.6,20.4,25.8,96,3.3,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-05T05:16,2026-09-05T18:04,1012.2,0.1,12.4,70,6
 2026-09-05 02:39,Dubai,Emirados Árabes,Oriente Médio,31.8,39.2,29.5,41.2,76,5.7,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-05T06:01,2026-09-05T18:34,1003.8,0.0,14.7,1,46
 2026-09-05 01:39,Cairo,Egito,África,26.7,30.2,23.2,36.4,72,6.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-05T06:34,2026-09-05T19:13,1011.2,0.0,35.9,12,350
+2026-09-04 21:29,São Paulo,Brasil,América do Sul,17.1,17.9,16.5,28.5,89,6.6,0.1,51,Chuvisco,NightRain.webp,0,2026-09-04T06:14,2026-09-04T17:56,1015.5,0.0,9.1,94,163
+2026-09-04 21:29,Rio de Janeiro,Brasil,América do Sul,22.8,25.8,19.3,30.1,80,3.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-04T06:00,2026-09-04T17:43,1013.2,0.0,27.4,1,254
+2026-09-04 21:29,Buenos Aires,Argentina,América do Sul,12.6,10.2,7.4,16.9,63,8.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-04T07:08,2026-09-04T18:37,1016.4,0.0,48.7,16,321
+2026-09-04 18:29,Mexico City,México,América Central,21.6,20.5,12.9,24.9,46,6.3,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-04T06:21,2026-09-04T18:48,1012.5,0.7,49.6,35,267
+2026-09-04 20:29,Havana,Cuba,América Central,28.5,34.8,25.3,32.1,83,5.1,0.0,3,Nublado,NightOvercast.webp,0,2026-09-04T07:12,2026-09-04T19:44,1014.1,0.1,38.1,98,73
+2026-09-04 20:29,Miami,EUA,América do Norte,27.6,33.4,26.4,31.1,85,6.0,0.0,3,Nublado,NightOvercast.webp,0,2026-09-04T07:02,2026-09-04T19:37,1014.5,0.1,16.2,100,163
+2026-09-04 20:29,New York,EUA,América do Norte,24.5,26.0,21.8,30.3,64,7.4,0.0,3,Nublado,NightOvercast.webp,0,2026-09-04T06:26,2026-09-04T19:23,1009.6,0.0,29.1,87,299
+2026-09-05 01:29,London,Reino Unido,Europa,15.7,13.9,13.9,21.4,72,14.0,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-05T06:19,2026-09-05T19:38,1019.4,0.0,20.3,0,259
+2026-09-05 02:29,Paris,França,Europa,18.8,18.1,16.2,24.1,68,10.7,0.0,61,Chuva,NightRain.webp,0,2026-09-05T07:13,2026-09-05T20:25,1021.6,0.0,37.1,100,315
+2026-09-05 03:29,Moscow,Rússia,Europa,14.4,13.4,13.7,18.3,80,9.4,0.0,3,Nublado,NightOvercast.webp,0,2026-09-05T05:42,2026-09-05T19:14,1004.2,0.0,31.1,100,178
