@@ -16327,3 +16327,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-12 04:16,Paris,França,Europa,17.5,18.4,16.1,24.7,83,3.6,0.0,3,Nublado,NightOvercast.webp,0,2026-09-12T07:22,2026-09-12T20:09,1024.9,0.0,28.5,68,315
 2026-09-12 05:16,Moscow,Rússia,Europa,9.8,8.2,9.6,16.8,93,9.0,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-09-12T05:55,2026-09-12T18:55,1017.0,0.0,14.4,59,268
 2026-09-12 09:16,Bangkok,Tailândia,Ásia,28.0,33.3,24.1,30.5,80,8.4,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-12T06:06,2026-09-12T18:21,1012.2,3.7,19.0,48,10
+2026-09-12 04:28,São Paulo,Brasil,América do Sul,18.4,20.6,15.9,26.4,98,4.5,0.4,80,Chuva,NightRain.webp,0,2026-09-12T06:06,2026-09-12T17:59,1014.1,0.0,2.6,100,34
+2026-09-12 04:28,Rio de Janeiro,Brasil,América do Sul,22.2,26.5,21.9,28.0,98,4.2,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-09-12T05:52,2026-09-12T17:45,1012.4,0.0,7.6,50,175
+2026-09-12 04:28,Buenos Aires,Argentina,América do Sul,11.0,8.0,8.1,13.0,81,16.4,0.0,3,Nublado,NightOvercast.webp,0,2026-09-12T06:57,2026-09-12T18:43,1024.0,0.0,33.1,100,168
+2026-09-12 01:28,Mexico City,México,América Central,14.9,15.4,13.6,22.9,86,1.9,0.0,3,Nublado,NightOvercast.webp,0,2026-09-12T06:23,2026-09-12T18:41,1018.6,0.0,31.6,96,304
+2026-09-12 03:28,Havana,Cuba,América Central,26.0,30.3,24.9,35.4,86,10.0,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-09-12T07:15,2026-09-12T19:35,1013.4,0.0,36.9,62,152
+2026-09-12 03:28,Miami,EUA,América do Norte,26.8,31.6,25.4,31.7,85,9.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-12T07:05,2026-09-12T19:28,1014.2,0.0,15.3,1,126
+2026-09-12 03:28,New York,EUA,América do Norte,16.7,17.3,15.6,25.4,86,5.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-12T06:33,2026-09-12T19:09,1017.7,0.0,16.4,1,353
+2026-09-12 08:28,London,Reino Unido,Europa,13.9,12.4,13.6,23.0,77,10.4,0.0,0,Céu limpo,DayClear.webp,1,2026-09-12T06:30,2026-09-12T19:21,1023.9,0.2,13.9,0,235
+2026-09-12 09:28,Paris,França,Europa,16.4,17.0,15.3,24.8,81,2.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-12T07:22,2026-09-12T20:09,1025.7,0.6,28.1,74,300
