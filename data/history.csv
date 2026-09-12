@@ -16349,3 +16349,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-12 18:48,Bangkok,Tailândia,Ásia,25.5,30.9,24.1,31.4,95,7.0,1.2,81,Tempestade,Storm.webp,0,2026-09-12T06:06,2026-09-12T18:21,1010.2,0.1,2.3,100,80
 2026-09-12 20:48,Tokyo,Japão,Ásia,22.4,26.6,19.6,24.6,92,1.8,0.0,3,Nublado,NightOvercast.webp,0,2026-09-12T05:21,2026-09-12T17:53,1023.6,0.0,8.4,89,11
 2026-09-12 15:48,Dubai,Emirados Árabes,Oriente Médio,40.5,45.1,30.2,43.2,41,12.6,0.0,0,Céu limpo,DayClear.webp,1,2026-09-12T06:03,2026-09-12T18:26,1003.4,6.2,20.8,0,5
+2026-09-12 11:40,São Paulo,Brasil,América do Sul,19.9,21.7,15.8,22.9,87,6.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-12T06:06,2026-09-12T17:59,1018.7,1.9,16.9,100,13
+2026-09-12 11:40,Rio de Janeiro,Brasil,América do Sul,25.0,27.4,21.5,29.2,79,14.4,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-12T05:52,2026-09-12T17:45,1016.6,7.0,23.3,67,352
+2026-09-12 11:40,Buenos Aires,Argentina,América do Sul,10.3,6.3,8.3,13.0,68,18.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-12T06:57,2026-09-12T18:43,1030.5,0.8,47.3,100,163
+2026-09-12 08:40,Mexico City,México,América Central,15.6,16.5,13.6,23.0,86,1.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-12T06:23,2026-09-12T18:41,1020.3,1.1,23.6,100,262
+2026-09-12 10:40,Havana,Cuba,América Central,31.1,35.9,25.1,34.5,65,7.8,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-12T07:15,2026-09-12T19:35,1016.1,3.1,46.5,73,171
+2026-09-12 10:40,Miami,EUA,América do Norte,30.0,36.0,25.7,30.6,80,10.2,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-12T07:05,2026-09-12T19:28,1016.5,3.3,18.4,62,172
+2026-09-12 10:40,New York,EUA,América do Norte,23.2,25.0,16.7,25.9,72,8.4,0.0,0,Céu limpo,DayClear.webp,1,2026-09-12T06:33,2026-09-12T19:09,1019.0,3.2,24.7,18,133
+2026-09-12 15:40,London,Reino Unido,Europa,23.2,21.6,13.3,23.3,55,19.4,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-12T06:30,2026-09-12T19:21,1021.0,2.2,24.1,42,249
+2026-09-12 16:40,Paris,França,Europa,25.3,24.2,15.3,25.4,39,8.8,0.0,0,Céu limpo,DayClear.webp,1,2026-09-12T07:22,2026-09-12T20:09,1024.0,4.5,42.6,12,279
+2026-09-12 17:40,Moscow,Rússia,Europa,16.0,14.2,9.7,17.1,60,8.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-12T05:55,2026-09-12T18:55,1016.6,1.1,40.1,100,291
