@@ -16750,3 +16750,14 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-17 21:48,London,Reino Unido,Europa,16.6,14.0,13.9,20.8,59,15.5,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-09-17T06:38,2026-09-17T19:10,1012.1,0.0,22.2,76,271
 2026-09-17 22:48,Paris,França,Europa,18.6,17.3,13.8,22.1,61,10.7,0.0,3,Nublado,NightOvercast.webp,0,2026-09-17T07:29,2026-09-17T19:59,1013.9,0.0,39.6,100,256
 2026-09-17 23:48,Moscow,Rússia,Europa,14.4,12.8,8.5,21.6,69,9.4,0.0,3,Nublado,NightOvercast.webp,0,2026-09-17T06:04,2026-09-17T18:42,1011.2,0.0,37.7,100,182
+2026-09-17 20:16,São Paulo,Brasil,América do Sul,14.5,14.1,12.7,18.6,92,9.4,0.0,3,Nublado,NightOvercast.webp,0,2026-09-17T06:01,2026-09-17T18:00,1025.9,0.0,13.1,100,116
+2026-09-17 20:16,Rio de Janeiro,Brasil,América do Sul,19.6,20.1,18.8,21.6,83,12.7,0.0,3,Nublado,NightOvercast.webp,0,2026-09-17T05:47,2026-09-17T17:47,1026.8,0.0,23.3,100,82
+2026-09-17 20:16,Buenos Aires,Argentina,América do Sul,19.2,17.7,11.1,22.5,56,10.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-17T06:50,2026-09-17T18:46,1021.9,0.0,51.7,0,18
+2026-09-17 17:16,Mexico City,México,América Central,22.3,19.3,13.7,24.0,43,18.8,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-17T06:24,2026-09-17T18:36,1014.7,2.6,44.9,71,44
+2026-09-17 19:16,Havana,Cuba,América Central,28.8,32.8,24.9,32.7,72,10.8,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-17T07:16,2026-09-17T19:30,1015.0,0.9,24.1,65,93
+2026-09-17 19:16,Miami,EUA,América do Norte,25.7,28.7,23.8,27.8,83,16.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-17T07:07,2026-09-17T19:22,1017.6,0.6,17.1,100,54
+2026-09-17 19:16,New York,EUA,América do Norte,25.3,28.9,20.8,28.4,78,5.8,0.0,3,Nublado,NightOvercast.webp,0,2026-09-17T06:38,2026-09-17T19:01,1019.0,0.2,19.3,100,202
+2026-09-18 00:16,London,Reino Unido,Europa,15.3,13.2,13.0,19.9,66,12.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-18T06:40,2026-09-18T19:08,1012.6,0.0,23.2,0,270
+2026-09-18 01:16,Paris,França,Europa,16.0,15.1,12.7,22.1,74,9.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-18T07:31,2026-09-18T19:57,1015.2,0.0,35.0,6,277
+2026-09-18 02:16,Moscow,Rússia,Europa,13.8,12.0,11.4,17.6,70,9.4,0.0,3,Nublado,NightOvercast.webp,0,2026-09-18T06:06,2026-09-18T18:39,1011.0,0.0,34.1,100,184
+2026-09-18 06:16,Bangkok,Tailândia,Ásia,24.8,30.7,24.8,29.6,97,2.2,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-18T06:07,2026-09-18T18:17,1009.2,0.0,6.7,99,166
