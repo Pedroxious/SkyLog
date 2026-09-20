@@ -16951,3 +16951,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-20 06:31,Dubai,Emirados Árabes,Oriente Médio,27.6,29.4,27.4,42.6,57,8.7,0.0,0,Céu limpo,DayClear.webp,1,2026-09-20T06:06,2026-09-20T18:17,1008.8,0.0,19.2,0,104
 2026-09-20 05:31,Cairo,Egito,África,21.3,23.8,21.0,32.7,81,2.6,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-09-20T06:42,2026-09-20T18:54,1016.6,0.0,31.4,15,344
 2026-09-20 12:31,Sydney,Austrália,Oceania,27.9,27.1,15.2,27.9,26,10.6,0.0,0,Céu limpo,DayClear.webp,1,2026-09-20T05:48,2026-09-20T17:49,1017.3,6.8,62.3,0,46
+2026-09-20 05:05,São Paulo,Brasil,América do Sul,18.0,18.8,17.7,23.1,88,8.0,0.1,51,Chuvisco,NightRain.webp,0,2026-09-20T05:58,2026-09-20T18:01,1015.7,0.0,6.8,100,5
+2026-09-20 05:05,Rio de Janeiro,Brasil,América do Sul,20.0,21.2,19.7,27.0,83,8.6,0.0,3,Nublado,NightOvercast.webp,0,2026-09-20T05:44,2026-09-20T17:48,1017.1,0.0,22.6,91,54
+2026-09-20 05:05,Buenos Aires,Argentina,América do Sul,15.2,15.4,14.8,24.0,96,8.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-20T06:45,2026-09-20T18:48,1003.1,0.0,24.5,9,17
+2026-09-20 02:05,Mexico City,México,América Central,15.3,16.4,14.2,23.3,93,1.4,0.1,51,Chuvisco,NightRain.webp,0,2026-09-20T06:24,2026-09-20T18:34,1018.9,0.0,10.6,100,320
+2026-09-20 04:05,Havana,Cuba,América Central,23.8,28.3,23.8,31.4,96,7.2,0.2,53,Chuvisco,NightRain.webp,0,2026-09-20T07:17,2026-09-20T19:27,1012.9,0.0,7.0,95,235
+2026-09-20 04:05,Miami,EUA,América do Norte,24.6,28.5,22.9,28.3,90,10.1,0.0,3,Nublado,NightOvercast.webp,0,2026-09-20T07:08,2026-09-20T19:19,1012.8,0.0,13.6,100,73
+2026-09-20 04:05,New York,EUA,América do Norte,17.5,17.8,17.2,20.8,82,8.3,0.0,3,Nublado,NightOvercast.webp,0,2026-09-20T06:41,2026-09-20T18:56,1018.8,0.0,17.5,100,108
+2026-09-20 09:05,London,Reino Unido,Europa,16.9,15.1,16.9,20.4,66,13.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-20T06:43,2026-09-20T19:03,1024.5,0.6,17.7,100,296
+2026-09-20 10:05,Paris,França,Europa,17.2,17.2,15.4,23.2,79,7.2,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-20T07:34,2026-09-20T19:53,1026.8,1.3,29.2,100,267
+2026-09-20 11:05,Moscow,Rússia,Europa,16.5,15.9,9.9,19.3,73,7.4,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-20T06:10,2026-09-20T18:34,1020.3,2.9,33.4,32,194
