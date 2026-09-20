@@ -5,11 +5,11 @@
 ### Monitoramento climático em tempo real de 15 cidades ao redor do mundo
 
 [![SkyLog Live](https://img.shields.io/badge/SkyLog%20Live-Acessar%20Web%20App-000000?style=for-the-badge&logoColor=white)](https://pedroxious.github.io/skylog/)
-[![Registros CSV](https://img.shields.io/badge/Histórico%20CSV-16974%20Registros-2E8B57?style=for-the-badge)](data/history.csv)
+[![Registros CSV](https://img.shields.io/badge/Histórico%20CSV-16987%20Registros-2E8B57?style=for-the-badge)](data/history.csv)
 
 ---
 
-### Sync Ativo • Última atualização: 10:21 (BRT)
+### Sync Ativo • Última atualização: 14:10 (BRT)
 *Projeto em expansão, operando com automações no GitHub Actions para manter métricas globais atualizadas em tempo real. Consulte o link superior para a versão Web.*
 
 <img src="VisualLog/ShowcaseV2.png" width="800" alt="SkyLog Showcase"/>
@@ -31,20 +31,20 @@
       <img src="cards/sao_paulo.svg?v=2" alt="Card São Paulo"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/DayCumulusCongestus.webp" width="380" alt="Condição em tempo real Nublado"/>
+      <img src="conditions/drizzle.webp" width="380" alt="Condição em tempo real Chuvisco"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 21.6°C (Sensação: 22.7°C) |
+| Temperatura | 23.3°C (Sensação: 23.8°C) |
 | Variação Diária | 17.5°C — 24.6°C |
-| Umidade / Pressão | 77% / 1017.9 hPa |
-| Vento / Direção | 10.2 km/h (Direção: 352°) |
-| UV / Visibilidade | 0.7 / 19.9 km |
-| Condição Atual | Nublado |
-| Horário Local | 10:20 |
+| Umidade / Pressão | 67% / 1014.5 hPa |
+| Vento / Direção | 12.3 km/h (Direção: 337°) |
+| UV / Visibilidade | 3.9 / 5.8 km |
+| Condição Atual | Chuvisco |
+| Horário Local | 14:09 |
 
 ### Previsão para os Próximos Dias
 
@@ -71,20 +71,20 @@
       <img src="cards/rio_de_janeiro.svg?v=2" alt="Card Rio de Janeiro"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/DayPartialClean.webp" width="380" alt="Condição em tempo real Principalmente limpo"/>
+      <img src="conditions/DayCumulusCongestus.webp" width="380" alt="Condição em tempo real Nublado"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 25.3°C (Sensação: 28.9°C) |
+| Temperatura | 27.2°C (Sensação: 30.6°C) |
 | Variação Diária | 20.2°C — 27.4°C |
-| Umidade / Pressão | 63% / 1018.2 hPa |
-| Vento / Direção | 5.2 km/h (Direção: 6°) |
-| UV / Visibilidade | 5.6 / 30.4 km |
-| Condição Atual | Principalmente limpo |
-| Horário Local | 10:20 |
+| Umidade / Pressão | 62% / 1015.1 hPa |
+| Vento / Direção | 7.6 km/h (Direção: 117°) |
+| UV / Visibilidade | 5.8 / 29.7 km |
+| Condição Atual | Nublado |
+| Horário Local | 14:09 |
 
 ### Previsão para os Próximos Dias
 
@@ -111,20 +111,20 @@
       <img src="cards/buenos_aires.svg?v=2" alt="Card Buenos Aires"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/DayPartialCloudy.webp" width="380" alt="Condição em tempo real Parcialmente nublado"/>
+      <img src="conditions/DayCumulusCongestus.webp" width="380" alt="Condição em tempo real Nublado"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 19.5°C (Sensação: 20.4°C) |
+| Temperatura | 23.8°C (Sensação: 25.1°C) |
 | Variação Diária | 15.0°C — 23.8°C |
-| Umidade / Pressão | 77% / 1002.9 hPa |
-| Vento / Direção | 8.5 km/h (Direção: 13°) |
-| UV / Visibilidade | 3.0 / 11.3 km |
-| Condição Atual | Parcialmente nublado |
-| Horário Local | 10:20 |
+| Umidade / Pressão | 67% / 1000.4 hPa |
+| Vento / Direção | 9.0 km/h (Direção: 20°) |
+| UV / Visibilidade | 5.2 / 50.3 km |
+| Condição Atual | Nublado |
+| Horário Local | 14:09 |
 
 ### Previsão para os Próximos Dias
 
@@ -151,20 +151,20 @@
       <img src="cards/mexico_city.svg?v=2" alt="Card Mexico City"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/DayCumulusCongestus.webp" width="380" alt="Condição em tempo real Nublado"/>
+      <img src="conditions/drizzle.webp" width="380" alt="Condição em tempo real Chuvisco"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 14.5°C (Sensação: 15.3°C) |
+| Temperatura | 20.3°C (Sensação: 22.3°C) |
 | Variação Diária | 14.4°C — 23.7°C |
-| Umidade / Pressão | 95% / 1019.2 hPa |
-| Vento / Direção | 2.9 km/h (Direção: 330°) |
-| UV / Visibilidade | 0.1 / 3.8 km |
-| Condição Atual | Nublado |
-| Horário Local | 07:20 |
+| Umidade / Pressão | 60% / 1017.5 hPa |
+| Vento / Direção | 2.5 km/h (Direção: 278°) |
+| UV / Visibilidade | 7.3 / 8.4 km |
+| Condição Atual | Chuvisco |
+| Horário Local | 11:09 |
 
 ### Previsão para os Próximos Dias
 
@@ -191,20 +191,20 @@
       <img src="cards/havana.svg?v=2" alt="Card Havana"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/DayCumulusCongestus.webp" width="380" alt="Condição em tempo real Nublado"/>
+      <img src="conditions/DayClear.webp" width="380" alt="Condição em tempo real Céu limpo"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 26.5°C (Sensação: 31.3°C) |
+| Temperatura | 31.1°C (Sensação: 36.5°C) |
 | Variação Diária | 23.8°C — 31.1°C |
-| Umidade / Pressão | 85% / 1013.2 hPa |
-| Vento / Direção | 7.4 km/h (Direção: 180°) |
-| UV / Visibilidade | 1.1 / 35.8 km |
-| Condição Atual | Nublado |
-| Horário Local | 09:20 |
+| Umidade / Pressão | 63% / 1012.7 hPa |
+| Vento / Direção | 12.2 km/h (Direção: 189°) |
+| UV / Visibilidade | 7.8 / 14.6 km |
+| Condição Atual | Céu limpo |
+| Horário Local | 13:09 |
 
 ### Previsão para os Próximos Dias
 
@@ -231,28 +231,28 @@
       <img src="cards/miami.svg?v=2" alt="Card Miami"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/DayCumulusCongestus.webp" width="380" alt="Condição em tempo real Nublado"/>
+      <img src="conditions/DayPartialClean.webp" width="380" alt="Condição em tempo real Principalmente limpo"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 26.2°C (Sensação: 29.7°C) |
-| Variação Diária | 23.0°C — 28.5°C |
-| Umidade / Pressão | 89% / 1014.5 hPa |
-| Vento / Direção | 18.4 km/h (Direção: 129°) |
-| UV / Visibilidade | 1.4 / 2.9 km |
-| Condição Atual | Nublado |
-| Horário Local | 09:20 |
+| Temperatura | 28.7°C (Sensação: 35.3°C) |
+| Variação Diária | 23.0°C — 29.0°C |
+| Umidade / Pressão | 80% / 1013.6 hPa |
+| Vento / Direção | 4.7 km/h (Direção: 67°) |
+| UV / Visibilidade | 7.8 / 18.8 km |
+| Condição Atual | Principalmente limpo |
+| Horário Local | 13:09 |
 
 ### Previsão para os Próximos Dias
 
 | Dia | Condição | Temperatura | Índice UV Máximo | Precipitação Prevista |
 |:---:|:---:|:---:|:---:|:---:|
-| Hoje | ⛈️ Tempestade | 23.0°C a 28.5°C | UV: 8 | Precip: 32.5 mm |
-| Amanhã | ☁️ Nublado | 22.3°C a 28.6°C | UV: 8 | Precip: 0.0 mm |
-| 22/09 | 🌧️ Chuva | 25.4°C a 30.7°C | UV: 7 | Precip: 5.0 mm |
+| Hoje | 🌦️ Chuvisco | 23.0°C a 29.0°C | UV: 8 | Precip: 0.2 mm |
+| Amanhã | ☁️ Nublado | 22.7°C a 28.8°C | UV: 8 | Precip: 0.0 mm |
+| 22/09 | 🌧️ Chuva | 24.2°C a 30.7°C | UV: 7 | Precip: 5.0 mm |
 
 
 </div>
@@ -271,28 +271,28 @@
       <img src="cards/new_york.svg?v=2" alt="Card New York"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/DayCumulusCongestus.webp" width="380" alt="Condição em tempo real Nublado"/>
+      <img src="conditions/drizzle.webp" width="380" alt="Condição em tempo real Chuvisco"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 18.8°C (Sensação: 18.6°C) |
-| Variação Diária | 17.6°C — 20.8°C |
-| Umidade / Pressão | 80% / 1016.8 hPa |
-| Vento / Direção | 14.0 km/h (Direção: 125°) |
-| UV / Visibilidade | 0.1 / 17.3 km |
-| Condição Atual | Nublado |
-| Horário Local | 09:20 |
+| Temperatura | 19.6°C (Sensação: 20.2°C) |
+| Variação Diária | 17.6°C — 20.4°C |
+| Umidade / Pressão | 85% / 1015.5 hPa |
+| Vento / Direção | 12.9 km/h (Direção: 153°) |
+| UV / Visibilidade | 0.3 / 14.4 km |
+| Condição Atual | Chuvisco |
+| Horário Local | 13:09 |
 
 ### Previsão para os Próximos Dias
 
 | Dia | Condição | Temperatura | Índice UV Máximo | Precipitação Prevista |
 |:---:|:---:|:---:|:---:|:---:|
-| Hoje | 🌧️ Chuva | 17.6°C a 20.8°C | UV: 1 | Precip: 8.2 mm |
-| Amanhã | ☁️ Nublado | 14.3°C a 21.7°C | UV: 5 | Precip: 0.0 mm |
-| 22/09 | 🌧️ Chuva | 13.1°C a 17.7°C | UV: 1 | Precip: 11.4 mm |
+| Hoje | 🌧️ Chuva | 17.6°C a 20.4°C | UV: 1 | Precip: 5.6 mm |
+| Amanhã | ☁️ Nublado | 14.6°C a 20.8°C | UV: 5 | Precip: 0.0 mm |
+| 22/09 | 🌧️ Chuva | 13.1°C a 14.6°C | UV: 1 | Precip: 9.7 mm |
 
 
 </div>
@@ -311,28 +311,28 @@
       <img src="cards/london.svg?v=2" alt="Card London"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/DayPartialClean.webp" width="380" alt="Condição em tempo real Principalmente limpo"/>
+      <img src="conditions/DayClear.webp" width="380" alt="Condição em tempo real Céu limpo"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 20.0°C (Sensação: 17.2°C) |
-| Variação Diária | 16.6°C — 20.3°C |
-| Umidade / Pressão | 40% / 1027.4 hPa |
-| Vento / Direção | 12.6 km/h (Direção: 313°) |
-| UV / Visibilidade | 2.6 / 22.1 km |
-| Condição Atual | Principalmente limpo |
-| Horário Local | 14:20 |
+| Temperatura | 19.9°C (Sensação: 17.0°C) |
+| Variação Diária | 16.6°C — 20.6°C |
+| Umidade / Pressão | 36% / 1029.0 hPa |
+| Vento / Direção | 10.8 km/h (Direção: 312°) |
+| UV / Visibilidade | 0.0 / 23.5 km |
+| Condição Atual | Céu limpo |
+| Horário Local | 18:09 |
 
 ### Previsão para os Próximos Dias
 
 | Dia | Condição | Temperatura | Índice UV Máximo | Precipitação Prevista |
 |:---:|:---:|:---:|:---:|:---:|
-| Hoje | ☁️ Nublado | 16.6°C a 20.3°C | UV: 3 | Precip: 0.0 mm |
-| Amanhã | ☀️ Céu limpo | 13.7°C a 21.3°C | UV: 3 | Precip: 0.0 mm |
-| 22/09 | ☀️ Céu limpo | 14.8°C a 21.3°C | UV: 4 | Precip: 0.0 mm |
+| Hoje | ☁️ Nublado | 16.6°C a 20.6°C | UV: 3 | Precip: 0.0 mm |
+| Amanhã | ☁️ Nublado | 14.0°C a 22.1°C | UV: 3 | Precip: 0.0 mm |
+| 22/09 | ⛅ Parcialmente nublado | 15.4°C a 23.5°C | UV: 3 | Precip: 0.0 mm |
 
 
 </div>
@@ -358,21 +358,21 @@
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 22.4°C (Sensação: 22.6°C) |
-| Variação Diária | 15.4°C — 22.6°C |
-| Umidade / Pressão | 63% / 1026.9 hPa |
-| Vento / Direção | 10.5 km/h (Direção: 297°) |
-| UV / Visibilidade | 1.9 / 38.9 km |
+| Temperatura | 23.3°C (Sensação: 22.7°C) |
+| Variação Diária | 15.4°C — 23.3°C |
+| Umidade / Pressão | 55% / 1027.4 hPa |
+| Vento / Direção | 12.0 km/h (Direção: 303°) |
+| UV / Visibilidade | 0.7 / 40.6 km |
 | Condição Atual | Nublado |
-| Horário Local | 15:20 |
+| Horário Local | 19:09 |
 
 ### Previsão para os Próximos Dias
 
 | Dia | Condição | Temperatura | Índice UV Máximo | Precipitação Prevista |
 |:---:|:---:|:---:|:---:|:---:|
-| Hoje | ☁️ Nublado | 15.4°C a 22.6°C | UV: 4 | Precip: 0.0 mm |
-| Amanhã | ☁️ Nublado | 13.7°C a 22.4°C | UV: 5 | Precip: 0.0 mm |
-| 22/09 | 🌤️ Principalmente limpo | 12.7°C a 24.7°C | UV: 5 | Precip: 0.0 mm |
+| Hoje | ☁️ Nublado | 15.4°C a 23.3°C | UV: 4 | Precip: 0.0 mm |
+| Amanhã | ☁️ Nublado | 13.2°C a 22.8°C | UV: 5 | Precip: 0.0 mm |
+| 22/09 | ☀️ Céu limpo | 13.3°C a 24.8°C | UV: 5 | Precip: 0.0 mm |
 
 
 </div>
@@ -391,28 +391,28 @@
       <img src="cards/moscow.svg?v=2" alt="Card Moscow"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/DayCumulusCongestus.webp" width="380" alt="Condição em tempo real Nublado"/>
+      <img src="conditions/NightOvercast.webp" width="380" alt="Condição em tempo real Nublado"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 18.6°C (Sensação: 17.0°C) |
-| Variação Diária | 9.9°C — 18.7°C |
-| Umidade / Pressão | 56% / 1017.5 hPa |
-| Vento / Direção | 10.3 km/h (Direção: 209°) |
-| UV / Visibilidade | 1.9 / 40.7 km |
+| Temperatura | 15.4°C (Sensação: 14.4°C) |
+| Variação Diária | 9.9°C — 18.9°C |
+| Umidade / Pressão | 76% / 1015.8 hPa |
+| Vento / Direção | 9.4 km/h (Direção: 176°) |
+| UV / Visibilidade | 0.0 / 35.0 km |
 | Condição Atual | Nublado |
-| Horário Local | 16:20 |
+| Horário Local | 20:09 |
 
 ### Previsão para os Próximos Dias
 
 | Dia | Condição | Temperatura | Índice UV Máximo | Precipitação Prevista |
 |:---:|:---:|:---:|:---:|:---:|
-| Hoje | ☁️ Nublado | 9.9°C a 18.7°C | UV: 4 | Precip: 0.0 mm |
-| Amanhã | ☁️ Nublado | 13.3°C a 19.3°C | UV: 3 | Precip: 0.0 mm |
-| 22/09 | ⛈️ Tempestade | 13.2°C a 18.7°C | UV: 2 | Precip: 17.4 mm |
+| Hoje | ☁️ Nublado | 9.9°C a 18.9°C | UV: 4 | Precip: 0.0 mm |
+| Amanhã | ☁️ Nublado | 13.3°C a 18.9°C | UV: 3 | Precip: 0.0 mm |
+| 22/09 | ⛈️ Tempestade | 13.3°C a 18.9°C | UV: 2 | Precip: 6.5 mm |
 
 
 </div>
@@ -431,28 +431,28 @@
       <img src="cards/bangkok.svg?v=2" alt="Card Bangkok"/>
     </td>
     <td align="center" width="50%">
-      <img src="conditions/NightOvercast.webp" width="380" alt="Condição em tempo real Nublado"/>
+      <img src="conditions/NightRain.webp" width="380" alt="Condição em tempo real Chuvisco"/>
     </td>
   </tr>
 </table>
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 27.8°C (Sensação: 34.4°C) |
-| Variação Diária | 25.4°C — 31.6°C |
-| Umidade / Pressão | 85% / 1013.8 hPa |
-| Vento / Direção | 0.5 km/h (Direção: 45°) |
-| UV / Visibilidade | 0.0 / 5.2 km |
-| Condição Atual | Nublado |
-| Horário Local | 20:20 |
+| Temperatura | 26.5°C (Sensação: 32.7°C) |
+| Variação Diária | 25.1°C — 30.9°C |
+| Umidade / Pressão | 89% / 1013.9 hPa |
+| Vento / Direção | 0.7 km/h (Direção: 180°) |
+| UV / Visibilidade | 0.0 / 7.0 km |
+| Condição Atual | Chuvisco |
+| Horário Local | 00:09 |
 
 ### Previsão para os Próximos Dias
 
 | Dia | Condição | Temperatura | Índice UV Máximo | Precipitação Prevista |
 |:---:|:---:|:---:|:---:|:---:|
-| Hoje | ⛈️ Tempestade | 25.4°C a 31.6°C | UV: 9 | Precip: 10.8 mm |
-| Amanhã | ⛈️ Tempestade | 25.1°C a 30.9°C | UV: 9 | Precip: 14.2 mm |
-| 22/09 | ⛈️ Tempestade | 24.8°C a 30.3°C | UV: 5 | Precip: 21.4 mm |
+| Hoje | ⛈️ Tempestade | 25.1°C a 30.9°C | UV: 9 | Precip: 14.2 mm |
+| Amanhã | ⛈️ Tempestade | 24.8°C a 30.3°C | UV: 5 | Precip: 21.4 mm |
+| 23/09 | ⛈️ Tempestade | 23.8°C a 30.9°C | UV: 9 | Precip: 16.8 mm |
 
 
 </div>
@@ -478,21 +478,61 @@
 
 | Parâmetro | Medição em Tempo Real |
 |:---:|:---:|
-| Temperatura | 21.7°C (Sensação: 24.9°C) |
-| Variação Diária | 21.5°C — 23.0°C |
-| Umidade / Pressão | 95% / 1007.6 hPa |
-| Vento / Direção | 7.4 km/h (Direção: 331°) |
-| UV / Visibilidade | 0.0 / 5.7 km |
+| Temperatura | 21.7°C (Sensação: 25.1°C) |
+| Variação Diária | 21.6°C — 25.8°C |
+| Umidade / Pressão | 96% / 1004.5 hPa |
+| Vento / Direção | 7.5 km/h (Direção: 17°) |
+| UV / Visibilidade | 0.0 / 1.8 km |
 | Condição Atual | Chuva |
-| Horário Local | 22:20 |
+| Horário Local | 02:09 |
 
 ### Previsão para os Próximos Dias
 
 | Dia | Condição | Temperatura | Índice UV Máximo | Precipitação Prevista |
 |:---:|:---:|:---:|:---:|:---:|
-| Hoje | 🌧️ Chuva | 21.5°C a 23.0°C | UV: 1 | Precip: 55.8 mm |
-| Amanhã | 🌧️ Chuva | 21.3°C a 26.0°C | UV: 1 | Precip: 170.4 mm |
-| 22/09 | 🌦️ Chuvisco | 21.2°C a 29.2°C | UV: 6 | Precip: 0.4 mm |
+| Hoje | 🌧️ Chuva | 21.6°C a 25.8°C | UV: 1 | Precip: 206.0 mm |
+| Amanhã | ☁️ Nublado | 23.1°C a 29.0°C | UV: 6 | Precip: 0.0 mm |
+| 23/09 | ⛅ Parcialmente nublado | 21.0°C a 25.2°C | UV: 5 | Precip: 0.0 mm |
+
+
+</div>
+
+<br/><hr/><br/>
+
+<div align="center">
+
+## Dubai, Emirados Árabes
+
+<img src="landmarks/Dubai.webp" width="800" alt="Vista de Dubai"/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="cards/dubai.svg?v=2" alt="Card Dubai"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="conditions/NightFullMoonClear.webp" width="380" alt="Condição em tempo real Céu limpo"/>
+    </td>
+  </tr>
+</table>
+
+| Parâmetro | Medição em Tempo Real |
+|:---:|:---:|
+| Temperatura | 32.4°C (Sensação: 39.8°C) |
+| Variação Diária | 27.9°C — 41.1°C |
+| Umidade / Pressão | 76% / 1009.8 hPa |
+| Vento / Direção | 7.8 km/h (Direção: 44°) |
+| UV / Visibilidade | 0.0 / 15.6 km |
+| Condição Atual | Céu limpo |
+| Horário Local | 21:09 |
+
+### Previsão para os Próximos Dias
+
+| Dia | Condição | Temperatura | Índice UV Máximo | Precipitação Prevista |
+|:---:|:---:|:---:|:---:|:---:|
+| Hoje | ☀️ Céu limpo | 27.9°C a 41.1°C | UV: 8 | Precip: 0.0 mm |
+| Amanhã | 🌤️ Principalmente limpo | 27.8°C a 41.0°C | UV: 8 | Precip: 0.0 mm |
+| 22/09 | ☀️ Céu limpo | 28.1°C a 39.0°C | UV: 8 | Precip: 0.0 mm |
 
 
 </div>
@@ -507,9 +547,9 @@
 
 | Estatística | Valor |
 |:---:|:---:|
-| Total de registros | 16974 |
+| Total de registros | 16987 |
 | Primeiro registro | `datetime` |
-| Último registro | `2026-09-20 22:20` |
+| Último registro | `2026-09-20 21:09` |
 | Temperatura mais alta | **46.1°C** — Dubai |
 | Temperatura mais baixa | **0.7°C** — Buenos Aires |
 
