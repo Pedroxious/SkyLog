@@ -17065,3 +17065,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-22 04:26,Bangkok,Tailândia,Ásia,25.2,30.6,25.0,31.7,94,5.6,0.0,3,Nublado,NightOvercast.webp,0,2026-09-22T06:07,2026-09-22T18:14,1010.2,0.0,11.5,100,274
 2026-09-22 06:26,Tokyo,Japão,Ásia,25.7,27.6,23.7,30.9,66,9.7,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-22T05:29,2026-09-22T17:39,1005.3,0.1,36.5,26,329
 2026-09-22 01:26,Dubai,Emirados Árabes,Oriente Médio,30.3,36.8,27.2,37.6,73,1.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-22T06:07,2026-09-22T18:15,1007.7,0.0,17.1,0,16
+2026-09-21 21:24,São Paulo,Brasil,América do Sul,22.2,22.0,18.3,28.5,68,15.5,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-09-21T05:57,2026-09-21T18:02,1013.8,0.0,25.4,47,342
+2026-09-21 21:24,Rio de Janeiro,Brasil,América do Sul,24.6,28.3,21.0,30.4,82,5.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-09-21T05:43,2026-09-21T17:48,1012.0,0.0,26.8,21,16
+2026-09-21 21:24,Buenos Aires,Argentina,América do Sul,12.4,8.3,11.4,16.1,55,17.3,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-09-21T06:44,2026-09-21T18:49,1016.2,0.0,52.7,58,207
+2026-09-21 18:24,Mexico City,México,América Central,22.4,21.3,13.3,25.2,43,5.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-09-21T06:25,2026-09-21T18:33,1009.4,1.0,53.1,75,297
+2026-09-21 20:24,Havana,Cuba,América Central,24.6,29.3,23.7,30.4,95,8.4,0.1,51,Chuvisco,NightRain.webp,0,2026-09-21T07:17,2026-09-21T19:26,1011.7,0.1,20.1,76,130
+2026-09-21 20:24,Miami,EUA,América do Norte,26.2,29.6,23.7,29.5,80,12.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-21T07:09,2026-09-21T19:18,1012.5,0.0,18.1,4,173
+2026-09-21 20:25,New York,EUA,América do Norte,17.1,16.6,16.1,22.3,70,6.8,0.0,3,Nublado,NightOvercast.webp,0,2026-09-21T06:42,2026-09-21T18:54,1020.8,0.0,24.9,100,25
+2026-09-22 01:25,London,Reino Unido,Europa,18.6,17.5,17.2,24.7,57,7.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-22T06:46,2026-09-22T18:59,1030.2,0.0,22.1,0,240
+2026-09-22 02:25,Paris,França,Europa,15.0,13.5,12.9,24.3,53,2.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-22T07:36,2026-09-22T19:48,1030.2,0.0,41.3,0,352
