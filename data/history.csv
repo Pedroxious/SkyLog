@@ -17147,3 +17147,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-09-23 03:04,Paris,França,Europa,15.3,14.8,13.0,25.7,68,2.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-09-23T07:38,2026-09-23T19:46,1025.5,0.0,35.5,0,8
 2026-09-23 04:04,Moscow,Rússia,Europa,14.0,14.2,12.7,18.9,88,2.8,0.0,3,Nublado,NightOvercast.webp,0,2026-09-23T06:16,2026-09-23T18:26,1018.8,0.0,25.5,100,230
 2026-09-23 08:04,Bangkok,Tailândia,Ásia,26.7,32.7,24.9,31.8,88,2.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-23T06:07,2026-09-23T18:13,1010.9,1.4,19.7,83,4
+2026-09-23 04:00,São Paulo,Brasil,América do Sul,14.7,14.1,13.1,16.6,90,10.6,0.0,3,Nublado,NightOvercast.webp,0,2026-09-23T05:55,2026-09-23T18:02,1017.0,0.0,10.3,100,156
+2026-09-23 04:00,Rio de Janeiro,Brasil,América do Sul,20.6,23.5,18.5,20.7,97,6.9,0.2,53,Chuvisco,NightRain.webp,0,2026-09-23T05:41,2026-09-23T17:49,1013.7,0.0,2.7,100,233
+2026-09-23 04:00,Buenos Aires,Argentina,América do Sul,8.1,4.6,7.8,16.1,71,12.3,0.0,3,Nublado,NightOvercast.webp,0,2026-09-23T06:41,2026-09-23T18:50,1019.0,0.0,46.0,81,345
+2026-09-23 01:01,Mexico City,México,América Central,16.1,15.7,13.5,25.2,81,8.4,0.0,3,Nublado,NightOvercast.webp,0,2026-09-23T06:25,2026-09-23T18:31,1017.0,0.0,26.6,92,340
+2026-09-23 03:01,Havana,Cuba,América Central,24.5,29.4,24.3,30.5,95,6.0,0.0,3,Nublado,NightOvercast.webp,0,2026-09-23T07:18,2026-09-23T19:24,1013.3,0.0,28.7,95,141
+2026-09-23 03:01,Miami,EUA,América do Norte,24.5,29.4,23.9,27.7,93,4.9,0.0,3,Nublado,NightOvercast.webp,0,2026-09-23T07:09,2026-09-23T19:16,1012.7,0.0,12.8,100,36
+2026-09-23 03:01,New York,EUA,América do Norte,11.7,8.9,10.6,18.9,74,14.1,0.0,3,Nublado,NightOvercast.webp,0,2026-09-23T06:44,2026-09-23T18:51,1028.3,0.0,21.3,100,19
+2026-09-23 08:01,London,Reino Unido,Europa,17.1,17.6,16.8,22.9,82,5.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-09-23T06:48,2026-09-23T18:56,1024.7,0.1,10.5,100,220
+2026-09-23 09:01,Paris,França,Europa,13.6,13.1,13.0,25.6,76,2.4,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-09-23T07:38,2026-09-23T19:46,1025.4,0.4,25.2,12,333
