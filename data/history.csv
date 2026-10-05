@@ -17877,3 +17877,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-05 07:09,Dubai,Emirados Árabes,Oriente Médio,29.0,35.5,28.6,35.5,88,10.3,0.0,0,Céu limpo,DayClear.webp,1,2026-10-05T06:12,2026-10-05T18:01,1011.3,0.1,12.8,0,175
 2026-10-05 06:09,Cairo,Egito,África,19.0,20.7,18.6,29.2,84,3.6,0.0,3,Nublado,NightOvercast.webp,0,2026-10-05T06:50,2026-10-05T18:35,1017.6,0.0,27.3,100,354
 2026-10-05 14:09,Sydney,Austrália,Oceania,20.3,22.3,14.3,20.3,74,9.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-05T06:27,2026-10-05T19:00,1016.5,7.3,19.8,26,125
+2026-10-05 08:00,São Paulo,Brasil,América do Sul,18.3,19.7,16.1,22.7,86,3.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-05T05:42,2026-10-05T18:07,1019.2,1.7,19.5,100,152
+2026-10-05 08:00,Rio de Janeiro,Brasil,América do Sul,24.3,28.5,21.5,25.3,90,7.3,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-05T05:29,2026-10-05T17:53,1017.4,2.3,5.9,69,220
+2026-10-05 08:00,Buenos Aires,Argentina,América do Sul,14.4,12.7,13.6,20.0,67,8.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-05T06:24,2026-10-05T18:59,1018.6,0.7,50.1,100,318
+2026-10-05 05:00,Mexico City,México,América Central,14.2,14.6,14.1,22.4,92,3.2,0.0,3,Nublado,NightOvercast.webp,0,2026-10-05T06:28,2026-10-05T18:21,1017.5,0.0,14.7,100,333
+2026-10-05 07:00,Havana,Cuba,América Central,24.8,29.7,24.8,32.0,91,4.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-10-05T07:22,2026-10-05T19:12,1013.8,0.0,36.6,37,115
+2026-10-05 18:01,Bangkok,Tailândia,Ásia,29.3,34.8,26.0,34.9,73,3.2,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-05T06:07,2026-10-05T18:05,1009.6,0.2,17.8,74,56
+2026-10-05 20:01,Tokyo,Japão,Ásia,20.0,21.8,16.9,21.2,83,4.8,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-10-05T05:39,2026-10-05T17:20,1010.5,0.0,25.0,77,333
+2026-10-05 15:01,Dubai,Emirados Árabes,Oriente Médio,35.2,42.5,29.1,35.5,66,10.7,0.0,0,Céu limpo,DayClear.webp,1,2026-10-05T06:12,2026-10-05T18:01,1009.0,5.3,18.6,0,299
+2026-10-05 14:01,Cairo,Egito,África,29.0,28.4,18.6,29.1,33,6.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-05T06:50,2026-10-05T18:35,1016.4,5.5,44.3,100,315
+2026-10-05 22:01,Sydney,Austrália,Oceania,17.0,18.3,14.3,20.9,92,3.8,0.0,3,Nublado,NightOvercast.webp,0,2026-10-05T06:27,2026-10-05T19:00,1017.5,0.0,26.3,92,11
