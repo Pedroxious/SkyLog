@@ -18170,3 +18170,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-11 13:04,New York,EUA,América do Norte,17.5,16.5,13.5,17.7,90,20.7,0.5,61,Chuva,DayRain.webp,1,2026-10-11T07:02,2026-10-11T18:21,1024.7,0.4,5.8,100,98
 2026-10-11 18:04,London,Reino Unido,Europa,15.5,13.7,9.5,15.8,52,5.0,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-11T07:17,2026-10-11T18:16,1013.5,0.0,20.2,28,274
 2026-10-11 19:04,Paris,França,Europa,16.3,14.4,11.8,17.3,54,7.3,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-11T08:04,2026-10-11T19:09,1015.0,0.2,40.9,75,237
+2026-10-11 18:15,São Paulo,Brasil,América do Sul,18.3,19.7,17.3,25.5,94,7.7,0.3,55,Chuvisco,NightRain.webp,0,2026-10-11T05:37,2026-10-11T18:09,1017.0,0.1,2.9,100,129
+2026-10-11 18:15,Rio de Janeiro,Brasil,América do Sul,23.5,27.2,23.0,26.8,97,11.6,0.0,3,Nublado,NightOvercast.webp,0,2026-10-11T05:23,2026-10-11T17:55,1014.5,0.1,7.5,100,216
+2026-10-11 18:15,Buenos Aires,Argentina,América do Sul,14.5,12.7,9.3,16.1,63,7.8,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-11T06:16,2026-10-11T19:04,1020.9,1.4,48.0,35,86
+2026-10-11 15:15,Mexico City,México,América Central,20.1,21.6,14.2,20.4,74,1.5,0.2,53,Chuvisco,drizzle.webp,1,2026-10-11T06:29,2026-10-11T18:16,1015.3,4.8,6.2,97,126
+2026-10-11 17:16,Havana,Cuba,América Central,30.2,33.8,25.0,32.8,69,16.6,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-11T07:24,2026-10-11T19:07,1015.4,3.5,22.9,49,54
+2026-10-11 17:16,Miami,EUA,América do Norte,30.1,34.5,26.3,31.8,72,14.2,0.0,0,Céu limpo,DayClear.webp,1,2026-10-11T07:17,2026-10-11T18:57,1017.0,3.4,21.6,1,155
+2026-10-11 17:16,New York,EUA,América do Norte,16.3,14.8,13.5,18.7,95,23.4,0.5,61,Chuva,DayRain.webp,1,2026-10-11T07:02,2026-10-11T18:21,1016.3,0.1,5.4,100,104
+2026-10-11 22:16,London,Reino Unido,Europa,14.7,13.3,9.5,15.7,67,7.2,0.0,3,Nublado,NightOvercast.webp,0,2026-10-11T07:17,2026-10-11T18:16,1014.4,0.0,21.2,100,171
+2026-10-11 23:16,Paris,França,Europa,13.5,12.5,11.8,17.3,69,3.1,0.0,3,Nublado,NightOvercast.webp,0,2026-10-11T08:04,2026-10-11T19:09,1017.1,0.0,37.8,100,159
