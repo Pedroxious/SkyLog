@@ -18179,3 +18179,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-11 17:16,New York,EUA,América do Norte,16.3,14.8,13.5,18.7,95,23.4,0.5,61,Chuva,DayRain.webp,1,2026-10-11T07:02,2026-10-11T18:21,1016.3,0.1,5.4,100,104
 2026-10-11 22:16,London,Reino Unido,Europa,14.7,13.3,9.5,15.7,67,7.2,0.0,3,Nublado,NightOvercast.webp,0,2026-10-11T07:17,2026-10-11T18:16,1014.4,0.0,21.2,100,171
 2026-10-11 23:16,Paris,França,Europa,13.5,12.5,11.8,17.3,69,3.1,0.0,3,Nublado,NightOvercast.webp,0,2026-10-11T08:04,2026-10-11T19:09,1017.1,0.0,37.8,100,159
+2026-10-11 21:51,São Paulo,Brasil,América do Sul,17.3,18.6,17.3,25.5,97,7.2,0.2,53,Chuvisco,NightRain.webp,0,2026-10-11T05:37,2026-10-11T18:09,1017.4,0.0,3.3,100,118
+2026-10-11 21:51,Rio de Janeiro,Brasil,América do Sul,23.6,28.3,23.0,26.8,98,5.8,0.1,51,Chuvisco,NightRain.webp,0,2026-10-11T05:23,2026-10-11T17:55,1015.9,0.0,7.7,89,236
+2026-10-11 21:51,Buenos Aires,Argentina,América do Sul,13.2,11.1,9.3,16.1,77,12.8,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-10-11T06:16,2026-10-11T19:04,1020.4,0.0,42.2,70,116
+2026-10-11 18:51,Mexico City,México,América Central,16.4,17.8,14.2,20.4,92,1.5,0.1,51,Chuvisco,NightRain.webp,0,2026-10-11T06:29,2026-10-11T18:16,1018.4,0.3,9.7,100,187
+2026-10-11 20:51,Havana,Cuba,América Central,27.8,32.5,25.0,32.8,83,11.6,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-11T07:24,2026-10-11T19:07,1016.7,0.0,33.1,10,68
+2026-10-11 20:51,Miami,EUA,América do Norte,27.5,33.3,26.4,31.8,85,5.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-11T07:17,2026-10-11T18:57,1018.4,0.0,15.3,2,148
+2026-10-11 20:51,New York,EUA,América do Norte,13.8,12.5,13.5,15.5,96,15.8,0.5,61,Chuva,NightRain.webp,0,2026-10-11T07:02,2026-10-11T18:21,1011.9,0.0,12.3,100,61
+2026-10-12 01:51,London,Reino Unido,Europa,13.6,12.6,13.4,16.7,79,7.6,0.0,3,Nublado,NightOvercast.webp,0,2026-10-12T07:19,2026-10-12T18:13,1014.6,0.0,23.3,91,129
+2026-10-12 03:52,Cairo,Egito,África,19.3,20.4,18.2,30.1,76,4.0,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-12T06:54,2026-10-12T18:27,1013.8,0.0,35.1,4,350
+2026-10-12 11:52,Sydney,Austrália,Oceania,31.1,32.1,16.4,33.4,26,7.1,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-12T06:18,2026-10-12T19:05,1014.7,6.2,54.1,26,339
