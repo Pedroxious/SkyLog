@@ -18437,3 +18437,14 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-16 08:52,New York,EUA,América do Norte,17.5,17.0,13.8,21.9,91,17.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-16T07:08,2026-10-16T18:14,1012.6,0.0,13.0,100,199
 2026-10-16 13:52,London,Reino Unido,Europa,14.3,11.0,10.0,17.2,57,15.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-16T07:26,2026-10-16T18:05,1023.1,1.4,19.5,82,328
 2026-10-16 14:52,Paris,França,Europa,21.2,19.8,12.7,21.5,51,10.8,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-16T08:12,2026-10-16T18:59,1021.1,3.3,40.7,81,291
+2026-10-16 14:05,São Paulo,Brasil,América do Sul,25.1,26.2,16.9,25.2,64,14.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-16T05:32,2026-10-16T18:11,1009.7,5.5,29.4,100,288
+2026-10-16 14:05,Rio de Janeiro,Brasil,América do Sul,26.6,31.4,21.5,28.1,81,10.8,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-16T05:19,2026-10-16T17:57,1008.8,6.2,9.5,73,191
+2026-10-16 14:05,Buenos Aires,Argentina,América do Sul,15.7,13.2,11.3,16.2,61,13.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-16T06:10,2026-10-16T19:08,1022.5,6.6,10.6,100,180
+2026-10-16 11:05,Mexico City,México,América Central,17.8,18.0,13.5,21.4,70,3.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-16T06:31,2026-10-16T18:12,1018.6,6.1,23.5,100,332
+2026-10-16 13:05,Havana,Cuba,América Central,31.6,37.1,23.8,31.7,62,10.8,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-16T07:26,2026-10-16T19:02,1014.7,6.8,22.8,57,93
+2026-10-16 13:05,Miami,EUA,América do Norte,31.2,36.9,25.8,31.3,68,14.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-16T07:20,2026-10-16T18:52,1016.2,6.9,23.2,20,136
+2026-10-16 13:05,New York,EUA,América do Norte,19.1,18.9,13.8,21.7,90,19.2,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-16T07:08,2026-10-16T18:14,1008.8,1.6,14.2,100,233
+2026-10-16 18:05,London,Reino Unido,Europa,13.4,9.5,10.3,17.2,52,16.6,0.0,0,Céu limpo,DayClear.webp,1,2026-10-16T07:26,2026-10-16T18:05,1026.2,0.0,27.3,0,326
+2026-10-16 19:05,Paris,França,Europa,16.4,14.5,12.7,21.6,74,16.4,0.0,3,Nublado,NightOvercast.webp,0,2026-10-16T08:12,2026-10-16T18:59,1022.4,0.1,34.0,100,327
+2026-10-16 20:05,Moscow,Rússia,Europa,11.9,11.6,8.5,13.5,97,5.5,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-10-16T07:02,2026-10-16T17:27,1024.8,0.0,5.7,79,11
+2026-10-17 00:05,Bangkok,Tailândia,Ásia,25.7,31.5,25.4,32.2,95,4.8,0.0,3,Nublado,NightOvercast.webp,0,2026-10-17T06:09,2026-10-17T17:57,1011.8,0.0,11.4,91,312
