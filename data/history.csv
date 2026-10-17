@@ -18481,3 +18481,14 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-17 03:14,London,Reino Unido,Europa,8.9,5.9,8.4,13.8,76,12.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-17T07:27,2026-10-17T18:03,1030.9,0.0,26.4,0,344
 2026-10-17 04:14,Paris,França,Europa,10.7,8.6,9.2,16.2,80,9.9,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-10-17T08:13,2026-10-17T18:57,1026.8,0.0,30.6,0,341
 2026-10-17 05:14,Moscow,Rússia,Europa,9.3,8.6,8.8,14.5,97,3.1,0.0,45,Neblina,Mist.webp,0,2026-10-17T07:04,2026-10-17T17:24,1022.4,0.0,7.5,81,54
+2026-10-17 04:20,São Paulo,Brasil,América do Sul,17.0,18.3,15.6,22.3,96,6.0,0.1,51,Chuvisco,NightRain.webp,0,2026-10-17T05:31,2026-10-17T18:12,1010.8,0.0,5.1,100,226
+2026-10-17 04:20,Rio de Janeiro,Brasil,América do Sul,21.4,25.1,21.1,24.8,98,4.7,0.2,53,Chuvisco,NightRain.webp,0,2026-10-17T05:18,2026-10-17T17:58,1008.3,0.0,4.5,98,263
+2026-10-17 04:20,Buenos Aires,Argentina,América do Sul,8.8,5.9,8.1,13.7,83,13.0,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-10-17T06:08,2026-10-17T19:09,1021.7,0.0,42.3,70,186
+2026-10-17 01:20,Mexico City,México,América Central,13.7,12.8,11.5,17.3,87,9.8,0.0,3,Nublado,NightOvercast.webp,0,2026-10-17T06:31,2026-10-17T18:11,1022.2,0.0,15.7,100,355
+2026-10-17 03:20,Havana,Cuba,América Central,25.7,31.1,24.1,30.2,92,6.1,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-10-17T07:27,2026-10-17T19:02,1013.9,0.0,25.7,59,58
+2026-10-17 03:20,Miami,EUA,América do Norte,24.0,29.0,23.4,30.9,93,2.5,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-10-17T07:20,2026-10-17T18:51,1013.9,0.0,12.9,55,3
+2026-10-17 03:20,New York,EUA,América do Norte,12.4,9.1,3.3,17.4,69,17.3,0.0,3,Nublado,NightOvercast.webp,0,2026-10-17T07:09,2026-10-17T18:12,1012.0,0.0,25.0,100,343
+2026-10-17 08:20,London,Reino Unido,Europa,8.0,5.0,7.7,13.8,81,12.2,0.0,0,Céu limpo,DayClear.webp,1,2026-10-17T07:27,2026-10-17T18:03,1033.3,0.0,15.2,0,352
+2026-10-17 09:20,Paris,França,Europa,9.5,7.4,9.4,15.7,85,9.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-17T08:13,2026-10-17T18:57,1028.1,0.1,26.7,17,334
+2026-10-17 10:20,Moscow,Rússia,Europa,11.2,10.3,8.6,15.1,84,4.0,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-17T07:04,2026-10-17T17:24,1021.4,1.1,20.4,65,90
+2026-10-17 14:20,Bangkok,Tailândia,Ásia,31.8,38.9,25.4,32.4,68,2.2,0.3,95,Tempestade,Storm.webp,1,2026-10-17T06:09,2026-10-17T17:57,1008.8,7.2,17.7,100,132
