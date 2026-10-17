@@ -18471,3 +18471,13 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-17 02:08,Moscow,Rússia,Europa,10.3,9.7,8.8,14.5,97,3.4,0.0,45,Neblina,Mist.webp,0,2026-10-17T07:04,2026-10-17T17:24,1023.2,0.0,6.9,77,32
 2026-10-17 06:08,Bangkok,Tailândia,Ásia,25.8,31.8,25.1,32.7,94,3.2,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-10-17T06:09,2026-10-17T17:57,1011.2,0.0,12.8,61,344
 2026-10-17 08:08,Tokyo,Japão,Ásia,18.2,17.3,15.3,23.1,58,6.2,0.0,0,Céu limpo,DayClear.webp,1,2026-10-17T05:49,2026-10-17T17:04,1027.1,1.1,39.5,17,7
+2026-10-16 23:14,São Paulo,Brasil,América do Sul,17.9,19.8,17.6,25.8,96,4.4,0.5,80,Chuva,NightRain.webp,0,2026-10-16T05:32,2026-10-16T18:11,1012.4,0.0,4.2,100,263
+2026-10-16 23:14,Rio de Janeiro,Brasil,América do Sul,23.0,27.8,21.6,28.8,97,2.9,0.2,53,Chuvisco,NightRain.webp,0,2026-10-16T05:19,2026-10-16T17:57,1010.4,0.0,5.2,14,330
+2026-10-16 23:14,Buenos Aires,Argentina,América do Sul,11.4,8.9,11.2,15.4,71,11.0,0.0,3,Nublado,NightOvercast.webp,0,2026-10-16T06:10,2026-10-16T19:08,1023.0,0.0,47.0,95,184
+2026-10-16 20:14,Mexico City,México,América Central,15.4,14.4,13.3,22.0,89,14.4,0.6,80,Chuva,NightRain.webp,0,2026-10-16T06:31,2026-10-16T18:12,1019.9,0.0,2.6,100,31
+2026-10-16 22:14,Havana,Cuba,América Central,25.6,31.3,24.6,31.7,94,5.1,0.0,3,Nublado,NightOvercast.webp,0,2026-10-16T07:26,2026-10-16T19:02,1015.1,0.0,22.1,100,96
+2026-10-16 22:14,Miami,EUA,América do Norte,27.1,32.6,25.8,31.8,85,6.1,0.0,3,Nublado,NightOvercast.webp,0,2026-10-16T07:20,2026-10-16T18:52,1014.9,0.0,16.0,91,129
+2026-10-16 22:14,New York,EUA,América do Norte,17.7,18.0,13.8,22.5,82,8.4,0.0,3,Nublado,NightOvercast.webp,0,2026-10-16T07:08,2026-10-16T18:14,1007.0,0.0,17.5,100,265
+2026-10-17 03:14,London,Reino Unido,Europa,8.9,5.9,8.4,13.8,76,12.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-17T07:27,2026-10-17T18:03,1030.9,0.0,26.4,0,344
+2026-10-17 04:14,Paris,França,Europa,10.7,8.6,9.2,16.2,80,9.9,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-10-17T08:13,2026-10-17T18:57,1026.8,0.0,30.6,0,341
+2026-10-17 05:14,Moscow,Rússia,Europa,9.3,8.6,8.8,14.5,97,3.1,0.0,45,Neblina,Mist.webp,0,2026-10-17T07:04,2026-10-17T17:24,1022.4,0.0,7.5,81,54
