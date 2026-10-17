@@ -18492,3 +18492,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-17 09:20,Paris,França,Europa,9.5,7.4,9.4,15.7,85,9.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-17T08:13,2026-10-17T18:57,1028.1,0.1,26.7,17,334
 2026-10-17 10:20,Moscow,Rússia,Europa,11.2,10.3,8.6,15.1,84,4.0,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-17T07:04,2026-10-17T17:24,1021.4,1.1,20.4,65,90
 2026-10-17 14:20,Bangkok,Tailândia,Ásia,31.8,38.9,25.4,32.4,68,2.2,0.3,95,Tempestade,Storm.webp,1,2026-10-17T06:09,2026-10-17T17:57,1008.8,7.2,17.7,100,132
+2026-10-17 08:52,São Paulo,Brasil,América do Sul,16.9,17.4,15.8,21.8,87,6.7,0.1,51,Chuvisco,drizzle.webp,1,2026-10-17T05:31,2026-10-17T18:12,1014.0,0.3,7.9,100,171
+2026-10-17 08:52,Rio de Janeiro,Brasil,América do Sul,23.5,24.7,20.6,23.9,86,22.0,0.1,51,Chuvisco,drizzle.webp,1,2026-10-17T05:18,2026-10-17T17:58,1010.3,1.6,9.1,62,259
+2026-10-17 08:52,Buenos Aires,Argentina,América do Sul,9.7,5.9,8.2,13.1,63,15.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-17T06:08,2026-10-17T19:09,1023.4,1.1,50.6,89,183
+2026-10-17 05:52,Mexico City,México,América Central,11.8,10.3,11.7,17.2,87,9.9,0.0,3,Nublado,NightOvercast.webp,0,2026-10-17T06:31,2026-10-17T18:11,1024.0,0.0,11.5,100,323
+2026-10-17 07:52,Havana,Cuba,América Central,25.5,30.5,24.8,30.6,92,7.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-17T07:27,2026-10-17T19:02,1014.1,0.0,32.0,50,79
+2026-10-17 07:52,Miami,EUA,América do Norte,23.7,28.4,22.8,31.2,90,1.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-17T07:20,2026-10-17T18:51,1014.6,0.0,12.4,94,191
+2026-10-17 07:52,New York,EUA,América do Norte,9.5,6.1,4.1,17.4,68,13.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-17T07:09,2026-10-17T18:12,1017.8,0.0,24.5,100,356
+2026-10-17 12:52,London,Reino Unido,Europa,12.9,9.3,7.4,13.7,56,15.5,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-17T07:27,2026-10-17T18:03,1033.6,1.6,24.0,21,5
+2026-10-17 13:52,Paris,França,Europa,15.0,11.3,9.4,15.6,52,17.7,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-17T08:13,2026-10-17T18:57,1028.1,3.0,40.9,94,20
