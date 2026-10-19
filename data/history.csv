@@ -18649,3 +18649,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-19 04:38,Dubai,Emirados Árabes,Oriente Médio,28.7,35.2,28.0,34.9,85,5.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-19T06:19,2026-10-19T17:48,1011.8,0.0,11.7,26,86
 2026-10-19 03:38,Cairo,Egito,África,18.7,19.4,16.8,26.8,77,5.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-19T06:59,2026-10-19T18:20,1019.7,0.0,33.1,0,4
 2026-10-19 11:38,Sydney,Austrália,Oceania,20.4,21.6,12.3,20.7,60,9.8,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-19T06:09,2026-10-19T19:11,1028.1,6.3,13.0,20,73
+2026-10-19 02:30,São Paulo,Brasil,América do Sul,14.9,14.9,13.9,22.7,88,6.5,0.0,3,Nublado,NightOvercast.webp,0,2026-10-19T05:30,2026-10-19T18:13,1015.1,0.0,16.2,100,120
+2026-10-19 02:30,Rio de Janeiro,Brasil,América do Sul,20.1,21.4,19.9,23.3,93,13.9,0.1,51,Chuvisco,NightRain.webp,0,2026-10-19T05:16,2026-10-19T17:58,1014.0,0.0,4.8,100,176
+2026-10-19 02:30,Buenos Aires,Argentina,América do Sul,10.6,9.2,9.5,15.6,87,7.0,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-10-19T06:06,2026-10-19T19:11,1021.7,0.0,38.3,20,151
+2026-10-18 23:30,Mexico City,México,América Central,13.1,12.2,11.0,22.6,86,7.8,0.0,3,Nublado,NightOvercast.webp,0,2026-10-18T06:31,2026-10-18T18:10,1022.8,0.0,23.5,99,322
+2026-10-19 01:30,Havana,Cuba,América Central,24.7,28.6,22.8,28.3,93,13.0,0.0,3,Nublado,NightOvercast.webp,0,2026-10-19T07:28,2026-10-19T19:00,1014.6,0.0,15.5,80,66
+2026-10-19 01:30,Miami,EUA,América do Norte,24.3,24.8,22.9,28.9,73,19.9,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-10-19T07:21,2026-10-19T18:49,1016.6,0.0,18.0,65,57
+2026-10-19 01:30,New York,EUA,América do Norte,6.5,3.8,4.1,16.6,75,6.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-19T07:11,2026-10-19T18:09,1033.3,0.0,28.8,0,336
+2026-10-19 06:30,London,Reino Unido,Europa,10.1,8.5,9.9,12.8,84,7.2,0.0,3,Nublado,NightOvercast.webp,0,2026-10-19T07:31,2026-10-19T17:58,1026.0,0.0,10.6,92,96
+2026-10-19 07:30,Paris,França,Europa,5.6,3.8,5.3,13.9,92,2.6,0.0,45,Neblina,Mist.webp,0,2026-10-19T08:16,2026-10-19T18:53,1025.1,0.0,16.5,30,16
