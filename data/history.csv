@@ -18707,3 +18707,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-20 05:22,Dubai,Emirados Árabes,Oriente Médio,26.3,29.5,26.0,37.7,72,6.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-20T06:19,2026-10-20T17:47,1013.6,0.0,17.9,0,96
 2026-10-20 04:22,Cairo,Egito,África,16.6,17.1,15.9,27.8,78,2.6,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-10-20T07:00,2026-10-20T18:19,1020.4,0.0,34.4,8,344
 2026-10-20 12:22,Sydney,Austrália,Oceania,21.1,21.8,14.4,21.2,66,16.4,0.0,0,Céu limpo,DayClear.webp,1,2026-10-20T06:08,2026-10-20T19:12,1025.6,7.5,38.0,4,58
+2026-10-20 03:53,São Paulo,Brasil,América do Sul,12.8,12.6,12.8,23.8,96,6.0,0.0,3,Nublado,NightOvercast.webp,0,2026-10-20T05:29,2026-10-20T18:13,1018.6,0.0,12.6,98,127
+2026-10-20 03:53,Rio de Janeiro,Brasil,América do Sul,19.6,22.0,19.5,23.1,87,1.8,0.0,3,Nublado,NightOvercast.webp,0,2026-10-20T05:16,2026-10-20T17:59,1017.8,0.0,23.8,100,307
+2026-10-20 03:53,Buenos Aires,Argentina,América do Sul,12.0,10.0,11.4,18.7,83,12.0,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-20T06:05,2026-10-20T19:12,1020.3,0.0,42.5,1,73
+2026-10-20 00:53,Mexico City,México,América Central,11.3,10.2,9.0,22.0,91,7.1,0.0,3,Nublado,NightOvercast.webp,0,2026-10-20T06:32,2026-10-20T18:09,1022.8,0.0,28.0,98,344
+2026-10-20 02:53,Havana,Cuba,América Central,25.7,28.2,25.0,28.6,79,15.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-20T07:28,2026-10-20T18:59,1013.8,0.0,20.4,18,63
+2026-10-20 02:53,Miami,EUA,América do Norte,22.3,24.7,21.2,28.7,91,12.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-20T07:22,2026-10-20T18:48,1015.2,0.0,13.5,0,354
+2026-10-20 02:53,New York,EUA,América do Norte,8.1,5.1,5.9,20.0,71,9.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-20T07:12,2026-10-20T18:08,1023.5,0.0,22.7,0,15
+2026-10-20 07:53,London,Reino Unido,Europa,12.2,11.2,11.0,12.7,96,10.4,0.4,61,Chuva,DayRain.webp,1,2026-10-20T07:32,2026-10-20T17:56,1011.3,0.0,5.0,100,77
+2026-10-20 08:53,Paris,França,Europa,12.6,11.4,10.8,14.4,91,10.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-20T08:18,2026-10-20T18:51,1008.7,0.0,16.9,99,123
