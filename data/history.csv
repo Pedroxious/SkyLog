@@ -18786,3 +18786,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-21 11:51,London,Reino Unido,Europa,10.2,6.8,8.5,11.1,92,21.2,1.0,63,Chuva,DayRain.webp,1,2026-10-21T07:34,2026-10-21T17:54,998.1,0.3,6.9,100,274
 2026-10-21 12:52,Paris,França,Europa,13.1,9.8,8.4,14.5,70,18.5,0.0,61,Chuva,DayRain.webp,1,2026-10-21T08:20,2026-10-21T18:49,1008.4,1.1,37.7,100,246
 2026-10-21 13:52,Moscow,Rússia,Europa,10.3,7.4,2.2,11.0,52,6.4,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-21T07:12,2026-10-21T17:15,1035.9,2.0,41.1,59,106
+2026-10-21 12:45,São Paulo,Brasil,América do Sul,24.2,25.5,13.6,25.5,44,4.0,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-21T05:28,2026-10-21T18:14,1020.0,7.8,36.3,47,117
+2026-10-21 12:45,Rio de Janeiro,Brasil,América do Sul,23.8,25.9,20.3,24.2,71,16.9,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-21T05:15,2026-10-21T17:59,1021.1,8.7,21.0,34,133
+2026-10-21 12:45,Buenos Aires,Argentina,América do Sul,17.9,17.3,13.6,19.2,67,15.7,0.4,80,Chuva,DayRain.webp,1,2026-10-21T06:03,2026-10-21T19:13,1021.0,6.0,36.8,91,114
+2026-10-21 09:45,Mexico City,México,América Central,16.9,15.8,13.1,22.4,68,9.4,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-21T06:32,2026-10-21T18:08,1021.7,2.3,22.2,97,353
+2026-10-21 11:45,Havana,Cuba,América Central,26.4,28.8,23.8,27.5,70,16.4,0.1,51,Chuvisco,drizzle.webp,1,2026-10-21T07:29,2026-10-21T18:58,1015.5,1.9,6.2,33,44
+2026-10-21 11:45,Miami,EUA,América do Norte,26.6,29.2,19.0,28.4,59,10.9,0.0,0,Céu limpo,DayClear.webp,1,2026-10-21T07:22,2026-10-21T18:47,1016.3,4.3,31.9,0,20
+2026-10-21 11:45,New York,EUA,América do Norte,15.5,11.1,8.6,17.9,43,21.6,0.0,0,Céu limpo,DayClear.webp,1,2026-10-21T07:13,2026-10-21T18:06,1022.8,3.1,43.1,0,25
+2026-10-21 16:45,London,Reino Unido,Europa,10.3,6.6,8.7,11.5,76,19.4,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-21T07:34,2026-10-21T17:54,1004.2,0.2,15.6,100,258
+2026-10-21 17:45,Paris,França,Europa,13.3,9.3,8.4,14.6,58,19.2,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-21T08:20,2026-10-21T18:49,1013.1,1.6,40.3,22,253
