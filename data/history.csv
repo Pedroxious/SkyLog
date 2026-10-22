@@ -18855,3 +18855,12 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-22 13:38,London,Reino Unido,Europa,13.2,9.7,8.7,13.9,58,15.5,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-22T07:36,2026-10-22T17:52,1010.3,1.1,20.7,75,255
 2026-10-22 14:38,Paris,França,Europa,14.7,12.1,9.1,15.4,71,16.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-22T08:21,2026-10-22T18:47,1016.2,2.2,36.2,100,218
 2026-10-22 15:38,Moscow,Rússia,Europa,10.5,7.3,3.2,10.5,46,6.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-22T07:14,2026-10-22T17:12,1032.6,0.7,42.0,98,109
+2026-10-22 14:45,São Paulo,Brasil,América do Sul,25.5,25.3,16.1,25.8,49,9.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-22T05:27,2026-10-22T18:14,1016.0,5.5,22.8,99,220
+2026-10-22 14:45,Rio de Janeiro,Brasil,América do Sul,23.3,23.6,19.9,23.7,75,19.5,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-22T05:14,2026-10-22T18:00,1017.4,4.6,27.8,100,111
+2026-10-22 14:45,Buenos Aires,Argentina,América do Sul,20.8,19.6,15.3,20.9,67,18.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-22T06:02,2026-10-22T19:13,1012.3,2.2,16.7,100,100
+2026-10-22 11:45,Mexico City,México,América Central,18.5,18.4,12.1,21.3,64,11.7,0.1,51,Chuvisco,drizzle.webp,1,2026-10-22T06:33,2026-10-22T18:08,1019.7,4.9,9.5,54,343
+2026-10-22 13:45,Havana,Cuba,América Central,27.8,29.8,22.0,28.1,60,14.4,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-22T07:29,2026-10-22T18:57,1013.7,6.9,25.0,55,18
+2026-10-22 13:45,Miami,EUA,América do Norte,22.6,25.2,20.1,26.0,85,8.7,0.2,53,Chuvisco,drizzle.webp,1,2026-10-22T07:23,2026-10-22T18:46,1014.7,6.3,12.4,100,346
+2026-10-22 21:46,Dubai,Emirados Árabes,Oriente Médio,30.8,37.5,26.6,36.4,77,5.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-22T06:20,2026-10-22T17:45,1015.6,0.0,20.5,25,346
+2026-10-22 20:46,Cairo,Egito,África,24.0,25.0,18.8,29.0,68,12.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-10-22T07:01,2026-10-22T18:17,1017.8,0.0,37.3,46,10
+2026-10-23 04:46,Sydney,Austrália,Oceania,17.8,18.3,17.4,21.9,89,10.5,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-10-23T06:04,2026-10-23T19:14,1019.7,0.0,10.6,46,29
