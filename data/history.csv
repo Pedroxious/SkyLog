@@ -19247,3 +19247,15 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-27 14:04,Bangkok,Tailândia,Ásia,33.3,36.8,25.1,33.6,46,8.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-27T06:11,2026-10-27T17:52,1011.3,6.8,9.4,51,76
 2026-10-27 16:04,Tokyo,Japão,Ásia,20.4,22.3,15.8,20.5,77,1.8,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-27T05:58,2026-10-27T16:51,1004.5,0.3,34.4,64,127
 2026-10-27 11:04,Dubai,Emirados Árabes,Oriente Médio,31.1,36.2,27.2,32.9,61,4.3,0.0,0,Céu limpo,DayClear.webp,1,2026-10-27T06:23,2026-10-27T17:41,1016.0,5.3,23.2,99,66
+2026-10-27 10:46,São Paulo,Brasil,América do Sul,19.0,18.4,12.5,21.9,55,9.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-27T05:23,2026-10-27T18:17,1021.2,5.7,33.4,75,94
+2026-10-27 10:47,Rio de Janeiro,Brasil,América do Sul,22.7,23.9,18.9,22.8,60,10.9,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-10-27T05:10,2026-10-27T18:02,1021.6,6.3,35.1,72,153
+2026-10-27 10:47,Buenos Aires,Argentina,América do Sul,15.9,15.0,12.4,17.8,68,6.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-27T05:57,2026-10-27T19:18,1022.5,4.8,50.7,90,42
+2026-10-27 07:47,Mexico City,México,América Central,13.2,12.8,12.3,23.9,81,2.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-27T06:35,2026-10-27T18:05,1022.0,0.1,27.2,80,345
+2026-10-27 09:47,Havana,Cuba,América Central,24.9,26.9,22.8,27.5,84,20.2,0.1,51,Chuvisco,drizzle.webp,1,2026-10-27T07:32,2026-10-27T18:54,1014.0,0.2,6.4,33,35
+2026-10-27 09:47,Miami,EUA,América do Norte,26.5,27.0,23.4,28.5,73,27.9,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-27T07:26,2026-10-27T18:42,1014.4,0.9,20.8,100,39
+2026-10-27 09:47,New York,EUA,América do Norte,13.1,9.0,8.2,16.7,48,16.3,0.0,0,Céu limpo,DayClear.webp,1,2026-10-27T07:20,2026-10-27T17:58,1027.9,0.8,37.3,0,29
+2026-10-27 13:47,London,Reino Unido,Europa,15.4,11.9,10.3,16.8,56,18.4,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-10-27T06:45,2026-10-27T16:42,1012.1,0.8,19.0,41,245
+2026-10-27 14:47,Paris,França,Europa,16.8,16.2,10.8,17.2,78,10.2,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-27T07:29,2026-10-27T17:38,1015.9,2.1,32.3,100,222
+2026-10-27 16:47,Moscow,Rússia,Europa,9.4,5.9,2.9,10.3,36,4.8,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-27T07:25,2026-10-27T17:01,1030.7,0.6,45.5,84,132
+2026-10-27 20:47,Bangkok,Tailândia,Ásia,29.2,33.8,25.1,33.8,68,5.2,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-27T06:11,2026-10-27T17:52,1013.5,0.0,22.8,2,56
+2026-10-27 22:47,Tokyo,Japão,Ásia,17.4,16.6,15.8,20.3,68,8.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-10-27T05:58,2026-10-27T16:51,1007.6,0.0,37.2,25,351
