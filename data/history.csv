@@ -19353,3 +19353,15 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-10-29 01:25,London,Reino Unido,Europa,12.2,11.6,11.7,16.9,90,6.1,0.0,3,Nublado,NightOvercast.webp,0,2026-10-29T06:48,2026-10-29T16:39,1028.2,0.0,12.6,100,240
 2026-10-29 02:25,Paris,França,Europa,8.2,7.6,6.2,15.0,100,0.7,0.0,45,Neblina,Mist.webp,0,2026-10-29T07:32,2026-10-29T17:35,1029.0,0.0,0.2,99,180
 2026-10-29 04:25,Moscow,Rússia,Europa,4.2,1.1,3.6,11.4,60,3.4,0.0,3,Nublado,NightOvercast.webp,0,2026-10-29T07:29,2026-10-29T16:56,1032.2,0.0,29.8,93,122
+2026-10-29 04:50,São Paulo,Brasil,América do Sul,16.5,18.0,16.3,19.8,95,2.6,0.0,3,Nublado,NightOvercast.webp,0,2026-10-29T05:22,2026-10-29T18:18,1016.9,0.0,8.9,100,115
+2026-10-29 04:50,Rio de Janeiro,Brasil,América do Sul,20.7,23.6,20.6,23.2,91,3.9,0.1,51,Chuvisco,NightRain.webp,0,2026-10-29T05:09,2026-10-29T18:03,1016.0,0.0,6.7,100,28
+2026-10-29 04:50,Buenos Aires,Argentina,América do Sul,14.6,14.5,14.1,21.6,90,6.5,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-10-29T05:54,2026-10-29T19:20,1017.8,0.0,30.8,21,88
+2026-10-29 01:50,Mexico City,México,América Central,15.2,14.6,13.2,24.4,78,6.5,0.0,3,Nublado,NightOvercast.webp,0,2026-10-29T06:36,2026-10-29T18:04,1019.0,0.0,17.2,100,346
+2026-10-29 03:50,Havana,Cuba,América Central,23.7,28.6,23.6,29.2,95,2.8,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-29T07:33,2026-10-29T18:53,1011.4,0.0,26.0,2,198
+2026-10-29 03:50,Miami,EUA,América do Norte,24.2,27.8,24.0,28.6,88,9.4,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-29T07:27,2026-10-29T18:41,1012.5,0.0,15.5,0,33
+2026-10-29 03:50,New York,EUA,América do Norte,9.4,8.0,7.9,20.1,85,4.5,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-10-29T07:22,2026-10-29T17:55,1025.2,0.0,13.8,2,256
+2026-10-29 07:50,London,Reino Unido,Europa,12.7,12.6,12.5,16.6,88,2.2,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-29T06:48,2026-10-29T16:39,1029.5,0.0,3.4,100,10
+2026-10-29 08:50,Paris,França,Europa,6.3,5.1,5.7,15.1,100,1.6,0.0,45,Neblina,DayFog.webp,1,2026-10-29T07:32,2026-10-29T17:35,1029.4,0.0,0.1,97,333
+2026-10-29 10:50,Moscow,Rússia,Europa,6.8,4.0,3.2,11.0,65,5.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-29T07:29,2026-10-29T16:56,1032.9,0.8,27.9,79,140
+2026-10-29 14:50,Bangkok,Tailândia,Ásia,32.3,37.3,25.1,32.5,58,4.6,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-10-29T06:11,2026-10-29T17:51,1010.7,6.7,21.5,91,135
+2026-10-29 16:50,Tokyo,Japão,Ásia,16.0,16.0,9.9,17.6,72,2.3,0.1,51,Chuvisco,drizzle.webp,1,2026-10-29T06:00,2026-10-29T16:49,1024.8,0.5,29.1,82,321
