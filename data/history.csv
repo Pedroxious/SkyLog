@@ -19553,3 +19553,18 @@ datetime,city,country,continent,temp_c,feels_like_c,temp_min_c,temp_max_c,humidi
 2026-11-01 17:26,Tokyo,Japão,Ásia,18.0,17.9,11.6,20.3,62,2.6,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-11-01T06:03,2026-11-01T16:46,1017.6,0.1,38.2,59,146
 2026-11-01 12:26,Dubai,Emirados Árabes,Oriente Médio,35.0,37.1,26.7,35.3,25,0.8,0.0,0,Céu limpo,DayClear.webp,1,2026-11-01T06:26,2026-11-01T17:38,1016.1,6.2,29.7,0,27
 2026-11-01 10:26,Cairo,Egito,África,24.2,24.7,16.0,29.1,49,3.3,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-11-01T06:08,2026-11-01T17:08,1018.7,3.5,41.1,100,6
+2026-11-01 12:36,São Paulo,Brasil,América do Sul,24.8,27.6,16.3,26.7,68,8.0,1.0,96,Granizo,RainHail.webp,1,2026-11-01T05:20,2026-11-01T18:19,1014.8,9.1,4.9,81,337
+2026-11-01 12:36,Rio de Janeiro,Brasil,América do Sul,24.9,28.2,21.3,26.2,80,17.4,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-11-01T05:07,2026-11-01T18:05,1015.7,8.0,27.4,40,129
+2026-11-01 12:36,Buenos Aires,Argentina,América do Sul,20.6,21.1,17.6,23.1,74,9.7,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-11-01T05:51,2026-11-01T19:23,1011.6,2.1,18.4,100,274
+2026-11-01 09:36,Mexico City,México,América Central,18.2,17.3,12.8,26.0,52,2.2,0.0,2,Parcialmente nublado,DayPartialCloudy.webp,1,2026-11-01T06:37,2026-11-01T18:02,1022.7,2.5,45.3,64,14
+2026-11-01 11:36,Havana,Cuba,América Central,28.3,34.1,22.1,28.9,75,4.5,0.0,0,Céu limpo,DayClear.webp,1,2026-11-01T06:34,2026-11-01T17:51,1017.2,5.0,31.8,8,23
+2026-11-01 10:36,Miami,EUA,América do Norte,26.3,28.8,24.0,27.3,82,20.0,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-11-01T06:29,2026-11-01T17:39,1017.4,0.8,17.4,100,92
+2026-11-01 10:36,New York,EUA,América do Norte,12.1,10.8,4.7,15.6,64,1.5,0.0,1,Principalmente limpo,DayPartialClean.webp,1,2026-11-01T06:26,2026-11-01T16:52,1033.6,2.6,30.6,30,271
+2026-11-01 15:36,London,Reino Unido,Europa,11.8,9.6,9.0,12.0,73,10.1,0.0,3,Nublado,DayCumulusCongestus.webp,1,2026-11-01T06:53,2026-11-01T16:33,1032.9,0.1,5.8,89,13
+2026-11-01 16:36,Paris,França,Europa,13.3,10.3,6.5,13.8,55,11.0,0.0,0,Céu limpo,DayClear.webp,1,2026-11-01T07:37,2026-11-01T17:30,1029.5,1.2,40.5,1,23
+2026-11-01 18:36,Moscow,Rússia,Europa,2.2,-0.5,0.2,8.8,95,6.0,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-11-01T07:35,2026-11-01T16:50,1030.3,0.0,18.5,22,17
+2026-11-01 22:36,Bangkok,Tailândia,Ásia,28.8,34.2,24.8,34.7,76,5.1,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-11-01T06:12,2026-11-01T17:50,1014.7,0.0,20.4,4,132
+2026-11-02 00:36,Tokyo,Japão,Ásia,13.6,13.6,11.7,22.1,87,3.8,0.0,1,Principalmente limpo,NightPartialClean.webp,0,2026-11-02T06:04,2026-11-02T16:45,1015.7,0.0,27.9,30,319
+2026-11-01 19:36,Dubai,Emirados Árabes,Oriente Médio,30.3,34.4,26.7,35.3,66,10.9,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-11-01T06:26,2026-11-01T17:38,1016.0,0.0,24.1,0,343
+2026-11-01 17:36,Cairo,Egito,África,27.8,27.8,16.0,29.3,35,2.3,0.0,2,Parcialmente nublado,NightPartialCloudy.webp,0,2026-11-01T06:08,2026-11-01T17:08,1015.6,0.3,46.4,48,18
+2026-11-02 02:36,Sydney,Austrália,Oceania,17.4,19.3,16.1,22.9,90,0.3,0.0,0,Céu limpo,NightFullMoonClear.webp,0,2026-11-02T05:54,2026-11-02T19:23,1016.4,0.0,19.1,19,45
